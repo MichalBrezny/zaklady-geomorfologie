@@ -1,0 +1,242 @@
+\documentclass[]{skripta}
+
+\usepackage[czech]{babel}
+
+%\geometry{showframe}
+\usepackage{xargs}
+\usepackage[medium]{titlesec}
+
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{array}
+
+
+%reseni booktabs a cestina
+\usepackage{regexpatch}
+\makeatletter
+% Change the `-` delimiter to an active character
+\xpatchparametertext\@@@cmidrule{-}{\cA-}{}{}
+\xpatchparametertext\@cline{-}{\cA-}{}{}
+\makeatother
+%%%%%%%%%%%%%%%
+
+
+\usepackage{icomma}
+\usepackage{siunitx}
+\sisetup{output-decimal-marker = {,}, range-units=single, range-phrase=--}
+
+
+
+%jednotky SI
+\DeclareSIUnit\rok{rok}
+\DeclareSIUnit\den{den}
+
+
+\usepackage{amsmath}
+\usepackage{eqexpl} %explanation of formulas
+\eqexplSetDelim{=}
+
+\usepackage[version=4]{mhchem}
+
+\usepackage[nice]{nicefrac}
+
+\usepackage{longtable}
+
+%pdf landscape
+\usepackage{pdflscape}
+
+\usepackage{rotating}
+
+%centrování multirow tabulky
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+
+%float page only
+\renewcommand{\topfraction}{.75}
+
+
+
+%	Solve problem with czech babel
+%----------------------------------------------------------------------------------------------
+%
+%\makeatletter
+%\AtBeginDocument{%
+%	\@ifpackageloaded{amsthm}%
+%	{%
+%		\renewrobustcmd\mdf@patchamsthm{%
+%			\chardef\kludge@catcode@hyphen=\catcode`\-
+%			\catcode`\-=12
+%			\let\mdf@deferred@thm@head\deferred@thm@head
+%			\pretocmd{\deferred@thm@head}{\@inlabelfalse}%
+%			{\mdf@PackageInfo{mdframed detected package amsthm ^^J%
+%					changed the theorem header of amsthm\MessageBreak}%
+%			}{%
+%				\mdf@PackageError{mdframed detected package amsthm ^^J%
+%					changed the theorem header of amsthm
+%					failed\MessageBreak}%
+%			}%
+%			\catcode`\-=\kludge@catcode@hyphen
+%		}%
+%	}{}%
+%}
+%\makeatother
+
+
+%barevne boxy
+\usepackage{tcolorbox}
+\newtcolorbox{myboxred}{colback=red!5!white,colframe=red!75!black}
+
+\newtcolorbox{myboxgreen}{colback=prfgreen!5!white,colframe=prfgreen!75!black}
+
+\newtcolorbox{myboxgreenwide}[1]{float*=b,width=\textwidth,
+	colback=prfgreen!5!white,colframe=prfgreen!75!black,
+	fonttitle=\bfseries, title={#1},}
+
+
+%TO DO
+
+\usepackage[colorinlistoftodos,prependcaption]{todonotes}
+\newcommandx{\unsure}[2][1=]{\todo[linecolor=red,backgroundcolor=red!25,bordercolor=red,#1]{#2}}
+\newcommandx{\change}[2][1=]{\todo[linecolor=blue,backgroundcolor=blue!25,bordercolor=blue,#1]{#2}}
+\newcommandx{\info}[2][1=]{\todo[linecolor=OliveGreen,backgroundcolor=OliveGreen!25,bordercolor=OliveGreen,#1]{#2}}
+\newcommandx{\improvement}[2][1=]{\todo[linecolor=Plum,backgroundcolor=Plum!25,bordercolor=Plum,#1]{#2}}
+\newcommandx{\thiswillnotshow}[2][1=]{\todo[disable,#1]{#2}}
+
+
+%emph
+\DeclareEmphSequence{\bfseries,\itshape,\upshape}
+
+
+
+%hyperref
+\usepackage[hidelinks]{hyperref}
+
+\graphicspath{ {./obrazky/} }
+
+\title{Základy geomorfologie}
+\newcommand{\booksubtitle}{pro učitele}
+%\newcommand{\booklicense}{Creative Commons Zero 1.0 Universal}
+
+\author{Michal Břežný}
+
+
+
+
+
+
+% Add bibliography
+\addbibresource{mainbib.bib}
+\addbibresource{other.bib}
+
+%Append keywords to identify different bibliography entries.
+\DeclareSourcemap{
+	\maps[datatype=bibtex, overwrite=true]{
+		\map{
+			\perdatasource{mainbib.bib}
+			\step[fieldset=keywords, fieldvalue={,mainbib}, append]
+%			\step[fieldset=KEYWORDS, fieldvalue={, nocitethis}, append]
+		}
+		\map{
+			\perdatasource{other.bib}
+			\step[fieldset=keywords, fieldvalue={,otherbib}, append]
+		}
+	}
+}
+
+\nocite{*}
+
+
+% Content Starts Here
+\begin{document}
+
+
+		
+	\onecolumn
+	\input{text/title}
+	\pagestyle{empty}	
+	\clearpage
+
+	\frontmatter
+
+	\pagestyle{fancy}
+	\input{text/preface} 
+	
+	
+	% Three-level Table of Contents
+	\setcounter{tocdepth}{2}
+%	\listoftodos[Notes]
+	\tableofcontents
+	
+	\mainmatter
+	\twocolumn
+	%%%%%%%%%%%%%%%%%%%%%%
+	\part{Úvod}
+	
+	\chapter{Geomorfologie jako vědní disciplína}
+	\input{text/uvod}
+	
+	\chapter{Základní koncepty}
+	\input{text/zakl_konc}
+	%%%%%%%%%%%%%%%%%%%%%%
+	\part{Endogenní procesy a formy reliéfu}
+	
+	\chapter{Stavba Země a globální strukturní geomorfologie}
+	\input{text/globalni}
+		
+	\chapter{Tektonické formy a procesy}
+	\input{text/tektonicka}
+
+	\chapter{Magmatismus, vulkanické procesy a tvary reliéfu}
+	\input{text/sopky}
+
+	%%%%%%%%%%%%%%%%%%%%%%
+	\part{Exogenní procesy a formy reliéfu}
+
+	\chapter{Zvětrávání}
+	\input{text/zvetravani}
+
+
+	\chapter{Svahy a svahové procesy}
+	\input{text/svahy}
+
+	\chapter{Fluviální procesy a formy reliéfu}
+	\input{text/fluvial}
+
+	\chapter{Povodí, údolní síť a jezera}
+	\input{text/povodi}
+
+	\chapter{Krasové procesy a formy reliéfu}
+	\input{text/kras}
+	
+	
+	\chapter{Glaciální procesy a formy}
+	\input{text/glac}
+	
+	\chapter{Periglaciální procesy a formy}
+	\input{text/periglac}
+	
+	\chapter{Eolické procesy a a formy reliéfu}
+	\input{text/eolicka}
+
+	\chapter{Pobřežní procesy a formy reliéfu}
+	\input{text/marinni}
+
+%	\chapter{Antropogenní geomorfologie}
+%	\input{text/antropo}
+	
+%	\part{Metody}
+%	\chapter{Klimatická geomorfologie}
+%	\input{text/klimaticka}
+%	
+%	\chapter{Dlouhodobý vývoj reliéfu}
+%	\input{text/vyvoj}
+%	
+%	\chapter{Metody výzkumu georeliéfu}
+%	\input{text/metody}
+	
+\printbibliography[heading=bibintoc, title={Hlavní zdroje a další čtení}, keyword=mainbib]
+\printbibliography[heading=bibintoc, title={Ostatní zdroje citované v textu}, keyword=otherbib]
+	
+\backmatter
+%	\addcontentsline{toc}{chapter}{Index}
+	
+\end{document}
