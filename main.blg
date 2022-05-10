@@ -1,24 +1,24 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'main.blg'
-[119] biber-MSWIN64:340> INFO - === 
-[162] Biber.pm:415> INFO - Reading 'main.bcf'
-[307] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[325] Biber.pm:4340> INFO - Processing section 0
-[338] Biber.pm:4531> INFO - Looking for bibtex format file 'mainbib.bib' for section 0
-[393] bibtex.pm:1689> INFO - LaTeX decoding ...
-[436] bibtex.pm:1494> INFO - Found BibTeX data source 'mainbib.bib'
-[499] Utils.pm:395> WARN - ISBN '978-1-119-13281-3 978-1-119-13279-0' in entry 'frenchPeriglacialEnvironment2017' is invalid - run biber with '--validate_datamodel' for details.
-[518] Utils.pm:395> WARN - ISBN '978-0-521-87445-8 978-0-521-69671-5' in entry 'davidson-arnottIntroductionCoastalProcesses2010a' is invalid - run biber with '--validate_datamodel' for details.
-[530] Utils.pm:395> WARN - ISBN '978-1-138-94064-2 978-1-138-94065-9' in entry 'huggettFundamentalsGeomorphology2017' is invalid - run biber with '--validate_datamodel' for details.
-[542] Utils.pm:395> WARN - ISBN '978-0-203-94711-1 978-0-415-39084-2 978-0-415-39083-5' in entry 'huggettFundamentalsGeomorphology2007' is invalid - run biber with '--validate_datamodel' for details.
-[545] Utils.pm:395> WARN - ISBN '978-0-470-51729-1 978-0-470-51730-7' in entry 'birdCoastalGeomorphologyIntroduction2008' is invalid - run biber with '--validate_datamodel' for details.
-[563] Biber.pm:4531> INFO - Looking for bibtex format file 'other.bib' for section 0
-[626] bibtex.pm:1689> INFO - LaTeX decoding ...
-[715] bibtex.pm:1494> INFO - Found BibTeX data source 'other.bib'
-[719] Utils.pm:395> WARN - Duplicate entry key: 'taylorHydrogeologicCharacterizationMethods2008' in file 'other.bib', skipping ...
-[1056] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1056] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1056] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'cs-CZ'
-[1125] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1193] bbl.pm:757> INFO - Output to main.bbl
-[1194] Biber.pm:128> INFO - WARNINGS: 6
+[155] biber-MSWIN64:340> INFO - === 
+[200] Biber.pm:415> INFO - Reading 'main.bcf'
+[337] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[354] Biber.pm:4340> INFO - Processing section 0
+[366] Biber.pm:4531> INFO - Looking for bibtex format file 'mainbib.bib' for section 0
+[435] bibtex.pm:1689> INFO - LaTeX decoding ...
+[479] bibtex.pm:1494> INFO - Found BibTeX data source 'mainbib.bib'
+[534] Utils.pm:395> WARN - ISBN '978-0-203-94711-1 978-0-415-39084-2 978-0-415-39083-5' in entry 'huggettFundamentalsGeomorphology2007' is invalid - run biber with '--validate_datamodel' for details.
+[548] Utils.pm:395> WARN - ISBN '978-1-138-94064-2 978-1-138-94065-9' in entry 'huggettFundamentalsGeomorphology2017' is invalid - run biber with '--validate_datamodel' for details.
+[570] Utils.pm:395> WARN - ISBN '978-1-119-13281-3 978-1-119-13279-0' in entry 'frenchPeriglacialEnvironment2017' is invalid - run biber with '--validate_datamodel' for details.
+[579] Utils.pm:395> WARN - ISBN '978-0-470-51729-1 978-0-470-51730-7' in entry 'birdCoastalGeomorphologyIntroduction2008' is invalid - run biber with '--validate_datamodel' for details.
+[582] Utils.pm:395> WARN - ISBN '978-0-521-87445-8 978-0-521-69671-5' in entry 'davidson-arnottIntroductionCoastalProcesses2010a' is invalid - run biber with '--validate_datamodel' for details.
+[600] Biber.pm:4531> INFO - Looking for bibtex format file 'other.bib' for section 0
+[662] bibtex.pm:1689> INFO - LaTeX decoding ...
+[748] bibtex.pm:1494> INFO - Found BibTeX data source 'other.bib'
+[752] Utils.pm:395> WARN - Duplicate entry key: 'taylorHydrogeologicCharacterizationMethods2008' in file 'other.bib', skipping ...
+[1095] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1095] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1095] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'cs-CZ'
+[1164] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1232] bbl.pm:757> INFO - Output to main.bbl
+[1232] Biber.pm:128> INFO - WARNINGS: 6

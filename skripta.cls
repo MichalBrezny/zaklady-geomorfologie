@@ -31,8 +31,8 @@
 	paper=a4paper, 
 	top=1.5cm, 
 	bottom=2cm, 
-	inner=2cm, 
-	outer=2cm, 
+	inner=2.5cm, 
+	outer=1.8cm, 
 	headheight=14pt, 
 	footskip=1cm, 
 	headsep=10pt,
@@ -94,20 +94,8 @@
 \renewcommand*{\bibfont}{\small}
 \appto{\bibsetup}{\raggedright}
 
-
-
-
-
-
-
-
-%	Hyperlinks
-%----------------------------
-
-
-%	THEOREM STYLES
-%----------------------------------------------------------------------------------------
-
+%Math
+%------------------------------
 \RequirePackage{amsmath} % For math equations, theorems, symbols, etc
 \RequirePackage{amsfonts}
 \RequirePackage{amssymb}
