@@ -105,6 +105,10 @@
 %emph
 \DeclareEmphSequence{\bfseries,\itshape,\upshape}
 
+%index
+\usepackage{imakeidx}
+\makeindex[title=Rejstřík, intoc]
+
 
 
 %hyperref
@@ -112,6 +116,11 @@
 
 \graphicspath{ {./obrazky/} }
 
+
+
+
+
+%udaje o knize
 \title{Základy geomorfologie}
 \newcommand{\booksubtitle}{pro učitele}
 %\newcommand{\booklicense}{Creative Commons Zero 1.0 Universal}
@@ -140,8 +149,10 @@
 \nocite{*}
 
 
+
 % Content Starts Here
 \begin{document}
+
 
 
 		
@@ -168,7 +179,7 @@
 	
 	\chapter{Geomorfologie jako vědní disciplína}
 	\input{text/uvod}
-	
+	\index{balabla}
 	\chapter{Základní koncepty}
 	\input{text/zakl_konc}
 	%%%%%%%%%%%%%%%%%%%%%%
@@ -231,7 +242,9 @@
 \printbibliography[heading=bibintoc, title={Hlavní zdroje a další čtení}, keyword=mainbib]
 \printbibliography[heading=bibintoc, title={Ostatní zdroje citované v textu}, keyword=otherbib]
 	
-\backmatter
-%	\addcontentsline{toc}{chapter}{Index}
+%\backmatter
+\clearpage
+\printindex
+
 	
 \end{document}

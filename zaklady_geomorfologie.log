@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.25)  10 MAY 2022 17:58
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.25)  21 SEP 2022 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1155,6 +1155,20 @@ File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 \c@@todonotes@numberoftodonotes=\count478
 )
+(C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/imakeidx\imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+\zaklady_geomorfologie@idxfile=\write5
+\openout5 = `zaklady_geomorfologie.idx'.
+
+Writing index file zaklady_geomorfologie.idx
 (C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
 
@@ -1273,31 +1287,31 @@ LaTeX Warning: Label `key' multiply defined.
 )
 \openout1 = `zaklady_geomorfologie.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 144.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 154.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-44.
+54.
  (C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1348,14 +1362,14 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'zaklady_geomorfologie.bbl' found.
  (zaklady_geomorfologie.bbl)
-Package biblatex Info: Reference section=0 on input line 144.
-Package biblatex Info: Reference segment=0 on input line 144.
+Package biblatex Info: Reference section=0 on input line 154.
+Package biblatex Info: Reference segment=0 on input line 154.
 Package translations Info: no dictionary file `translations-basic-dictionary-cz
-ech.trsl' found. on input line 144.
+ech.trsl' found. on input line 154.
 
-Package chemgreek Info: Activating mapping `default' on line 144.
+Package chemgreek Info: Activating mapping `default' on line 154.
 
-Package hyperref Info: Link coloring OFF on input line 144.
+Package hyperref Info: Link coloring OFF on input line 154.
 
 (C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1369,12 +1383,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count491
 )
-LaTeX Info: Redefining \ref on input line 144.
-LaTeX Info: Redefining \pageref on input line 144.
-LaTeX Info: Redefining \nameref on input line 144.
+LaTeX Info: Redefining \ref on input line 154.
+LaTeX Info: Redefining \pageref on input line 154.
+LaTeX Info: Redefining \nameref on input line 154.
  (zaklady_geomorfologie.out) (zaklady_geomorfologie.out)
-\@outlinefile=\write5
-\openout5 = `zaklady_geomorfologie.out'.
+\@outlinefile=\write6
+\openout6 = `zaklady_geomorfologie.out'.
 
 
 (text/title.tex
@@ -1386,7 +1400,11 @@ File: obrazky/logo/logo_cze.png Graphic file (type bmp)
 ] [2
 
 
-] (text/preface.tex) (zaklady_geomorfologie.toc
+] (text/preface.tex) [1
+
+] [2
+
+] (zaklady_geomorfologie.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 
 (C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -1397,13 +1415,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 (C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-[1
+[3] [4] [5])
+\tf@toc=\write7
+\openout7 = `zaklady_geomorfologie.toc'.
 
-] [2] [3])
-\tf@toc=\write6
-\openout6 = `zaklady_geomorfologie.toc'.
-
- [4] [1
+ [6] [1
 
 
 
@@ -1421,14 +1437,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \hbox (badness 1622) in paragraph at lines 30--30
 []|\TU/lmr/m/n/10.95 Vliv půdních vlastností na stabilitu
  []
-
-
-LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999' on pag
-e 3 undefined on input line 31.
-
-
-LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999' on pag
-e 3 undefined on input line 31.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1490,27 +1498,8 @@ Kapitola 2.
 File: obrazky/uvod/zmeny_vysky.pdf Graphic file (type pdf)
 <use obrazky/uvod/zmeny_vysky.pdf>
 
-
-LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999' on pag
-e 7 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999' on pag
-e 7 undefined on input line 18.
-
-
-Underfull \hbox (badness 1297) in paragraph at lines 18--18
-[]\TU/lmr/m/n/10.95 Obrázek 2.1: []Schéma znázorňující změny v
- []
-
-
 Underfull \hbox (badness 1226) in paragraph at lines 18--18
 \TU/lmr/m/n/10.95 energie, mínus značí opak. Upraveno podle
- []
-
-
-Overfull \hbox (58.84004pt too wide) in paragraph at lines 18--18
-[] 
  []
 
 
@@ -1821,6 +1810,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 
 Underfull \hbox (badness 10000) in paragraph at lines 65--65
 []|\TU/lmr/m/n/9 Rozsáhlé sopečné
+ []
+
+
+LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999a' on pa
+ge 30 undefined on input line 66.
+
+
+LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999a' on pa
+ge 30 undefined on input line 66.
+
+
+Overfull \hbox (22.33394pt too wide) in paragraph at lines 66--66
+[]\TU/lmr/m/n/10.95 Tabulka 5.1: []Typy erupcí (upraveno podle []). 
  []
 
 
@@ -2165,12 +2167,11 @@ Underfull \hbox (badness 2158) in paragraph at lines 63--64
 [][]\TU/lmr/m/n/10.95 tíhové zrychlení hydraulický poloměr
  []
 
-[54]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 101.
 
-
+[54]
 Underfull \hbox (badness 4316) in paragraph at lines 116--116
 |[]\TU/lmr/bx/n/14.4 Energie, práce a výkon
  []
@@ -2206,35 +2207,11 @@ Underfull \hbox (badness 1845) in paragraph at lines 211--212
 [56]
 File: obrazky/fluvial/sily_klast.pdf Graphic file (type pdf)
 <use obrazky/fluvial/sily_klast.pdf>
-
-
-LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999' on pag
-e 57 undefined on input line 222.
-
-
-LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999' on pag
-e 57 undefined on input line 222.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-[]\TU/lmr/m/n/10.95 Obrázek 8.4: []Síly působící
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-\TU/lmr/m/n/10.95 na klast ve vodním toku
- []
-
-
-Overfull \hbox (66.14369pt too wide) in paragraph at lines 222--222
-[]\TU/lmr/m/n/10.95 ). 
- []
-
 File: obrazky/fluvial/hjulstr.pdf Graphic file (type pdf)
 <use obrazky/fluvial/hjulstr.pdf>
 File: obrazky/fluvial/lanes_balance.jpg Graphic file (type bmp)
 <obrazky/fluvial/lanes_balance.jpg>
-[57] [58]
+ [57] [58]
 Underfull \hbox (badness 1009) in paragraph at lines 247--248
 []\TU/lmr/bx/n/10.95 Dnové splaveniny \TU/lmr/m/n/10.95 (\TU/lmr/m/it/10.95 bed
  load\TU/lmr/m/n/10.95 ) jsou sedi-
@@ -2247,6 +2224,13 @@ File: obrazky/fluvial/mendry_sinusoita.pdf Graphic file (type pdf)
 <use obrazky/fluvial/mendry_sinusoita.pdf>
 File: obrazky/fluvial/divocici.jpg Graphic file (type bmp)
 <obrazky/fluvial/divocici.jpg>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
 
 Underfull \hbox (badness 1675) in paragraph at lines 332--333
 []\TU/lmr/bx/n/10.95 Soutěsky \TU/lmr/m/n/10.95 (hluboké soutěsky = kaňony),
@@ -2270,9 +2254,12 @@ File: obrazky/fluvial/meander.jpg Graphic file (type bmp)
 <obrazky/fluvial/meander.jpg>
 File: obrazky/fluvial/Alluvial_fan.jpg Graphic file (type bmp)
 <obrazky/fluvial/Alluvial_fan.jpg>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: obrazky/fluvial/bajada.jpg Graphic file (type bmp)
 <obrazky/fluvial/bajada.jpg>
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2385,14 +2372,6 @@ Underfull \hbox (badness 2237) in paragraph at lines 1--8
 
 File: obrazky/glac/ledovec_mass_balance.pdf Graphic file (type pdf)
 <use obrazky/glac/ledovec_mass_balance.pdf>
-
-LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999' on pag
-e 71 undefined on input line 44.
-
-
-LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999' on pag
-e 71 undefined on input line 44.
-
 
 Underfull \hbox (badness 3815) in paragraph at lines 49--50
 \TU/lmr/m/n/10.95 limitované reliéfem (např. Grónský ledový
@@ -2707,7 +2686,16 @@ Underfull \vbox (badness 6608) has occurred while \output is active []
 
 ] [100
 
-] [101] [102] (zaklady_geomorfologie.aux)
+] [101] [102]
+runsystem(makeindex zaklady_geomorfologie.idx)...executed safely (allowed).
+
+ (zaklady_geomorfologie.ind [103
+
+
+
+
+])
+(zaklady_geomorfologie.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -2715,7 +2703,7 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `zaklady_geomorfologie.out' has not changed.
-(rerunfilecheck)             Checksum: F3FABF9B9C47A68DBBC6A586E1136676;27575.
+(rerunfilecheck)             Checksum: CA86A653B8C7278038FA808E88793CD8;27674.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                zaklady_geomorfologie
@@ -2726,12 +2714,12 @@ Package logreq Info: Writing requests to 'zaklady_geomorfologie.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40058 strings out of 410939
- 832437 string characters out of 2823123
- 1529815 words of memory out of 3000000
- 60121 multiletter control sequences out of 15000+600000
+ 40161 strings out of 410939
+ 834202 string characters out of 2823123
+ 1531781 words of memory out of 3000000
+ 60213 multiletter control sequences out of 15000+600000
  477687 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,16n,96p,3206b,5645s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 99i,16n,96p,3206b,5643s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on zaklady_geomorfologie.pdf (108 pages).
+Output written on zaklady_geomorfologie.pdf (111 pages).
