@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.25)  21 SEP 2022 10:35
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.4.25)  23 JAN 2023 17:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1276,6 +1276,20 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip120
 )
+(C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks54
+\minrowclearance=\skip121
+)
+(C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.cod
+e.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
+\tcb@waterbox=\box135
+
+(C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigs
+aw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
+))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1287,31 +1301,31 @@ LaTeX Warning: Label `key' multiply defined.
 )
 \openout1 = `zaklady_geomorfologie.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 154.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 178.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-54.
+78.
  (C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1362,14 +1376,14 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'zaklady_geomorfologie.bbl' found.
  (zaklady_geomorfologie.bbl)
-Package biblatex Info: Reference section=0 on input line 154.
-Package biblatex Info: Reference segment=0 on input line 154.
+Package biblatex Info: Reference section=0 on input line 178.
+Package biblatex Info: Reference segment=0 on input line 178.
 Package translations Info: no dictionary file `translations-basic-dictionary-cz
-ech.trsl' found. on input line 154.
+ech.trsl' found. on input line 178.
 
-Package chemgreek Info: Activating mapping `default' on line 154.
+Package chemgreek Info: Activating mapping `default' on line 178.
 
-Package hyperref Info: Link coloring OFF on input line 154.
+Package hyperref Info: Link coloring OFF on input line 178.
 
 (C:\Users\Brezny\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1383,9 +1397,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count491
 )
-LaTeX Info: Redefining \ref on input line 154.
-LaTeX Info: Redefining \pageref on input line 154.
-LaTeX Info: Redefining \nameref on input line 154.
+LaTeX Info: Redefining \ref on input line 178.
+LaTeX Info: Redefining \pageref on input line 178.
+LaTeX Info: Redefining \nameref on input line 178.
  (zaklady_geomorfologie.out) (zaklady_geomorfologie.out)
 \@outlinefile=\write6
 \openout6 = `zaklady_geomorfologie.out'.
@@ -1442,13 +1456,13 @@ Underfull \hbox (badness 1622) in paragraph at lines 30--30
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 48--50
+Underfull \hbox (badness 1014) in paragraph at lines 46--48
 \TU/lmr/m/n/10.95 který v práci \TU/lmr/m/it/10.95 Principles of Geology \TU/lm
 r/m/n/10.95 vypra-
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 51--52
+Underfull \hbox (badness 1033) in paragraph at lines 49--50
 []\TU/lmr/bx/n/10.95 Jednota procesů: \TU/lmr/m/n/10.95 pokud lze vysvětlit
  []
 
@@ -1459,17 +1473,17 @@ Underfull \hbox (badness 1033) in paragraph at lines 51--52
 File: obrazky/uvod/davies.jpeg Graphic file (type bmp)
 <obrazky/uvod/davies.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
 []\TU/lmr/m/n/10.95 Obrázek 1.2: []William Morris Davies
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
 \TU/lmr/m/n/10.95 (zdroj: Bibliothèque nationale de France
  []
 
 
-Overfull \hbox (8.49196pt too wide) in paragraph at lines 66--66
+Overfull \hbox (8.49196pt too wide) in paragraph at lines 64--64
 \TU/lmr/m/n/10.95 https://gallica.bnf.fr/ark:/12148/btv1b8453640z,
  []
 
@@ -1477,12 +1491,12 @@ Overfull \hbox (8.49196pt too wide) in paragraph at lines 66--66
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 80--82
+Underfull \hbox (badness 6978) in paragraph at lines 78--80
 \TU/lmr/m/n/10.95 Geomorfologii můžeme rozdělit podrobněji
  []
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 86--87
+Underfull \hbox (badness 1577) in paragraph at lines 84--85
 []\TU/lmr/bx/n/10.95 Antropogenní geomorfologie \TU/lmr/m/n/10.95 studuje
  []
 
@@ -1512,13 +1526,17 @@ File: obrazky/uvod/frekvence.jpg Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [9
+[9
 
 ] [10] [11
 
 
+]) [12
 
-] [12]
+
+] [13
+
+] [14]
 Kapitola 3.
 (text/globalni.tex
 File: ./obrazky//./tectonic/Earth_cutaway_schematic-en.pdf Graphic file (type p
@@ -1602,19 +1620,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--61
 []|\TU/lmr/m/n/10.95 Zlomová zóna,
  []
 
-[13
+File: obrazky/tectonic/global_seismicity_h.jpg Graphic file (type bmp)
+<obrazky/tectonic/global_seismicity_h.jpg>
+[15
 
 
 ]
-File: obrazky/tectonic/global_seismicity_h.jpg Graphic file (type bmp)
-<obrazky/tectonic/global_seismicity_h.jpg>
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: obrazky/tectonic/isostasy.jpg Graphic file (type bmp)
 <obrazky/tectonic/isostasy.jpg>
-[14]
+[16]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1640,18 +1657,18 @@ Underfull \hbox (badness 1048) in paragraph at lines 102--103
  []
 
 
-Underfull \vbox (badness 2310) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
-[16]
+ [17]
+[18]
 File: obrazky/tectonic/World_geologic_provinces.jpg Graphic file (type bmp)
 <obrazky/tectonic/World_geologic_provinces.jpg>
-) [17
+ [19
 
-] [18] [19] [20
+] [20] [21] [22
 
 
-]
+])
 Kapitola 4.
 (text/tektonicka.tex
 File: obrazky/tectonic/zlomy.png Graphic file (type bmp)
@@ -1665,7 +1682,10 @@ Underfull \hbox (badness 1533) in paragraph at lines 53--54
 \TU/lmr/m/n/10.95 vostranný (sinistrální). Orientaci zlomu po-
  []
 
-[21]
+[23
+
+
+]
 File: obrazky/tectonic/san_andreas.jpg Graphic file (type bmp)
 <obrazky/tectonic/san_andreas.jpg>
 
@@ -1681,7 +1701,7 @@ Underfull \hbox (badness 2443) in paragraph at lines 66--67
 
 File: obrazky/tectonic/pokles.jpg Graphic file (type bmp)
 <obrazky/tectonic/pokles.jpg>
-[22]
+[24]
 Underfull \hbox (badness 1107) in paragraph at lines 89--90
 \TU/lmr/m/n/10.95 zlomech je \TU/lmr/bx/n/10.95 zlomový sráz, stupeň \TU/lmr/m/
 n/10.95 („   fault
@@ -1707,9 +1727,10 @@ Underfull \hbox (badness 1048) in paragraph at lines 125--126
 []\TU/lmr/m/n/10.95 Jedním z důsledků horizontálního posunu
  []
 
-[23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+Underfull \vbox (badness 1769) has occurred while \output is active []
+
+ [25]
 File: obrazky/tectonic/fold_parts.pdf Graphic file (type pdf)
 <use obrazky/tectonic/fold_parts.pdf>
 
@@ -1720,12 +1741,12 @@ Underfull \hbox (badness 1888) in paragraph at lines 143--143
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24]
+[26]
 Underfull \hbox (badness 1502) in paragraph at lines 168--169
 \TU/lmr/m/n/10.95 vrásy. Jedná se o vrásové struktury, které
  []
 
-[25]
+[27]
 File: obrazky/tectonic/zagros.jpg Graphic file (type bmp)
 <obrazky/tectonic/zagros.jpg>
 
@@ -1740,12 +1761,16 @@ File: obrazky/tectonic/strukturni_tvary.png Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [26] [27] [28
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [28]
+[29] [30
 
 ]
 Kapitola 5.
 (text/sopky.tex
-Underfull \hbox (badness 1158) in paragraph at lines 5--6
+Underfull \hbox (badness 1158) in paragraph at lines 6--7
 \TU/lmr/m/n/10.95 niny. Batolity jsou často v podloží nejvyš-
  []
 
@@ -1767,7 +1792,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
+ [31]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 39.
@@ -1814,11 +1839,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 
 
 LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999a' on pa
-ge 30 undefined on input line 66.
+ge 32 undefined on input line 66.
 
 
 LaTeX Warning: Citation 'summerfieldGlobalGeomorphologyIntroduction1999a' on pa
-ge 30 undefined on input line 66.
+ge 32 undefined on input line 66.
 
 
 Overfull \hbox (22.33394pt too wide) in paragraph at lines 66--66
@@ -1836,7 +1861,7 @@ File: obrazky/sopky/puma.jpg Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[30]
+[32]
 File: obrazky/sopky/pyroclastic.jpg Graphic file (type bmp)
 <obrazky/sopky/pyroclastic.jpg>
 
@@ -1861,7 +1886,7 @@ Underfull \hbox (badness 2753) in paragraph at lines 122--123
 
 Underfull \vbox (badness 2065) has occurred while \output is active []
 
- [31]
+ [33]
 File: obrazky/sopky/Stratovolcano_cross-section.svg.png Graphic file (type bmp)
 
 <obrazky/sopky/Stratovolcano_cross-section.svg.png>
@@ -1899,10 +1924,14 @@ Underfull \hbox (badness 2057) in paragraph at lines 164--164
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [32] [33] [34] [35
+[34] [35] [36] [37
+
+]) [38
 
 
-] [36]
+] [39
+
+] [40]
 Kapitola 6.
 (text/zvetravani.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--4
@@ -1916,7 +1945,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--18
 |[]\TU/lmr/bx/n/12 Fyzikální zvětrávání vlivem
  []
 
-[37
+[41
 
 
 ]
@@ -1932,7 +1961,7 @@ Underfull \hbox (badness 2027) in paragraph at lines 46--47
 []\TU/lmr/m/n/10.95 Mobilita kationtů v minerálech ovlivňuje
  []
 
-[38]
+[42]
 File: obrazky/zvetravani/laterit.jpg Graphic file (type bmp)
 <obrazky/zvetravani/laterit.jpg>
 
@@ -1940,9 +1969,9 @@ Underfull \hbox (badness 5711) in paragraph at lines 71--71
 []\TU/lmr/m/n/10.95 Obrázek 6.3: []Zvětrávání bazaltového tufu
  []
 
-) [39] [40
+[43] [44
 
-]
+])
 Kapitola 7.
 (text/svahy.tex
 File: obrazky/slope/segmenty_svahu.pdf Graphic file (type pdf)
@@ -1953,7 +1982,10 @@ File: obrazky/slope/svah_napeti.pdf Graphic file (type pdf)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[41]
+[45
+
+
+]
 Underfull \hbox (badness 1112) in paragraph at lines 60--61
 []\TU/lmr/m/n/10.95 Svah je stabilní pokud je faktor bezpeč-
  []
@@ -2028,8 +2060,8 @@ Underfull \hbox (badness 2245) in paragraph at lines 157--159
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42]
-[43]
+ [46]
+[47]
 File: obrazky/slope/landslide_type.pdf Graphic file (type pdf)
 <use obrazky/slope/landslide_type.pdf>
 
@@ -2037,7 +2069,7 @@ Underfull \hbox (badness 1331) in paragraph at lines 220--221
 \TU/lmr/m/n/10.95 proces, kdy dochází k pohybu horninového
  []
 
-[44] [45]
+[48] [49]
 File: obrazky/slope/rotacni.jpg Graphic file (type bmp)
 <obrazky/slope/rotacni.jpg>
 
@@ -2057,12 +2089,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: obrazky/slope/melke.jpg Graphic file (type bmp)
 <obrazky/slope/melke.jpg>
-[46] [47]
+[50] [51]
 File: obrazky/slope/debris_flow.jpg Graphic file (type bmp)
 <obrazky/slope/debris_flow.jpg>
 File: obrazky/slope/sackung.pdf Graphic file (type pdf)
 <use obrazky/slope/sackung.pdf>
- [48]
+ [52]
 File: obrazky/slope/hakovani.jpg Graphic file (type bmp)
 <obrazky/slope/hakovani.jpg>
 
@@ -2120,34 +2152,31 @@ Underfull \hbox (badness 1694) in paragraph at lines 371--379
 \TU/lmr/m/n/10.95 (starý) stupeň aktivity: aktivní (živý), do-
  []
 
-[49]
-Underfull \hbox (badness 6268) in paragraph at lines 387--389
-[]\TU/lmr/bx/n/10.95 Bombardování vodními kapkami \TU/lmr/m/n/10.95 se
- []
-
-
-Underfull \hbox (badness 1331) in paragraph at lines 387--389
-\TU/lmr/bx/n/10.95 je velice řídký či zcela chybí \TU/lmr/m/n/10.95 (pouště,
- []
-
-[50]
-Underfull \hbox (badness 1142) in paragraph at lines 401--402
-[]\TU/lmr/m/n/10.95 Intenzivní a člověkem urychlená eroze ze
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 406--406
+[53]
+Underfull \hbox (badness 1259) in paragraph at lines 381--381
 |[]\TU/lmr/bx/n/14.4 Geomorfologické důsledky
  []
 
 File: obrazky/slope/korup_toky.pdf Graphic file (type pdf)
 <use obrazky/slope/korup_toky.pdf>
+[54]
+Underfull \hbox (badness 6268) in paragraph at lines 409--411
+[]\TU/lmr/bx/n/10.95 Bombardování vodními kapkami \TU/lmr/m/n/10.95 se
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [51] [52
+Underfull \hbox (badness 1331) in paragraph at lines 409--411
+\TU/lmr/bx/n/10.95 je velice řídký či zcela chybí \TU/lmr/m/n/10.95 (pouště,
+ []
 
-]
+
+Underfull \hbox (badness 1142) in paragraph at lines 423--424
+[]\TU/lmr/m/n/10.95 Intenzivní a člověkem urychlená eroze ze
+ []
+
+[55] [56
+
+])
 Kapitola 8.
 (text/fluvial.tex
 File: obrazky/fluvial/fluv_system.pdf Graphic file (type pdf)
@@ -2162,27 +2191,26 @@ File: obrazky/fluvial/laminar_turbul.pdf Graphic file (type pdf)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[53]
-Underfull \hbox (badness 2158) in paragraph at lines 63--64
-[][]\TU/lmr/m/n/10.95 tíhové zrychlení hydraulický poloměr
- []
+[57
 
+
+]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 101.
 
-[54]
+
 Underfull \hbox (badness 4316) in paragraph at lines 116--116
 |[]\TU/lmr/bx/n/14.4 Energie, práce a výkon
  []
 
-
+[58]
 Underfull \hbox (badness 1694) in paragraph at lines 153--154
 \TU/lmr/bx/n/10.95 ným neboli smykovým napětím \TU/lmr/m/n/10.95 (\TU/lmr/m/it/
 10.95 shear
  []
 
-[55]
+[59]
 Underfull \hbox (badness 3439) in paragraph at lines 187--188
 \TU/lmr/m/n/10.95 působení a odnosu podloží koryta v dů-
  []
@@ -2204,14 +2232,14 @@ Underfull \hbox (badness 1845) in paragraph at lines 211--212
 \TU/lmr/m/n/10.95 strukturou), klimatickými podmínkami. Do-
  []
 
-[56]
+[60]
 File: obrazky/fluvial/sily_klast.pdf Graphic file (type pdf)
 <use obrazky/fluvial/sily_klast.pdf>
 File: obrazky/fluvial/hjulstr.pdf Graphic file (type pdf)
 <use obrazky/fluvial/hjulstr.pdf>
 File: obrazky/fluvial/lanes_balance.jpg Graphic file (type bmp)
 <obrazky/fluvial/lanes_balance.jpg>
- [57] [58]
+ [61] [62]
 Underfull \hbox (badness 1009) in paragraph at lines 247--248
 []\TU/lmr/bx/n/10.95 Dnové splaveniny \TU/lmr/m/n/10.95 (\TU/lmr/m/it/10.95 bed
  load\TU/lmr/m/n/10.95 ) jsou sedi-
@@ -2219,7 +2247,7 @@ Underfull \hbox (badness 1009) in paragraph at lines 247--248
 
 File: obrazky/fluvial/fluv_sed_trans.pdf Graphic file (type pdf)
 <use obrazky/fluvial/fluv_sed_trans.pdf>
-[59]
+[63]
 File: obrazky/fluvial/mendry_sinusoita.pdf Graphic file (type pdf)
 <use obrazky/fluvial/mendry_sinusoita.pdf>
 File: obrazky/fluvial/divocici.jpg Graphic file (type bmp)
@@ -2236,7 +2264,7 @@ Underfull \hbox (badness 1675) in paragraph at lines 332--333
 []\TU/lmr/bx/n/10.95 Soutěsky \TU/lmr/m/n/10.95 (hluboké soutěsky = kaňony),
  []
 
-[60]
+[64]
 File: obrazky/fluvial/typy_udoli.pdf Graphic file (type pdf)
 <use obrazky/fluvial/typy_udoli.pdf>
 File: obrazky/fluvial/klast_klastr.pdf Graphic file (type pdf)
@@ -2246,10 +2274,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 374--374
 []\TU/lmr/m/n/10.95 Obrázek 8.11: []Znázornění sedimentárního
  []
 
-[61]
+[65]
 File: obrazky/fluvial/lavice.pdf Graphic file (type pdf)
 <use obrazky/fluvial/lavice.pdf>
- [62]
+ [66]
 File: obrazky/fluvial/meander.jpg Graphic file (type bmp)
 <obrazky/fluvial/meander.jpg>
 File: obrazky/fluvial/Alluvial_fan.jpg Graphic file (type bmp)
@@ -2263,7 +2291,12 @@ File: obrazky/fluvial/bajada.jpg Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [63] [64
+[67] [68
+
+] [69
+
+]) [70
+
 
 ]
 Kapitola 9.
@@ -2296,18 +2329,19 @@ Underfull \hbox (badness 5133) in paragraph at lines 34--34
 
 File: obrazky/fluvial/rad_toku.pdf Graphic file (type pdf)
 <use obrazky/fluvial/rad_toku.pdf>
-[65
+[71] [72] [73
 
-]) [66]
+]) [74
+
+
+]
 Kapitola 10.
 (text/kras.tex
 Underfull \hbox (badness 1048) in paragraph at lines 17--18
 \TU/lmr/m/n/10.95 Zásadní podmínkou pro vývoj krasu je sa-
  []
 
-[67
-
-]
+[75]
 File: obrazky/karst/KarstterrainUSGS.jpg Graphic file (type bmp)
 <obrazky/karst/KarstterrainUSGS.jpg>
 
@@ -2334,7 +2368,7 @@ File: obrazky/karst/Mexico_Cenotes.jpg Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[68]
+[76]
 Underfull \hbox (badness 2173) in paragraph at lines 111--112
 []\TU/lmr/bx/n/10.95 Cockpit \TU/lmr/m/n/10.95 je typ krasového reliéfu, který
  []
@@ -2345,7 +2379,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
+ [77]
 Underfull \hbox (badness 3068) in paragraph at lines 128--129
 []\TU/lmr/bx/n/10.95 Syngenetické jeskyně \TU/lmr/m/n/10.95 (dutiny) vznikly
  []
@@ -2360,7 +2394,12 @@ Underfull \hbox (badness 1184) in paragraph at lines 150--151
 \TU/lmr/m/n/10.95 resedimentací uhličitanu vápenatého (sintry)
  []
 
-) [70]
+[78] [79
+
+]) [80
+
+
+]
 Kapitola 11.
 (text/glac.tex
 File: obrazky/glac/komponenty_kryosfery.jpg Graphic file (type bmp)
@@ -2377,9 +2416,7 @@ Underfull \hbox (badness 3815) in paragraph at lines 49--50
 \TU/lmr/m/n/10.95 limitované reliéfem (např. Grónský ledový
  []
 
-[71
-
-] [72]
+[81] [82]
 File: obrazky/glac/iceshelf.pdf Graphic file (type pdf)
 <use obrazky/glac/iceshelf.pdf>
 
@@ -2399,7 +2436,7 @@ File: obrazky/glac/striace.jpg Graphic file (type bmp)
 <obrazky/glac/striace.jpg>
 File: obrazky/glac/oblik.pdf Graphic file (type pdf)
 <use obrazky/glac/oblik.pdf>
-[73]
+[83]
 File: obrazky/glac/matterhorn.jpg Graphic file (type bmp)
 <obrazky/glac/matterhorn.jpg>
 File: obrazky/glac/studena.jpg Graphic file (type bmp)
@@ -2415,18 +2452,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 3049) has occurred while \output is active []
 
- [74]
-[75]
+ [84]
+[85]
 File: obrazky/glac/esker.jpg Graphic file (type bmp)
 <obrazky/glac/esker.jpg>
-) [76
+ [86
 
-] [77
+] [87
 
-] [78
+] [88
 
 
-]
+])
 Kapitola 12.
 (text/periglac.tex
 Underfull \hbox (badness 1721) in paragraph at lines 2--9
@@ -2448,7 +2485,10 @@ Underfull \hbox (badness 3780) in paragraph at lines 42--43
 \TU/lmr/bx/n/10.95 Aktivní (činná) vrstva \TU/lmr/m/n/10.95 je přípovrchová
  []
 
-[79]
+[89
+
+
+]
 File: obrazky/periglac/aktivni_vrstva.pdf Graphic file (type pdf)
 <use obrazky/periglac/aktivni_vrstva.pdf>
 
@@ -2458,7 +2498,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 7814) has occurred while \output is active []
 
- [80]
+ [90]
 File: obrazky/periglac/kamenne_more.jpg Graphic file (type bmp)
 <obrazky/periglac/kamenne_more.jpg>
 
@@ -2486,7 +2526,7 @@ File: obrazky/periglac/polygon.jpg Graphic file (type bmp)
 <obrazky/periglac/polygon.jpg>
 File: obrazky/periglac/pingo_mackenzie.jpg Graphic file (type bmp)
 <obrazky/periglac/pingo_mackenzie.jpg>
-[81]
+[91]
 Underfull \vbox (badness 6125) has occurred while \output is active []
 
 File: obrazky/periglac/alas.jpg Graphic file (type bmp)
@@ -2500,8 +2540,8 @@ Underfull \hbox (badness 3158) in paragraph at lines 145--146
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82]
-[83]
+ [92]
+[93]
 File: obrazky/periglac/rock_glac.jpg Graphic file (type bmp)
 <obrazky/periglac/rock_glac.jpg>
 
@@ -2511,7 +2551,12 @@ Underfull \hbox (badness 1320) in paragraph at lines 152--152
 
 File: obrazky/periglac/protalus_rampart.pdf Graphic file (type pdf)
 <use obrazky/periglac/protalus_rampart.pdf>
-) [84]
+[94] [95
+
+]) [96
+
+
+]
 Kapitola 13.
 (text/eolicka.tex
 Underfull \hbox (badness 1642) in paragraph at lines 31--32
@@ -2531,21 +2576,19 @@ File: obrazky/eolicka/saltace_foto.png Graphic file (type bmp)
 <obrazky/eolicka/saltace_foto.png>
 File: obrazky/eolicka/ventifact_mojave.jpg Graphic file (type bmp)
 <obrazky/eolicka/ventifact_mojave.jpg>
-[85
-
-] [86]
+[97] [98]
 Underfull \hbox (badness 2189) in paragraph at lines 82--83
 []\TU/lmr/bx/n/10.95 Deflační pánve (vany) \TU/lmr/m/n/10.95 („  deflation ba-
  []
 
 File: obrazky/eolicka/typy_dun.pdf Graphic file (type pdf)
 <use obrazky/eolicka/typy_dun.pdf>
-[87]
+[99]
 File: obrazky/eolicka/linearniduny.jpg Graphic file (type bmp)
 <obrazky/eolicka/linearniduny.jpg>
 File: obrazky/eolicka/volne_duny.pdf Graphic file (type pdf)
 <use obrazky/eolicka/volne_duny.pdf>
- [88] [89]
+ [100] [101]
 File: obrazky/eolicka/loes_distr.jpg Graphic file (type bmp)
 <obrazky/eolicka/loes_distr.jpg>
 
@@ -2553,10 +2596,16 @@ Overfull \hbox (1015.76349pt too wide) has occurred while \output is active
 [] []|[] []
  []
 
-[90
+[102
 
 
-])
+] [103
+
+
+]) [104
+
+
+]
 Kapitola 14.
 (text/marinni.tex
 File: obrazky/marine/pobrezi.pdf Graphic file (type pdf)
@@ -2580,10 +2629,7 @@ File: obrazky/marine/vlny_transformace.pdf Graphic file (type pdf)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[91
-
-
-]
+[105]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2594,8 +2640,8 @@ Underfull \hbox (badness 4205) in paragraph at lines 59--60
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [92]
-[93]
+ [106]
+[107]
 File: obrazky/marine/abrazni.jpg Graphic file (type bmp)
 <obrazky/marine/abrazni.jpg>
 
@@ -2613,7 +2659,7 @@ File: obrazky/marine/utesy_terasy.pdf Graphic file (type pdf)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[94]
+[108]
 File: obrazky/marine/kosa.jpg Graphic file (type bmp)
 <obrazky/marine/kosa.jpg>
 
@@ -2634,7 +2680,7 @@ Underfull \hbox (badness 5359) in paragraph at lines 142--143
 
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
- [95]
+ [109]
 File: obrazky/fluvial/gilbert_delta.pdf Graphic file (type pdf)
 <use obrazky/fluvial/gilbert_delta.pdf>
 File: obrazky/fluvial/delty.pdf Graphic file (type pdf)
@@ -2673,7 +2719,7 @@ File: obrazky/marine/Limans.jpeg Graphic file (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[96]
+[110]
 Underfull \hbox (badness 2735) in paragraph at lines 238--239
 \TU/lmr/m/n/10.95 Zmenšování jejich objemu způsobuje velice
  []
@@ -2681,15 +2727,18 @@ Underfull \hbox (badness 2735) in paragraph at lines 238--239
 
 Underfull \vbox (badness 6608) has occurred while \output is active []
 
- [97])
-[98] [99
+ [111]
+[112] [113
 
-] [100
+]) [114
 
-] [101] [102]
+
+] [115] [116
+
+] [117] [118]
 runsystem(makeindex zaklady_geomorfologie.idx)...executed safely (allowed).
 
- (zaklady_geomorfologie.ind [103
+ (zaklady_geomorfologie.ind [119
 
 
 
@@ -2703,7 +2752,7 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `zaklady_geomorfologie.out' has not changed.
-(rerunfilecheck)             Checksum: CA86A653B8C7278038FA808E88793CD8;27674.
+(rerunfilecheck)             Checksum: 26FCEE8AFF7E2CDE814DE7635CBC8FF6;27674.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                zaklady_geomorfologie
@@ -2714,12 +2763,12 @@ Package logreq Info: Writing requests to 'zaklady_geomorfologie.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40161 strings out of 410939
- 834202 string characters out of 2823123
- 1531781 words of memory out of 3000000
- 60213 multiletter control sequences out of 15000+600000
+ 41372 strings out of 410939
+ 869163 string characters out of 2823123
+ 1601837 words of memory out of 3000000
+ 61415 multiletter control sequences out of 15000+600000
  477687 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,16n,96p,3206b,5643s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on zaklady_geomorfologie.pdf (111 pages).
+Output written on zaklady_geomorfologie.pdf (127 pages).

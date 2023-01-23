@@ -114,10 +114,30 @@
 %hyperref
 \usepackage[hidelinks]{hyperref}
 
+%cesta k obrazkum
 \graphicspath{ {./obrazky/} }
 
+%boxy otazky, slovnik
+\usepackage{tcolorbox}
+\usepackage{colortbl}
+\tcbuselibrary{skins}
+\newtcolorbox{boxotazky}[1]{
+	skin = enhanced jigsaw,
+	width=\textwidth,
+	%colback=lightgray,
+	%colframe=black,
+	fonttitle=\bfseries,
+	title={#1}
+}
 
-
+\newtcolorbox{boxslovnik}[1]{
+	skin = enhanced jigsaw,
+	width=\textwidth, 
+	tabularx={XX},
+	fonttitle=\bfseries, 
+	title={#1}
+}
+% % % % %
 
 
 %udaje o knize
@@ -145,6 +165,10 @@
 		}
 	}
 }
+
+
+
+%\usepackage{todonotes}
 
 \nocite{*}
 
@@ -179,7 +203,7 @@
 	
 	\chapter{Geomorfologie jako vědní disciplína}
 	\input{text/uvod}
-	\index{balabla}
+	
 	\chapter{Základní koncepty}
 	\input{text/zakl_konc}
 	%%%%%%%%%%%%%%%%%%%%%%
