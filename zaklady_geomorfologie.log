@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.4)  4 FEB 2023 14:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.4)  4 FEB 2023 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1436,7 +1436,7 @@ Package hyperref Info: Link coloring OFF on input line 180.
 \openout6 = `zaklady_geomorfologie.out'.
 
  (text/title.tex
-<obrazky/logo/logo_cze.png, id=650, 1003.75pt x 1154.3125pt>
+<obrazky/logo/logo_cze.png, id=646, 1003.75pt x 1154.3125pt>
 File: obrazky/logo/logo_cze.png Graphic file (type png)
 <use obrazky/logo/logo_cze.png>
 Package pdftex.def Info: obrazky/logo/logo_cze.png  used on input line 15.
@@ -1488,7 +1488,7 @@ l.204 	\part{Úvod}
                     [2]
 Kapitola 1.
 (text/uvod.tex
-<obrazky/uvod/diagram_geomorf.pdf, id=866, 331.99031pt x 211.54031pt>
+<obrazky/uvod/diagram_geomorf.pdf, id=861, 331.99031pt x 211.54031pt>
 File: obrazky/uvod/diagram_geomorf.pdf Graphic file (type pdf)
 <use obrazky/uvod/diagram_geomorf.pdf>
 Package pdftex.def Info: obrazky/uvod/diagram_geomorf.pdf  used on input line 7
@@ -1556,7 +1556,7 @@ Underfull \hbox (badness 4060) in paragraph at lines 50--51
 \OT1/cmr/m/n/10.95 po-vrchu jsou po-mal^^Se, ust^^Salen^^Se a po-
  []
 
-<obrazky/uvod/davies.jpeg, id=879, 843.15pt x 1299.85625pt>
+<obrazky/uvod/davies.jpeg, id=874, 843.15pt x 1299.85625pt>
 File: obrazky/uvod/davies.jpeg Graphic file (type jpg)
 <use obrazky/uvod/davies.jpeg>
 Package pdftex.def Info: obrazky/uvod/davies.jpeg  used on input line 63.
@@ -1662,7 +1662,7 @@ Underfull \hbox (badness 1728) in paragraph at lines 13--14
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/uvod/zmeny_vysky.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/uvod/zmeny_vysky.pdf, id=914, 212.12048pt x 300.67633pt>
+<obrazky/uvod/zmeny_vysky.pdf, id=909, 212.12048pt x 300.67633pt>
 File: obrazky/uvod/zmeny_vysky.pdf Graphic file (type pdf)
 <use obrazky/uvod/zmeny_vysky.pdf>
 Package pdftex.def Info: obrazky/uvod/zmeny_vysky.pdf  used on input line 17.
@@ -1741,7 +1741,7 @@ Underfull \hbox (badness 1454) in paragraph at lines 131--132
  []
 
 [8 <./obrazky/uvod/zmeny_vysky.pdf>]
-<obrazky/uvod/frekvence.jpg, id=946, 1292.83pt x 736.7525pt>
+<obrazky/uvod/frekvence.jpg, id=941, 1292.83pt x 736.7525pt>
 File: obrazky/uvod/frekvence.jpg Graphic file (type jpg)
 <use obrazky/uvod/frekvence.jpg>
 Package pdftex.def Info: obrazky/uvod/frekvence.jpg  used on input line 141.
@@ -1774,17 +1774,13 @@ Underfull \hbox (badness 1014) in paragraph at lines 147--149
 o
  []
 
-[9
+) [9
 
 ] [10 <./obrazky/uvod/frekvence.jpg>] [11
 
 
-]) [12
 
-
-] [13
-
-] [14]
+] [12]
 Kapitola 3.
 (text/globalni.tex
 Underfull \hbox (badness 1221) in paragraph at lines 4--5
@@ -1804,7 +1800,7 @@ n^^S^^P
 pdfTeX warning: pdflatex.exe (file ./obrazky//./tectonic/Earth_cutaway_schemati
 c-en.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> al
 lowed
-<./obrazky//./tectonic/Earth_cutaway_schematic-en.pdf, id=976, 923.45pt x 723.7
+<./obrazky//./tectonic/Earth_cutaway_schematic-en.pdf, id=962, 923.45pt x 723.7
 0375pt>
 File: ./obrazky//./tectonic/Earth_cutaway_schematic-en.pdf Graphic file (type p
 df)
@@ -1832,7 +1828,7 @@ Underfull \hbox (badness 1939) in paragraph at lines 18--21
 \OT1/cmr/m/n/10.95 zem-skou k^^Wuru, tak i svrchn^^S^^P, pev-nou ^^Tc^^Sast
  []
 
-<./obrazky//./tectonic/Plates_tect_cs.svg.png, id=977, 4232.81375pt x 3180.8837
+<./obrazky//./tectonic/Plates_tect_cs.svg.png, id=963, 4232.81375pt x 3180.8837
 4pt>
 File: ./obrazky//./tectonic/Plates_tect_cs.svg.png Graphic file (type png)
 <use ./obrazky//./tectonic/Plates_tect_cs.svg.png>
@@ -1869,7 +1865,7 @@ Underfull \hbox (badness 5105) in paragraph at lines 30--31
 \OT1/cmr/m/n/10.95 V m^^S^^Pst^^Te sub-dukce vznik^^Sa hlu-bo-koce^^Sansk^^Sy
  []
 
-<obrazky/tectonic/Tectonic_plate_boundaries.png, id=978, 777.90625pt x 430.6087
+<obrazky/tectonic/Tectonic_plate_boundaries.png, id=964, 777.90625pt x 430.6087
 5pt>
 File: obrazky/tectonic/Tectonic_plate_boundaries.png Graphic file (type png)
 <use obrazky/tectonic/Tectonic_plate_boundaries.png>
@@ -1881,7 +1877,7 @@ Underfull \hbox (badness 2409) in paragraph at lines 34--42
 []\OT1/cmr/m/n/10.95 V p^^Tr^^S^^Ppad^^Te, ^^Tze se okraj kon-ti-nentu sho-
  []
 
-[15
+[13
 
 
 ]
@@ -1967,7 +1963,7 @@ Underfull \hbox (badness 1852) in paragraph at lines 66--67
 \OT1/cmr/m/n/10.95 na-mick^^Sych pro-ces^^Wu. Jsou to m^^S^^Psta, kde je
  []
 
-<obrazky/tectonic/global_seismicity_h.jpg, id=986, 635.976pt x 390.258pt>
+<obrazky/tectonic/global_seismicity_h.jpg, id=972, 635.976pt x 390.258pt>
 File: obrazky/tectonic/global_seismicity_h.jpg Graphic file (type jpg)
 <use obrazky/tectonic/global_seismicity_h.jpg>
 Package pdftex.def Info: obrazky/tectonic/global_seismicity_h.jpg  used on inpu
@@ -1993,7 +1989,7 @@ Underfull \hbox (badness 1178) in paragraph at lines 76--77
 st^^Te
  []
 
-<obrazky/tectonic/isostasy.jpg, id=989, 642.4pt x 204.765pt>
+<obrazky/tectonic/isostasy.jpg, id=975, 642.4pt x 204.765pt>
 File: obrazky/tectonic/isostasy.jpg Graphic file (type jpg)
 <use obrazky/tectonic/isostasy.jpg>
 Package pdftex.def Info: obrazky/tectonic/isostasy.jpg  used on input line 83.
@@ -2001,7 +1997,7 @@ Package pdftex.def Info: obrazky/tectonic/isostasy.jpg  used on input line 83.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16 <./obrazky//./tectonic/Earth_cutaway_schematic-en.pdf>]
+ [14 <./obrazky//./tectonic/Earth_cutaway_schematic-en.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2024,7 +2020,7 @@ Underfull \hbox (badness 1360) in paragraph at lines 88--89
 
 Underfull \vbox (badness 5533) has occurred while \output is active []
 
-<obrazky/tectonic/Hawaii_hotspot.jpg, id=1071, 508.84102pt x 269.68755pt>
+<obrazky/tectonic/Hawaii_hotspot.jpg, id=1057, 508.84102pt x 269.68755pt>
 File: obrazky/tectonic/Hawaii_hotspot.jpg Graphic file (type jpg)
 <use obrazky/tectonic/Hawaii_hotspot.jpg>
 Package pdftex.def Info: obrazky/tectonic/Hawaii_hotspot.jpg  used on input lin
@@ -2041,7 +2037,7 @@ Underfull \hbox (badness 1057) in paragraph at lines 102--103
 ^^Pd^^Sa
  []
 
-[17 <./obrazky//./tectonic/Plates_tect_cs.svg.png>]
+[15 <./obrazky//./tectonic/Plates_tect_cs.svg.png>]
 Underfull \hbox (badness 1163) in paragraph at lines 106--107
 \OT1/cmr/m/n/10.95 deska pod-souv^^Sa ji-nou oce^^Sanskou nebo pev-
  []
@@ -2071,7 +2067,7 @@ Underfull \hbox (badness 1997) in paragraph at lines 108--109
 
 Underfull \vbox (badness 4254) has occurred while \output is active []
 
- [18 <./obrazky/tectonic/Tectonic_plate_boundaries.png>]
+ [16 <./obrazky/tectonic/Tectonic_plate_boundaries.png>]
 Underfull \hbox (badness 1939) in paragraph at lines 110--111
 []\OT1/cmr/bx/n/10.95 Transformn^^S^^P okraj \OT1/cmr/m/n/10.95 m^^Wu^^Tze vy-p
 a-dat jako
@@ -2093,18 +2089,18 @@ Underfull \hbox (badness 1400) in paragraph at lines 110--111
 zi.
  []
 
-<obrazky/tectonic/World_geologic_provinces.jpg, id=1087, 433.62pt x 230.17995pt
+<obrazky/tectonic/World_geologic_provinces.jpg, id=1072, 433.62pt x 230.17995pt
 >
 File: obrazky/tectonic/World_geologic_provinces.jpg Graphic file (type jpg)
 <use obrazky/tectonic/World_geologic_provinces.jpg>
 Package pdftex.def Info: obrazky/tectonic/World_geologic_provinces.jpg  used on
- input line 120.
+ input line 119.
 (pdftex.def)             Requested size: 475.16095pt x 252.24336pt.
-[19] [20 <./obrazky/tectonic/global_seismicity_h.jpg> <./obrazky/tectonic/isost
-asy.jpg>] [21 <./obrazky/tectonic/Hawaii_hotspot.jpg> <./obrazky/tectonic/World
-_geologic_provinces.jpg>] [22
+) [17] [18 <./obrazky/tectonic/global_seismicity_h.jpg> <./obrazky/tectonic/iso
+stasy.jpg>] [19 <./obrazky/tectonic/Hawaii_hotspot.jpg> <./obrazky/tectonic/Wor
+ld_geologic_provinces.jpg>] [20
 
-])
+]
 Kapitola 4.
 (text/tektonicka.tex
 Underfull \hbox (badness 6063) in paragraph at lines 10--12
@@ -2133,7 +2129,7 @@ Underfull \hbox (badness 1067) in paragraph at lines 33--34
 \OT1/cmr/m/n/10.95 uklon^^Ten, kra nad zlo-mem se ozna^^Tcuje jako
  []
 
-<obrazky/tectonic/zlomy.png, id=1112, 542.025pt x 1355.0625pt>
+<obrazky/tectonic/zlomy.png, id=1098, 542.025pt x 1355.0625pt>
 File: obrazky/tectonic/zlomy.png Graphic file (type png)
 <use obrazky/tectonic/zlomy.png>
 Package pdftex.def Info: obrazky/tectonic/zlomy.png  used on input line 44.
@@ -2144,10 +2140,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 5622) has occurred while \output is active []
 
- [23
-
-
-]
+ [21]
 Underfull \hbox (badness 4048) in paragraph at lines 53--54
 []\OT1/cmr/m/n/10.95 Na z^^Saklad^^Te sm^^Teru po-sunu d^^Tel^^S^^Pme ho-ri-
  []
@@ -2163,7 +2156,7 @@ Underfull \hbox (badness 2042) in paragraph at lines 53--54
 \OT1/cmr/m/n/10.95 a le-vostrann^^Sy (si-nistr^^Saln^^S^^P). Ori-en-taci zlomu
  []
 
-<obrazky/tectonic/san_andreas.jpg, id=1122, 3083.52pt x 2055.68pt>
+<obrazky/tectonic/san_andreas.jpg, id=1108, 3083.52pt x 2055.68pt>
 File: obrazky/tectonic/san_andreas.jpg Graphic file (type jpg)
 <use obrazky/tectonic/san_andreas.jpg>
 Package pdftex.def Info: obrazky/tectonic/san_andreas.jpg  used on input line 5
@@ -2187,7 +2180,7 @@ Underfull \hbox (badness 2521) in paragraph at lines 66--67
 .95 pull apart
  []
 
-<obrazky/tectonic/pokles.jpg, id=1125, 1188.44pt x 891.33pt>
+<obrazky/tectonic/pokles.jpg, id=1111, 1188.44pt x 891.33pt>
 File: obrazky/tectonic/pokles.jpg Graphic file (type jpg)
 <use obrazky/tectonic/pokles.jpg>
 Package pdftex.def Info: obrazky/tectonic/pokles.jpg  used on input line 75.
@@ -2203,7 +2196,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--83
 \OT1/cmr/m/n/10.95 d^^Wusledkem kom-prese (zkra-cov^^San^^S^^P) zemsk^^Se
  []
 
-[24 <./obrazky/tectonic/zlomy.png> <./obrazky/tectonic/san_andreas.jpg>]
+[22 <./obrazky/tectonic/zlomy.png> <./obrazky/tectonic/san_andreas.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 85--86
 \OT1/cmr/bx/n/10.95 N^^Sasun \OT1/cmr/m/n/10.95 ([]  thrust\) je spe-ci-fick^^S
 ym ty-pem
@@ -2254,7 +2247,7 @@ Underfull \hbox (badness 2119) in paragraph at lines 89--90
 m zlo-
  []
 
-<obrazky/tectonic/facety.png, id=1138, 1054.94125pt x 664.4825pt>
+<obrazky/tectonic/facety.png, id=1124, 1054.94125pt x 664.4825pt>
 File: obrazky/tectonic/facety.png Graphic file (type png)
 <use obrazky/tectonic/facety.png>
 Package pdftex.def Info: obrazky/tectonic/facety.png  used on input line 93.
@@ -2262,7 +2255,7 @@ Package pdftex.def Info: obrazky/tectonic/facety.png  used on input line 93.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<obrazky/tectonic/fault_scarp.png, id=1141, 423.2613pt x 241.1409pt>
+<obrazky/tectonic/fault_scarp.png, id=1127, 423.2613pt x 241.1409pt>
 File: obrazky/tectonic/fault_scarp.png Graphic file (type png)
 <use obrazky/tectonic/fault_scarp.png>
 Package pdftex.def Info: obrazky/tectonic/fault_scarp.png  used on input line 1
@@ -2300,7 +2293,7 @@ Underfull \hbox (badness 1331) in paragraph at lines 117--118
 na ome-zen^^Sa jedn^^S^^Pm
  []
 
-[25 <./obrazky/tectonic/pokles.jpg>]
+[23 <./obrazky/tectonic/pokles.jpg>]
 Underfull \hbox (badness 1052) in paragraph at lines 125--126
 []\OT1/cmr/m/n/10.95 Jedn^^S^^Pm z d^^Wusledk^^Wu ho-ri-zont^^Saln^^S^^Pho po-s
 unu
@@ -2343,7 +2336,7 @@ Underfull \hbox (badness 4391) in paragraph at lines 133--134
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/tectonic/fold_parts.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/tectonic/fold_parts.pdf, id=1152, 767.11594pt x 620.27235pt>
+<obrazky/tectonic/fold_parts.pdf, id=1139, 767.11594pt x 620.27235pt>
 File: obrazky/tectonic/fold_parts.pdf Graphic file (type pdf)
 <use obrazky/tectonic/fold_parts.pdf>
 Package pdftex.def Info: obrazky/tectonic/fold_parts.pdf  used on input line 14
@@ -2357,7 +2350,7 @@ Underfull \hbox (badness 1888) in paragraph at lines 143--143
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26 <./obrazky/tectonic/facety.png (PNG copy)>]
+[24 <./obrazky/tectonic/facety.png (PNG copy)>]
 Underfull \hbox (badness 1924) in paragraph at lines 170--171
 []\OT1/cmr/m/n/10.95 Synklin^^Saln^^S^^P sn^^S^^P^^Tzeniny ov^^Saln^^Seho a^^Tz
  kru-ho-
@@ -2369,7 +2362,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 172--173
 ^P
  []
 
-[27 <./obrazky/tectonic/fault_scarp.png> <./obrazky/tectonic/fold_parts.pdf>]
+[25 <./obrazky/tectonic/fault_scarp.png> <./obrazky/tectonic/fold_parts.pdf>]
 Underfull \hbox (badness 2635) in paragraph at lines 177--178
 []\OT1/cmr/m/n/10.95 Jednoduch^^Sa vr^^Sasov^^Sa poho^^Tr^^S^^P jsou tvo^^Tren^
 ^Sa
@@ -2387,7 +2380,7 @@ Underfull \hbox (badness 2809) in paragraph at lines 177--178
 ^^San
  []
 
-<obrazky/tectonic/zagros.jpg, id=1188, 770.88pt x 578.16pt>
+<obrazky/tectonic/zagros.jpg, id=1175, 770.88pt x 578.16pt>
 File: obrazky/tectonic/zagros.jpg Graphic file (type jpg)
 <use obrazky/tectonic/zagros.jpg>
 Package pdftex.def Info: obrazky/tectonic/zagros.jpg  used on input line 183.
@@ -2397,7 +2390,7 @@ Underfull \hbox (badness 2213) in paragraph at lines 184--184
 []\OT1/cmr/m/n/10.95 Obr^^Sazek 4.7: []Poho^^Tr^^S^^P Za-g-ros (zdroj Go-o-gle
  []
 
-<obrazky/tectonic/apalachian.jpg, id=1189, 770.88pt x 578.16pt>
+<obrazky/tectonic/apalachian.jpg, id=1176, 770.88pt x 578.16pt>
 File: obrazky/tectonic/apalachian.jpg Graphic file (type jpg)
 <use obrazky/tectonic/apalachian.jpg>
 Package pdftex.def Info: obrazky/tectonic/apalachian.jpg  used on input line 19
@@ -2408,7 +2401,7 @@ Underfull \hbox (badness 1810) in paragraph at lines 195--196
 \OT1/cmr/m/n/10.95 tek-to-nicky poru^^Tsen^^Se (roz-pukan^^Se), jsou tedy
  []
 
-<obrazky/tectonic/strukturni_tvary.png, id=1190, 846.91406pt x 323.70938pt>
+<obrazky/tectonic/strukturni_tvary.png, id=1177, 846.91406pt x 323.70938pt>
 File: obrazky/tectonic/strukturni_tvary.png Graphic file (type png)
 <use obrazky/tectonic/strukturni_tvary.png>
 Package pdftex.def Info: obrazky/tectonic/strukturni_tvary.png  used on input l
@@ -2445,8 +2438,8 @@ Underfull \hbox (badness 1342) in paragraph at lines 215--216
 0$$[]$ pak \OT1/cmr/bx/n/10.95 koz^^S^^P
  []
 
-) [28 <./obrazky/tectonic/zagros.jpg> <./obrazky/tectonic/apalachian.jpg>]
-[29 <./obrazky/tectonic/strukturni_tvary.png>] [30
+) [26 <./obrazky/tectonic/zagros.jpg> <./obrazky/tectonic/apalachian.jpg>]
+[27 <./obrazky/tectonic/strukturni_tvary.png>] [28
 
 ]
 Kapitola 5.
@@ -2466,7 +2459,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--8
 |[]\OT1/cmr/bx/n/12 Intruzivn^^S^^P t^^Telesa men^^Ts^^S^^Pho
  []
 
-<obrazky/sopky/zila.jpg, id=1214, 724.6272pt x 481.8pt>
+<obrazky/sopky/zila.jpg, id=1200, 724.6272pt x 481.8pt>
 File: obrazky/sopky/zila.jpg Graphic file (type jpg)
 <use obrazky/sopky/zila.jpg>
 Package pdftex.def Info: obrazky/sopky/zila.jpg  used on input line 13.
@@ -2476,7 +2469,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--14
 \OT1/cmr/m/n/10.95 https://www.flickr.com/people/jsjgeology/,
  []
 
-<obrazky/sopky/Intrusion_types.png, id=1215, 1027.84pt x 1100.11pt>
+<obrazky/sopky/Intrusion_types.png, id=1201, 1027.84pt x 1100.11pt>
 File: obrazky/sopky/Intrusion_types.png Graphic file (type png)
 <use obrazky/sopky/Intrusion_types.png>
 Package pdftex.def Info: obrazky/sopky/Intrusion_types.png  used on input line 
@@ -2485,7 +2478,7 @@ Package pdftex.def Info: obrazky/sopky/Intrusion_types.png  used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[31 <./obrazky/sopky/zila.jpg>]
+[29 <./obrazky/sopky/zila.jpg>]
 Underfull \hbox (badness 1248) in paragraph at lines 37--38
 \OT1/cmr/m/n/10.95 tak je ozna^^Tcov^^Sana za \OT1/cmr/bx/n/10.95 efu-zivn^^S^^
 P\OT1/cmr/m/n/10.95 . V p^^Tr^^S^^Ppad^^Te
@@ -2583,12 +2576,12 @@ Underfull \hbox (badness 2922) in paragraph at lines 74--76
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<obrazky/sopky/paho_aa.jpg, id=1222, 1204.5pt x 803.0pt>
+<obrazky/sopky/paho_aa.jpg, id=1209, 1204.5pt x 803.0pt>
 File: obrazky/sopky/paho_aa.jpg Graphic file (type jpg)
 <use obrazky/sopky/paho_aa.jpg>
 Package pdftex.def Info: obrazky/sopky/paho_aa.jpg  used on input line 78.
 (pdftex.def)             Requested size: 226.19933pt x 150.79492pt.
-<obrazky/sopky/puma.jpg, id=1224, 1027.84pt x 685.56125pt>
+<obrazky/sopky/puma.jpg, id=1211, 1027.84pt x 685.56125pt>
 File: obrazky/sopky/puma.jpg Graphic file (type jpg)
 <use obrazky/sopky/puma.jpg>
 Package pdftex.def Info: obrazky/sopky/puma.jpg  used on input line 88.
@@ -2602,8 +2595,8 @@ ma
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[32 <./obrazky/sopky/Intrusion_types.png> <./obrazky/sopky/paho_aa.jpg>]
-<obrazky/sopky/pyroclastic.jpg, id=1237, 602.25pt x 376.40625pt>
+[30 <./obrazky/sopky/Intrusion_types.png> <./obrazky/sopky/paho_aa.jpg>]
+<obrazky/sopky/pyroclastic.jpg, id=1224, 602.25pt x 376.40625pt>
 File: obrazky/sopky/pyroclastic.jpg Graphic file (type jpg)
 <use obrazky/sopky/pyroclastic.jpg>
 Package pdftex.def Info: obrazky/sopky/pyroclastic.jpg  used on input line 102.
@@ -2630,7 +2623,7 @@ Underfull \hbox (badness 1270) in paragraph at lines 111--112
 ^^Tcn^^Se kupy
  []
 
-<obrazky/sopky/maar.jpg, id=1239, 3790.16pt x 1830.84pt>
+<obrazky/sopky/maar.jpg, id=1226, 3790.16pt x 1830.84pt>
 File: obrazky/sopky/maar.jpg Graphic file (type jpg)
 <use obrazky/sopky/maar.jpg>
 Package pdftex.def Info: obrazky/sopky/maar.jpg  used on input line 116.
@@ -2647,8 +2640,8 @@ ej^^Ts^^S^^Pm ty-pem
 
 Underfull \vbox (badness 2073) has occurred while \output is active []
 
- [33 <./obrazky/sopky/puma.jpg> <./obrazky/sopky/pyroclastic.jpg>]
-<obrazky/sopky/Stratovolcano_cross-section.svg.png, id=1250, 2569.6pt x 1588.93
+ [31 <./obrazky/sopky/puma.jpg> <./obrazky/sopky/pyroclastic.jpg>]
+<obrazky/sopky/Stratovolcano_cross-section.svg.png, id=1237, 2569.6pt x 1588.93
 625pt>
 File: obrazky/sopky/Stratovolcano_cross-section.svg.png Graphic file (type png)
 
@@ -2661,7 +2654,7 @@ Underfull \hbox (badness 5388) in paragraph at lines 126--126
 \OT1/cmr/m/n/10.95 A: magma stoup^^Sa z mag-ma-tick^^Seho krbu
  []
 
-<obrazky/sopky/st_helen.jpg, id=1251, 473.6094pt x 712.1004pt>
+<obrazky/sopky/st_helen.jpg, id=1238, 473.6094pt x 712.1004pt>
 File: obrazky/sopky/st_helen.jpg Graphic file (type jpg)
 <use obrazky/sopky/st_helen.jpg>
 Package pdftex.def Info: obrazky/sopky/st_helen.jpg  used on input line 132.
@@ -2681,7 +2674,7 @@ Underfull \hbox (badness 4582) in paragraph at lines 137--138
 ych nadmo^^Trsk^^Sych
  []
 
-<obrazky/sopky/mauna_loa.jpg, id=1253, 1893.0725pt x 803.0pt>
+<obrazky/sopky/mauna_loa.jpg, id=1240, 1893.0725pt x 803.0pt>
 File: obrazky/sopky/mauna_loa.jpg Graphic file (type jpg)
 <use obrazky/sopky/mauna_loa.jpg>
 Package pdftex.def Info: obrazky/sopky/mauna_loa.jpg  used on input line 141.
@@ -2689,7 +2682,7 @@ Package pdftex.def Info: obrazky/sopky/mauna_loa.jpg  used on input line 141.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<obrazky/sopky/santorini.jpg, id=1254, 1169.87062pt x 718.18312pt>
+<obrazky/sopky/santorini.jpg, id=1241, 1169.87062pt x 718.18312pt>
 File: obrazky/sopky/santorini.jpg Graphic file (type jpg)
 <use obrazky/sopky/santorini.jpg>
 Package pdftex.def Info: obrazky/sopky/santorini.jpg  used on input line 150.
@@ -2697,7 +2690,7 @@ Package pdftex.def Info: obrazky/sopky/santorini.jpg  used on input line 150.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<obrazky/sopky/trapy.jpg, id=1256, 2057.6875pt x 1269.74374pt>
+<obrazky/sopky/trapy.jpg, id=1243, 2057.6875pt x 1269.74374pt>
 File: obrazky/sopky/trapy.jpg Graphic file (type jpg)
 <use obrazky/sopky/trapy.jpg>
 Package pdftex.def Info: obrazky/sopky/trapy.jpg  used on input line 159.
@@ -2717,17 +2710,12 @@ er-[]seen-[]them-[]before-[]ac9e2f39aa56$[]\OT1/cmr/m/n/10.95 , CC
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34 <./obrazky/sopky/maar.jpg> <./obrazky/sopky/Stratovolcano_cross-section.svg
-.png> <./obrazky/sopky/st_helen.jpg>] [35 <./obrazky/sopky/mauna_loa.jpg> <./ob
-razky/sopky/santorini.jpg>] [36 <./obrazky/sopky/trapy.jpg>] [37
-
-]) [38
+) [32 <./obrazky/sopky/maar.jpg> <./obrazky/sopky/Stratovolcano_cross-section.s
+vg.png> <./obrazky/sopky/st_helen.jpg>] [33 <./obrazky/sopky/mauna_loa.jpg> <./
+obrazky/sopky/santorini.jpg>] [34 <./obrazky/sopky/trapy.jpg>] [35
 
 
-]
-[39
-
-] [40]
+] [36]
 Kapitola 6.
 (text/zvetravani.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
@@ -2756,7 +2744,7 @@ Underfull \hbox (badness 1502) in paragraph at lines 8--9
 \OT1/cmr/m/n/10.95 Horniny a mi-ner^^Saly jsou ^^Tspatn^^Sym vodi^^Tcem
  []
 
-<obrazky/zvetravani/mrazove.jpg, id=1294, 878.8032pt x 659.1024pt>
+<obrazky/zvetravani/mrazove.jpg, id=1273, 878.8032pt x 659.1024pt>
 File: obrazky/zvetravani/mrazove.jpg Graphic file (type jpg)
 <use obrazky/zvetravani/mrazove.jpg>
 Package pdftex.def Info: obrazky/zvetravani/mrazove.jpg  used on input line 13.
@@ -2779,11 +2767,11 @@ Underfull \hbox (badness 1122) in paragraph at lines 26--28
 kro-ex-fo-li-aci\OT1/cmr/m/n/10.95 . Od-lu-
  []
 
-[41
+[37
 
 
  <./obrazky/zvetravani/mrazove.jpg>]
-<obrazky/zvetravani/exfoliace.jpg, id=1301, 1284.8pt x 963.6pt>
+<obrazky/zvetravani/exfoliace.jpg, id=1279, 1284.8pt x 963.6pt>
 File: obrazky/zvetravani/exfoliace.jpg Graphic file (type jpg)
 <use obrazky/zvetravani/exfoliace.jpg>
 Package pdftex.def Info: obrazky/zvetravani/exfoliace.jpg  used on input line 3
@@ -2866,7 +2854,7 @@ Underfull \hbox (badness 2229) in paragraph at lines 56--57
 n^^S^^P
  []
 
-[42 <./obrazky/zvetravani/exfoliace.jpg>]
+[38 <./obrazky/zvetravani/exfoliace.jpg>]
 Underfull \hbox (badness 1028) in paragraph at lines 61--64
 []\OT1/cmr/bx/n/10.95 Karbonatizace \OT1/cmr/m/n/10.95 je re-akce za ^^Su^^Tcas
 ti hyd-
@@ -2878,7 +2866,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 61--64
 []$$[] []
  []
 
-<obrazky/zvetravani/laterit.jpg, id=1307, 98.0244pt x 63.5976pt>
+<obrazky/zvetravani/laterit.jpg, id=1285, 98.0244pt x 63.5976pt>
 File: obrazky/zvetravani/laterit.jpg Graphic file (type jpg)
 <use obrazky/zvetravani/laterit.jpg>
 Package pdftex.def Info: obrazky/zvetravani/laterit.jpg  used on input line 69.
@@ -2954,9 +2942,9 @@ Underfull \hbox (badness 1014) in paragraph at lines 154--155
 \OT1/cmr/m/n/10.95 Zv^^Tetralinu, kter^^Sa je na m^^S^^Pst^^Te sv^^Seho vzniku
  []
 
-[43 <./obrazky/zvetravani/laterit.jpg>] [44
+) [39 <./obrazky/zvetravani/laterit.jpg>] [40
 
-])
+]
 Kapitola 7.
 (text/svahy.tex
 Underfull \hbox (badness 2253) in paragraph at lines 8--9
@@ -2979,7 +2967,7 @@ Underfull \hbox (badness 2376) in paragraph at lines 8--9
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/slope/segmenty_svahu.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/slope/segmenty_svahu.pdf, id=1319, 361.4554pt x 221.18735pt>
+<obrazky/slope/segmenty_svahu.pdf, id=1297, 361.4554pt x 221.18735pt>
 File: obrazky/slope/segmenty_svahu.pdf Graphic file (type pdf)
 <use obrazky/slope/segmenty_svahu.pdf>
 Package pdftex.def Info: obrazky/slope/segmenty_svahu.pdf  used on input line 1
@@ -2994,14 +2982,11 @@ Underfull \hbox (badness 1226) in paragraph at lines 38--39
  ^^R$\OT1/cmr/m/n/10.95 ) svahu. S
  []
 
-[45
-
-
- <./obrazky/slope/segmenty_svahu.pdf>]
+[41 <./obrazky/slope/segmenty_svahu.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/slope/svah_napeti.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/slope/svah_napeti.pdf, id=1353, 238.64156pt x 252.945pt>
+<obrazky/slope/svah_napeti.pdf, id=1332, 238.64156pt x 252.945pt>
 File: obrazky/slope/svah_napeti.pdf Graphic file (type pdf)
 <use obrazky/slope/svah_napeti.pdf>
 Package pdftex.def Info: obrazky/slope/svah_napeti.pdf  used on input line 42.
@@ -3076,7 +3061,7 @@ Underfull \hbox (badness 3291) in paragraph at lines 89--90
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/slope/stability_diagram.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/slope/stability_diagram.pdf, id=1357, 364.58098pt x 136.61691pt>
+<obrazky/slope/stability_diagram.pdf, id=1336, 364.58098pt x 136.61691pt>
 File: obrazky/slope/stability_diagram.pdf Graphic file (type pdf)
 <use obrazky/slope/stability_diagram.pdf>
 Package pdftex.def Info: obrazky/slope/stability_diagram.pdf  used on input lin
@@ -3089,7 +3074,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/slope/time_stability.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/slope/time_stability.pdf, id=1360, 516.93498pt x 227.91638pt>
+<obrazky/slope/time_stability.pdf, id=1339, 516.93498pt x 227.91638pt>
 File: obrazky/slope/time_stability.pdf Graphic file (type pdf)
 <use obrazky/slope/time_stability.pdf>
 Package pdftex.def Info: obrazky/slope/time_stability.pdf  used on input line 1
@@ -3171,11 +3156,11 @@ Underfull \hbox (badness 2142) in paragraph at lines 157--159
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46 <./obrazky/slope/svah_napeti.pdf>] [47]
+ [42 <./obrazky/slope/svah_napeti.pdf>] [43]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/slope/landslide_type.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/slope/landslide_type.pdf, id=1401, 550.055pt x 665.48625pt>
+<obrazky/slope/landslide_type.pdf, id=1379, 550.055pt x 665.48625pt>
 File: obrazky/slope/landslide_type.pdf Graphic file (type pdf)
 <use obrazky/slope/landslide_type.pdf>
 Package pdftex.def Info: obrazky/slope/landslide_type.pdf  used on input line 1
@@ -3203,8 +3188,8 @@ Underfull \hbox (badness 1762) in paragraph at lines 238--239
 \OT1/cmr/m/n/10.95 obr. []7.6[]) m^^Sa smy-ko-vou plo-chu zak^^Trivenou,
  []
 
-[48 <./obrazky/slope/stability_diagram.pdf>]
-<obrazky/slope/rotacni.jpg, id=1442, 2055.68pt x 1371.1225pt>
+[44 <./obrazky/slope/stability_diagram.pdf>]
+<obrazky/slope/rotacni.jpg, id=1420, 2055.68pt x 1371.1225pt>
 File: obrazky/slope/rotacni.jpg Graphic file (type jpg)
 <use obrazky/slope/rotacni.jpg>
 Package pdftex.def Info: obrazky/slope/rotacni.jpg  used on input line 242.
@@ -3234,7 +3219,7 @@ Underfull \hbox (badness 1019) in paragraph at lines 248--249
 \OT1/cmr/m/n/10.95 pukliny, plo-chy fo-li-ace apod. Transla^^Tcn^^S^^P se-
  []
 
-<obrazky/slope/melke.jpg, id=1445, 878.68275pt x 659.16263pt>
+<obrazky/slope/melke.jpg, id=1423, 878.68275pt x 659.16263pt>
 File: obrazky/slope/melke.jpg Graphic file (type jpg)
 <use obrazky/slope/melke.jpg>
 Package pdftex.def Info: obrazky/slope/melke.jpg  used on input line 253.
@@ -3242,9 +3227,9 @@ Package pdftex.def Info: obrazky/slope/melke.jpg  used on input line 253.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49 <./obrazky/slope/time_stability.pdf>] [50 <./obrazky/slope/landslide_type.
+ [45 <./obrazky/slope/time_stability.pdf>] [46 <./obrazky/slope/landslide_type.
 pdf>]
-<obrazky/slope/debris_flow.jpg, id=1489, 1106.33325pt x 830.50275pt>
+<obrazky/slope/debris_flow.jpg, id=1467, 1106.33325pt x 830.50275pt>
 File: obrazky/slope/debris_flow.jpg Graphic file (type jpg)
 <use obrazky/slope/debris_flow.jpg>
 Package pdftex.def Info: obrazky/slope/debris_flow.jpg  used on input line 271.
@@ -3305,7 +3290,7 @@ P vrs-tev\OT1/cmr/m/n/10.95 , co^^Tz je
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/slope/sackung.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/slope/sackung.pdf, id=1491, 432.17531pt x 239.28125pt>
+<obrazky/slope/sackung.pdf, id=1469, 432.17531pt x 239.28125pt>
 File: obrazky/slope/sackung.pdf Graphic file (type pdf)
 <use obrazky/slope/sackung.pdf>
 Package pdftex.def Info: obrazky/slope/sackung.pdf  used on input line 300.
@@ -3313,8 +3298,8 @@ Package pdftex.def Info: obrazky/slope/sackung.pdf  used on input line 300.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[51 <./obrazky/slope/rotacni.jpg>] [52 <./obrazky/slope/melke.jpg>]
-<obrazky/slope/hakovani.jpg, id=1512, 803.0pt x 581.17125pt>
+[47 <./obrazky/slope/rotacni.jpg>] [48 <./obrazky/slope/melke.jpg>]
+<obrazky/slope/hakovani.jpg, id=1491, 803.0pt x 581.17125pt>
 File: obrazky/slope/hakovani.jpg Graphic file (type jpg)
 <use obrazky/slope/hakovani.jpg>
 Package pdftex.def Info: obrazky/slope/hakovani.jpg  used on input line 320.
@@ -3392,7 +3377,7 @@ Underfull \hbox (badness 1270) in paragraph at lines 365--366
 \OT1/cmr/m/n/10.95 t^^Seto pas^^Sa^^Tzi budu pou^^Tz^^S^^Pvat po-jem se-suv ve
  []
 
-[53 <./obrazky/slope/debris_flow.jpg> <./obrazky/slope/sackung.pdf> <./obrazky/
+[49 <./obrazky/slope/debris_flow.jpg> <./obrazky/slope/sackung.pdf> <./obrazky/
 slope/hakovani.jpg>]
 Underfull \hbox (badness 1048) in paragraph at lines 369--370
 []\OT1/cmr/m/n/10.95 Podle ak-ti-vity rozli^^Tsujeme se-suvy na \OT1/cmr/bx/n/1
@@ -3452,7 +3437,7 @@ Underfull \hbox (badness 2512) in paragraph at lines 391--392
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/slope/korup_toky.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/slope/korup_toky.pdf, id=1542, 283.86855pt x 209.41237pt>
+<obrazky/slope/korup_toky.pdf, id=1520, 283.86855pt x 209.41237pt>
 File: obrazky/slope/korup_toky.pdf Graphic file (type pdf)
 <use obrazky/slope/korup_toky.pdf>
 Package pdftex.def Info: obrazky/slope/korup_toky.pdf  used on input line 397.
@@ -3460,7 +3445,7 @@ Package pdftex.def Info: obrazky/slope/korup_toky.pdf  used on input line 397.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54]
+[50]
 Underfull \hbox (badness 6775) in paragraph at lines 409--411
 []\OT1/cmr/bx/n/10.95 Bombardov^^San^^S^^P vodn^^S^^Pmi kap-kami \OT1/cmr/m/n/1
 0.95 se
@@ -3539,9 +3524,9 @@ Underfull \hbox (badness 1527) in paragraph at lines 423--424
 \OT1/cmr/m/n/10.95 co^^Tz sni^^Tzuje kva-litu vody ale tak^^Se ma-teri^^Sal
  []
 
-[55 <./obrazky/slope/korup_toky.pdf>] [56
+) [51 <./obrazky/slope/korup_toky.pdf>] [52
 
-])
+]
 Kapitola 8.
 (text/fluvial.tex
 Underfull \hbox (badness 1838) in paragraph at lines 9--10
@@ -3552,7 +3537,7 @@ Underfull \hbox (badness 1838) in paragraph at lines 9--10
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/fluv_system.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/fluv_system.pdf, id=1588, 407.2053pt x 282.12001pt>
+<obrazky/fluvial/fluv_system.pdf, id=1566, 407.2053pt x 282.12001pt>
 File: obrazky/fluvial/fluv_system.pdf Graphic file (type pdf)
 <use obrazky/fluvial/fluv_system.pdf>
 Package pdftex.def Info: obrazky/fluvial/fluv_system.pdf  used on input line 14
@@ -3596,7 +3581,7 @@ ce
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/laminar_turbul.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/laminar_turbul.pdf, id=1592, 139.46404pt x 297.97725pt>
+<obrazky/fluvial/laminar_turbul.pdf, id=1570, 139.46404pt x 297.97725pt>
 File: obrazky/fluvial/laminar_turbul.pdf Graphic file (type pdf)
 <use obrazky/fluvial/laminar_turbul.pdf>
 Package pdftex.def Info: obrazky/fluvial/laminar_turbul.pdf  used on input line
@@ -3623,10 +3608,7 @@ Underfull \hbox (badness 3439) in paragraph at lines 54--55
 .95 (\OT1/cmr/m/it/10.95 su-per-cri-ti-cal flow\OT1/cmr/m/n/10.95 ). V
  []
 
-[57
-
-
-]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 67--69
 \OT1/cmr/m/n/10.95 ^^Tr^^S^^P^^Tcn^^S^^P proud^^Ten^^S^^P. Byst^^Trinn^^Se (nad
 -kri-tick^^Se)
@@ -3661,7 +3643,7 @@ Underfull \hbox (badness 1048) in paragraph at lines 71--72
 Sem
  []
 
-[58 <./obrazky/fluvial/fluv_system.pdf>]
+[54 <./obrazky/fluvial/fluv_system.pdf>]
 Underfull \hbox (badness 5862) in paragraph at lines 96--97
 [][]\OT1/cmr/m/n/10.95 Manning^^Wuv koe-fi-ci-ent drs-nosti [bez-
  []
@@ -3684,7 +3666,7 @@ Underfull \hbox (badness 2990) in paragraph at lines 153--154
 
  []
 
-[59 <./obrazky/fluvial/laminar_turbul.pdf>]
+[55 <./obrazky/fluvial/laminar_turbul.pdf>]
 Underfull \hbox (badness 5519) in paragraph at lines 166--167
 []\OT1/cmr/m/n/10.95 Vztah mezi spe-ci-fick^^Sym v^^Sykonem toku,
  []
@@ -3724,11 +3706,11 @@ Underfull \hbox (badness 1924) in paragraph at lines 201--202
 em
  []
 
-[60]
+[56]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/bank_erosion.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/bank_erosion.pdf, id=1671, 424.58624pt x 709.90219pt>
+<obrazky/fluvial/bank_erosion.pdf, id=1649, 424.58624pt x 709.90219pt>
 File: obrazky/fluvial/bank_erosion.pdf Graphic file (type pdf)
 <use obrazky/fluvial/bank_erosion.pdf>
 Package pdftex.def Info: obrazky/fluvial/bank_erosion.pdf  used on input line 2
@@ -3748,7 +3730,7 @@ Underfull \hbox (badness 2302) in paragraph at lines 211--212
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/sily_klast.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/sily_klast.pdf, id=1675, 387.50671pt x 195.75935pt>
+<obrazky/fluvial/sily_klast.pdf, id=1653, 387.50671pt x 195.75935pt>
 File: obrazky/fluvial/sily_klast.pdf Graphic file (type pdf)
 <use obrazky/fluvial/sily_klast.pdf>
 Package pdftex.def Info: obrazky/fluvial/sily_klast.pdf  used on input line 221
@@ -3758,12 +3740,12 @@ Package pdftex.def Info: obrazky/fluvial/sily_klast.pdf  used on input line 221
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/hjulstr.pdf): PDF inclusio
 n: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/hjulstr.pdf, id=1679, 289.08pt x 192.72pt>
+<obrazky/fluvial/hjulstr.pdf, id=1657, 289.08pt x 192.72pt>
 File: obrazky/fluvial/hjulstr.pdf Graphic file (type pdf)
 <use obrazky/fluvial/hjulstr.pdf>
 Package pdftex.def Info: obrazky/fluvial/hjulstr.pdf  used on input line 230.
 (pdftex.def)             Requested size: 475.16095pt x 316.7921pt.
-<obrazky/fluvial/lanes_balance.jpg, id=1682, 313.38318pt x 217.44955pt>
+<obrazky/fluvial/lanes_balance.jpg, id=1660, 313.38318pt x 217.44955pt>
 File: obrazky/fluvial/lanes_balance.jpg Graphic file (type jpg)
 <use obrazky/fluvial/lanes_balance.jpg>
 Package pdftex.def Info: obrazky/fluvial/lanes_balance.jpg  used on input line 
@@ -3796,12 +3778,12 @@ Underfull \hbox (badness 1173) in paragraph at lines 245--246
 teri^^Salu
  []
 
-[61 <./obrazky/fluvial/bank_erosion.pdf> <./obrazky/fluvial/sily_klast.pdf>]
-[62 <./obrazky/fluvial/hjulstr.pdf> <./obrazky/fluvial/lanes_balance.jpg>]
+[57 <./obrazky/fluvial/bank_erosion.pdf> <./obrazky/fluvial/sily_klast.pdf>]
+[58 <./obrazky/fluvial/hjulstr.pdf> <./obrazky/fluvial/lanes_balance.jpg>]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/fluv_sed_trans.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/fluv_sed_trans.pdf, id=1754, 457.22418pt x 243.23973pt>
+<obrazky/fluvial/fluv_sed_trans.pdf, id=1732, 457.22418pt x 243.23973pt>
 File: obrazky/fluvial/fluv_sed_trans.pdf Graphic file (type pdf)
 <use obrazky/fluvial/fluv_sed_trans.pdf>
 Package pdftex.def Info: obrazky/fluvial/fluv_sed_trans.pdf  used on input line
@@ -3856,7 +3838,7 @@ Underfull \hbox (badness 1005) in paragraph at lines 287--288
  v^^Tzdy
  []
 
-[63 <./obrazky/fluvial/fluv_sed_trans.pdf>]
+[59 <./obrazky/fluvial/fluv_sed_trans.pdf>]
 Underfull \hbox (badness 3375) in paragraph at lines 292--293
 \OT1/cmr/m/n/10.95 proud^^Ten^^S^^P. Toto proud^^Ten^^S^^P zvy^^Tsuje erozi na
  []
@@ -3865,7 +3847,7 @@ Underfull \hbox (badness 3375) in paragraph at lines 292--293
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/mendry_sinusoita.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/mendry_sinusoita.pdf, id=1782, 353.14334pt x 325.41776pt>
+<obrazky/fluvial/mendry_sinusoita.pdf, id=1761, 353.14334pt x 325.41776pt>
 File: obrazky/fluvial/mendry_sinusoita.pdf Graphic file (type pdf)
 <use obrazky/fluvial/mendry_sinusoita.pdf>
 Package pdftex.def Info: obrazky/fluvial/mendry_sinusoita.pdf  used on input li
@@ -3877,7 +3859,7 @@ Underfull \hbox (badness 1558) in paragraph at lines 302--303
 n^^Se
  []
 
-<obrazky/fluvial/divocici.jpg, id=1785, 2467.2175pt x 1849.91125pt>
+<obrazky/fluvial/divocici.jpg, id=1764, 2467.2175pt x 1849.91125pt>
 File: obrazky/fluvial/divocici.jpg Graphic file (type jpg)
 <use obrazky/fluvial/divocici.jpg>
 Package pdftex.def Info: obrazky/fluvial/divocici.jpg  used on input line 306.
@@ -3900,7 +3882,7 @@ Underfull \hbox (badness 3492) in paragraph at lines 332--333
 hy
  []
 
-[64 <./obrazky/fluvial/mendry_sinusoita.pdf> <./obrazky/fluvial/divocici.jpg>]
+[60 <./obrazky/fluvial/mendry_sinusoita.pdf> <./obrazky/fluvial/divocici.jpg>]
 Underfull \hbox (badness 5388) in paragraph at lines 338--339
 \OT1/cmr/m/n/10.95 kter^^Se bez v^^Syrazn^^Seho z^^Salomu p^^Trech^^Saz^^S^^P d
 o
@@ -3910,7 +3892,7 @@ o
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/typy_udoli.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/typy_udoli.pdf, id=1819, 614.9585pt x 302.1428pt>
+<obrazky/fluvial/typy_udoli.pdf, id=1798, 614.9585pt x 302.1428pt>
 File: obrazky/fluvial/typy_udoli.pdf Graphic file (type pdf)
 <use obrazky/fluvial/typy_udoli.pdf>
 Package pdftex.def Info: obrazky/fluvial/typy_udoli.pdf  used on input line 342
@@ -3948,7 +3930,7 @@ Underfull \hbox (badness 4217) in paragraph at lines 369--370
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/klast_klastr.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/klast_klastr.pdf, id=1822, 262.89217pt x 102.64648pt>
+<obrazky/fluvial/klast_klastr.pdf, id=1801, 262.89217pt x 102.64648pt>
 File: obrazky/fluvial/klast_klastr.pdf Graphic file (type pdf)
 <use obrazky/fluvial/klast_klastr.pdf>
 Package pdftex.def Info: obrazky/fluvial/klast_klastr.pdf  used on input line 3
@@ -3989,11 +3971,11 @@ Underfull \hbox (badness 1014) in paragraph at lines 378--379
 ^^Se la-vice \OT1/cmr/m/n/10.95 (\OT1/cmr/m/it/10.95 mid-
  []
 
-[65 <./obrazky/fluvial/typy_udoli.pdf> <./obrazky/fluvial/klast_klastr.pdf>]
+[61 <./obrazky/fluvial/typy_udoli.pdf> <./obrazky/fluvial/klast_klastr.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/lavice.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/lavice.pdf, id=1873, 105.88257pt x 290.36281pt>
+<obrazky/fluvial/lavice.pdf, id=1851, 105.88257pt x 290.36281pt>
 File: obrazky/fluvial/lavice.pdf Graphic file (type pdf)
 <use obrazky/fluvial/lavice.pdf>
 Package pdftex.def Info: obrazky/fluvial/lavice.pdf  used on input line 382.
@@ -4004,8 +3986,8 @@ Underfull \hbox (badness 1097) in paragraph at lines 391--392
 \OT1/cmr/m/n/10.95 . \OT1/cmr/bx/n/10.95 Bo^^Tcn^^S^^P (la-
  []
 
-[66 <./obrazky/fluvial/lavice.pdf>]
-<obrazky/fluvial/meander.jpg, id=1896, 505.89pt x 340.1508pt>
+[62 <./obrazky/fluvial/lavice.pdf>]
+<obrazky/fluvial/meander.jpg, id=1874, 505.89pt x 340.1508pt>
 File: obrazky/fluvial/meander.jpg Graphic file (type jpg)
 <use obrazky/fluvial/meander.jpg>
 Package pdftex.def Info: obrazky/fluvial/meander.jpg  used on input line 397.
@@ -4016,7 +3998,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 403--405
 /it/10.95 ri-ver terra-ces\OT1/cmr/m/n/10.95 ) jsou zbytky
  []
 
-<obrazky/fluvial/Alluvial_fan.jpg, id=1897, 2055.68pt x 1541.76pt>
+<obrazky/fluvial/Alluvial_fan.jpg, id=1875, 2055.68pt x 1541.76pt>
 File: obrazky/fluvial/Alluvial_fan.jpg Graphic file (type jpg)
 <use obrazky/fluvial/Alluvial_fan.jpg>
 Package pdftex.def Info: obrazky/fluvial/Alluvial_fan.jpg  used on input line 4
@@ -4025,7 +4007,7 @@ Package pdftex.def Info: obrazky/fluvial/Alluvial_fan.jpg  used on input line 4
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<obrazky/fluvial/bajada.jpg, id=1899, 1517.67pt x 2248.4pt>
+<obrazky/fluvial/bajada.jpg, id=1877, 1517.67pt x 2248.4pt>
 File: obrazky/fluvial/bajada.jpg Graphic file (type jpg)
 <use obrazky/fluvial/bajada.jpg>
 Package pdftex.def Info: obrazky/fluvial/bajada.jpg  used on input line 424.
@@ -4033,15 +4015,10 @@ Package pdftex.def Info: obrazky/fluvial/bajada.jpg  used on input line 424.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[67 <./obrazky/fluvial/meander.jpg> <./obrazky/fluvial/Alluvial_fan.jpg>]
-[68
+) [63 <./obrazky/fluvial/meander.jpg> <./obrazky/fluvial/Alluvial_fan.jpg>]
+[64
 
- <./obrazky/fluvial/bajada.jpg>] [69
-
-]) [70
-
-
-]
+ <./obrazky/fluvial/bajada.jpg>]
 Kapitola 9.
 (text/povodi.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
@@ -4055,7 +4032,7 @@ Underfull \hbox (badness 7030) in paragraph at lines 1--2
 ho odt^^Sek^^Sa
  []
 
-<obrazky/fluvial/watershed_tilt.jpg, id=1919, 234.07805pt x 212.97266pt>
+<obrazky/fluvial/watershed_tilt.jpg, id=1889, 234.07805pt x 212.97266pt>
 File: obrazky/fluvial/watershed_tilt.jpg Graphic file (type jpg)
 <use obrazky/fluvial/watershed_tilt.jpg>
 Package pdftex.def Info: obrazky/fluvial/watershed_tilt.jpg  used on input line
@@ -4116,7 +4093,7 @@ Underfull \hbox (badness 1478) in paragraph at lines 43--44
 ^Sa, ^^Tze spo-jen^^S^^Pm
  []
 
-<obrazky/fluvial/rad_toku.pdf, id=1923, 199.1693pt x 296.5325pt>
+<obrazky/fluvial/rad_toku.pdf, id=1893, 199.1693pt x 296.5325pt>
 File: obrazky/fluvial/rad_toku.pdf Graphic file (type pdf)
 <use obrazky/fluvial/rad_toku.pdf>
 Package pdftex.def Info: obrazky/fluvial/rad_toku.pdf  used on input line 48.
@@ -4127,13 +4104,10 @@ Underfull \hbox (badness 2293) in paragraph at lines 55--56
 vody ve
  []
 
-[71 <./obrazky/fluvial/watershed_tilt.jpg>] [72 <./obrazky/fluvial/rad_toku.pdf
->] [73
+[65
 
-]) [74
+ <./obrazky/fluvial/watershed_tilt.jpg>]) [66 <./obrazky/fluvial/rad_toku.pdf>]
 
-
-]
 Kapitola 10.
 (text/kras.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
@@ -4173,7 +4147,9 @@ Underfull \hbox (badness 1688) in paragraph at lines 28--29
  jej^^S^^Pm
  []
 
-[75]
+[67
+
+]
 Underfull \hbox (badness 3942) in paragraph at lines 39--40
 []\OT1/cmr/m/n/10.95 Tropick^^Se tepl^^Se a vlhk^^Se klima je ve-lice
  []
@@ -4183,7 +4159,7 @@ Underfull \hbox (badness 1400) in paragraph at lines 46--47
 \OT1/cmr/m/n/10.95 hor-niny po-kryt^^Se moc-nou vrst-vou pro-pustn^^Se
  []
 
-<obrazky/karst/KarstterrainUSGS.jpg, id=1975, 1317.92375pt x 587.19376pt>
+<obrazky/karst/KarstterrainUSGS.jpg, id=1937, 1317.92375pt x 587.19376pt>
 File: obrazky/karst/KarstterrainUSGS.jpg Graphic file (type jpg)
 <use obrazky/karst/KarstterrainUSGS.jpg>
 Package pdftex.def Info: obrazky/karst/KarstterrainUSGS.jpg  used on input line
@@ -4227,7 +4203,7 @@ Underfull \hbox (badness 6157) in paragraph at lines 65--66
 M^^S^^Psovit^^Se
  []
 
-<obrazky/karst/skrapy1.jpg, id=1977, 1027.84pt x 685.56125pt>
+<obrazky/karst/skrapy1.jpg, id=1939, 1027.84pt x 685.56125pt>
 File: obrazky/karst/skrapy1.jpg Graphic file (type jpg)
 <use obrazky/karst/skrapy1.jpg>
 Package pdftex.def Info: obrazky/karst/skrapy1.jpg  used on input line 72.
@@ -4264,7 +4240,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 87--88
 t
  []
 
-<obrazky/karst/doline.jpg, id=1978, 795.4518pt x 527.8119pt>
+<obrazky/karst/doline.jpg, id=1940, 795.4518pt x 527.8119pt>
 File: obrazky/karst/doline.jpg Graphic file (type jpg)
 <use obrazky/karst/doline.jpg>
 Package pdftex.def Info: obrazky/karst/doline.jpg  used on input line 91.
@@ -4278,7 +4254,7 @@ Underfull \hbox (badness 3179) in paragraph at lines 95--96
 Savrt^^Wu,
  []
 
-<obrazky/karst/Mexico_Cenotes.jpg, id=1979, 1282.7925pt x 530.98375pt>
+<obrazky/karst/Mexico_Cenotes.jpg, id=1941, 1282.7925pt x 530.98375pt>
 File: obrazky/karst/Mexico_Cenotes.jpg Graphic file (type jpg)
 <use obrazky/karst/Mexico_Cenotes.jpg>
 Package pdftex.def Info: obrazky/karst/Mexico_Cenotes.jpg  used on input line 9
@@ -4289,7 +4265,7 @@ Underfull \hbox (badness 2334) in paragraph at lines 100--100
 []\OT1/cmr/m/n/10.95 Obr^^Sazek 10.4: []Cenote de los Sa-cri-fi-cios v
  []
 
-[76]
+[68]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -4316,7 +4292,7 @@ Underfull \hbox (badness 4441) in paragraph at lines 113--114
 \OT1/cmr/m/n/10.95 strukci p^^Wuvodn^^S^^Pho po-vrchu a vzniku tzv.
  []
 
-[77 <./obrazky/karst/KarstterrainUSGS.jpg> <./obrazky/karst/skrapy1.jpg> <./obr
+[69 <./obrazky/karst/KarstterrainUSGS.jpg> <./obrazky/karst/skrapy1.jpg> <./obr
 azky/karst/doline.jpg>]
 Underfull \hbox (badness 4713) in paragraph at lines 123--124
 \OT1/cmr/m/n/10.95 Nejzn^^Sam^^Tej^^Ts^^S^^Pm pod-po-vr-chov^^Sym tva-rem jsou
@@ -4367,15 +4343,10 @@ Underfull \hbox (badness 1019) in paragraph at lines 148--149
 ry)
  []
 
-[78 <./obrazky/karst/Mexico_Cenotes.jpg>] [79
-
-]) [80
-
-
-]
+) [70 <./obrazky/karst/Mexico_Cenotes.jpg>]
 Kapitola 11.
 (text/glac.tex
-<obrazky/glac/komponenty_kryosfery.jpg, id=2012, 1022.82124pt x 713.66624pt>
+<obrazky/glac/komponenty_kryosfery.jpg, id=1965, 1022.82124pt x 713.66624pt>
 File: obrazky/glac/komponenty_kryosfery.jpg Graphic file (type jpg)
 <use obrazky/glac/komponenty_kryosfery.jpg>
 Package pdftex.def Info: obrazky/glac/komponenty_kryosfery.jpg  used on input l
@@ -4411,7 +4382,7 @@ Underfull \hbox (badness 2253) in paragraph at lines 31--32
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/glac/ledovec_mass_balance.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/glac/ledovec_mass_balance.pdf, id=2022, 661.72218pt x 353.82187pt>
+<obrazky/glac/ledovec_mass_balance.pdf, id=1975, 661.72218pt x 353.82187pt>
 File: obrazky/glac/ledovec_mass_balance.pdf Graphic file (type pdf)
 <use obrazky/glac/ledovec_mass_balance.pdf>
 Package pdftex.def Info: obrazky/glac/ledovec_mass_balance.pdf  used on input l
@@ -4434,12 +4405,14 @@ Underfull \hbox (badness 1092) in paragraph at lines 51--54
 ku a
  []
 
-[81] [82 <./obrazky/glac/komponenty_kryosfery.jpg> <./obrazky/glac/ledovec_mass
-_balance.pdf>]
+[71
+
+] [72 <./obrazky/glac/komponenty_kryosfery.jpg> <./obrazky/glac/ledovec_mass_ba
+lance.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/glac/iceshelf.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/glac/iceshelf.pdf, id=2060, 803.0pt x 491.8375pt>
+<obrazky/glac/iceshelf.pdf, id=2014, 803.0pt x 491.8375pt>
 File: obrazky/glac/iceshelf.pdf Graphic file (type pdf)
 <use obrazky/glac/iceshelf.pdf>
 Package pdftex.def Info: obrazky/glac/iceshelf.pdf  used on input line 59.
@@ -4457,7 +4430,7 @@ a pole \OT1/cmr/m/n/10.95 a hlavn^^Te
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/glac/flow_velocity.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/glac/flow_velocity.pdf, id=2061, 971.88094pt x 534.49687pt>
+<obrazky/glac/flow_velocity.pdf, id=2015, 971.88094pt x 534.49687pt>
 File: obrazky/glac/flow_velocity.pdf Graphic file (type pdf)
 <use obrazky/glac/flow_velocity.pdf>
 Package pdftex.def Info: obrazky/glac/flow_velocity.pdf  used on input line 79.
@@ -4468,13 +4441,13 @@ Underfull \hbox (badness 5711) in paragraph at lines 101--101
 |[]\OT1/cmr/bx/n/14.4 Morfologie po-vrchu le-
  []
 
-<obrazky/glac/ledovec_svyc.jpg, id=2065, 830.50275pt x 1106.33325pt>
+<obrazky/glac/ledovec_svyc.jpg, id=2019, 830.50275pt x 1106.33325pt>
 File: obrazky/glac/ledovec_svyc.jpg Graphic file (type jpg)
 <use obrazky/glac/ledovec_svyc.jpg>
 Package pdftex.def Info: obrazky/glac/ledovec_svyc.jpg  used on input line 110.
 
 (pdftex.def)             Requested size: 226.19933pt x 301.31369pt.
-<obrazky/glac/striace.jpg, id=2066, 518.6577pt x 415.5525pt>
+<obrazky/glac/striace.jpg, id=2020, 518.6577pt x 415.5525pt>
 File: obrazky/glac/striace.jpg Graphic file (type jpg)
 <use obrazky/glac/striace.jpg>
 Package pdftex.def Info: obrazky/glac/striace.jpg  used on input line 120.
@@ -4511,21 +4484,21 @@ Underfull \hbox (badness 1275) in paragraph at lines 129--130
 \OT1/cmr/m/n/10.95 pro-filu asy-me-t-rick^^Se pa-horky. Svah uklon^^Ten^^Sy
  []
 
-[83]
+[73]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/glac/oblik.pdf): PDF inclusion: fo
 und PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/glac/oblik.pdf, id=2076, 393.15985pt x 233.96309pt>
+<obrazky/glac/oblik.pdf, id=2029, 393.15985pt x 233.96309pt>
 File: obrazky/glac/oblik.pdf Graphic file (type pdf)
 <use obrazky/glac/oblik.pdf>
 Package pdftex.def Info: obrazky/glac/oblik.pdf  used on input line 133.
 (pdftex.def)             Requested size: 226.19933pt x 134.60626pt.
-<obrazky/glac/matterhorn.jpg, id=2078, 2068.528pt x 1551.396pt>
+<obrazky/glac/matterhorn.jpg, id=2031, 2068.528pt x 1551.396pt>
 File: obrazky/glac/matterhorn.jpg Graphic file (type jpg)
 <use obrazky/glac/matterhorn.jpg>
 Package pdftex.def Info: obrazky/glac/matterhorn.jpg  used on input line 144.
 (pdftex.def)             Requested size: 226.19933pt x 169.63617pt.
-<obrazky/glac/studena.jpg, id=2079, 1169.87062pt x 718.18312pt>
+<obrazky/glac/studena.jpg, id=2032, 1169.87062pt x 718.18312pt>
 File: obrazky/glac/studena.jpg Graphic file (type jpg)
 <use obrazky/glac/studena.jpg>
 Package pdftex.def Info: obrazky/glac/studena.jpg  used on input line 155.
@@ -4560,7 +4533,7 @@ Underfull \hbox (badness 1038) in paragraph at lines 165--166
  \OT1/cmr/bx/n/10.95 vnit^^Trn^^S^^P
  []
 
-[84 <./obrazky/glac/iceshelf.pdf>] [85 <./obrazky/glac/flow_velocity.pdf> <./ob
+[74 <./obrazky/glac/iceshelf.pdf>] [75 <./obrazky/glac/flow_velocity.pdf> <./ob
 razky/glac/ledovec_svyc.jpg> <./obrazky/glac/striace.jpg> <./obrazky/glac/oblik
 .pdf>]
 Underfull \hbox (badness 1629) in paragraph at lines 176--177
@@ -4568,7 +4541,7 @@ Underfull \hbox (badness 1629) in paragraph at lines 176--177
  valy vy-
  []
 
-<obrazky/glac/esker.jpg, id=2212, 154.176pt x 115.632pt>
+<obrazky/glac/esker.jpg, id=2165, 154.176pt x 115.632pt>
 File: obrazky/glac/esker.jpg Graphic file (type jpg)
 <use obrazky/glac/esker.jpg>
 Package pdftex.def Info: obrazky/glac/esker.jpg  used on input line 180.
@@ -4606,14 +4579,14 @@ Underfull \hbox (badness 3826) in paragraph at lines 185--186
 e
  []
 
-[86
+) [76
 
- <./obrazky/glac/matterhorn.jpg>] [87
+ <./obrazky/glac/matterhorn.jpg>] [77
 
- <./obrazky/glac/studena.jpg> <./obrazky/glac/esker.jpg>] [88
+ <./obrazky/glac/studena.jpg> <./obrazky/glac/esker.jpg>] [78
 
 
-])
+]
 Kapitola 12.
 (text/periglac.tex
 Underfull \hbox (badness 1436) in paragraph at lines 2--9
@@ -4638,7 +4611,7 @@ Underfull \hbox (badness 1383) in paragraph at lines 15--16
 k^^Sych
  []
 
-<obrazky/periglac/permafrost_distr.jpg, id=2228, 516.12292pt x 386.29274pt>
+<obrazky/periglac/permafrost_distr.jpg, id=2182, 516.12292pt x 386.29274pt>
 File: obrazky/periglac/permafrost_distr.jpg Graphic file (type jpg)
 <use obrazky/periglac/permafrost_distr.jpg>
 Package pdftex.def Info: obrazky/periglac/permafrost_distr.jpg  used on input l
@@ -4689,7 +4662,7 @@ Underfull \hbox (badness 3343) in paragraph at lines 30--31
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/periglac/talik.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/periglac/talik.pdf, id=2230, 421.18053pt x 176.54156pt>
+<obrazky/periglac/talik.pdf, id=2184, 421.18053pt x 176.54156pt>
 File: obrazky/periglac/talik.pdf Graphic file (type pdf)
 <use obrazky/periglac/talik.pdf>
 Package pdftex.def Info: obrazky/periglac/talik.pdf  used on input line 34.
@@ -4703,14 +4676,11 @@ Underfull \hbox (badness 3514) in paragraph at lines 40--41
 Tr^^S^^Ppovrchov^^Sa
  []
 
-[89
-
-
-]
+[79]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/periglac/aktivni_vrstva.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/periglac/aktivni_vrstva.pdf, id=2241, 237.00645pt x 134.18129pt>
+<obrazky/periglac/aktivni_vrstva.pdf, id=2194, 237.00645pt x 134.18129pt>
 File: obrazky/periglac/aktivni_vrstva.pdf Graphic file (type pdf)
 <use obrazky/periglac/aktivni_vrstva.pdf>
 Package pdftex.def Info: obrazky/periglac/aktivni_vrstva.pdf  used on input lin
@@ -4764,13 +4734,13 @@ Underfull \hbox (badness 1721) in paragraph at lines 60--61
 .95 vznikl na po-vrchu a
  []
 
-[90 <./obrazky/periglac/permafrost_distr.jpg>]
+[80 <./obrazky/periglac/permafrost_distr.jpg>]
 Underfull \hbox (badness 1939) in paragraph at lines 65--67
 \OT1/cmr/m/n/10.95 mra-zov^^Seho t^^Tr^^S^^P^^Tst^^Ten^^S^^P jsou rozs^^Sahl^^S
 a \OT1/cmr/bx/n/10.95 ka-menn^^Sa
  []
 
-<obrazky/periglac/kamenne_more.jpg, id=2249, 1027.84pt x 770.88pt>
+<obrazky/periglac/kamenne_more.jpg, id=2202, 1027.84pt x 770.88pt>
 File: obrazky/periglac/kamenne_more.jpg Graphic file (type jpg)
 <use obrazky/periglac/kamenne_more.jpg>
 Package pdftex.def Info: obrazky/periglac/kamenne_more.jpg  used on input line 
@@ -4802,7 +4772,7 @@ Underfull \hbox (badness 1221) in paragraph at lines 75--76
 ^^P
  []
 
-<obrazky/periglac/jehlickovy_led.jpg, id=2253, 1284.8pt x 722.7pt>
+<obrazky/periglac/jehlickovy_led.jpg, id=2206, 1284.8pt x 722.7pt>
 File: obrazky/periglac/jehlickovy_led.jpg Graphic file (type jpg)
 <use obrazky/periglac/jehlickovy_led.jpg>
 Package pdftex.def Info: obrazky/periglac/jehlickovy_led.jpg  used on input lin
@@ -4811,7 +4781,7 @@ e 79.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<obrazky/periglac/soliflukce.jpg, id=2254, 313.38318pt x 417.63106pt>
+<obrazky/periglac/soliflukce.jpg, id=2207, 313.38318pt x 417.63106pt>
 File: obrazky/periglac/soliflukce.jpg Graphic file (type jpg)
 <use obrazky/periglac/soliflukce.jpg>
 Package pdftex.def Info: obrazky/periglac/soliflukce.jpg  used on input line 86
@@ -4820,7 +4790,7 @@ Package pdftex.def Info: obrazky/periglac/soliflukce.jpg  used on input line 86
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<obrazky/periglac/soliflukcni_laloky.jpg, id=2257, 240.9pt x 150.5625pt>
+<obrazky/periglac/soliflukcni_laloky.jpg, id=2210, 240.9pt x 150.5625pt>
 File: obrazky/periglac/soliflukcni_laloky.jpg Graphic file (type jpg)
 <use obrazky/periglac/soliflukcni_laloky.jpg>
 Package pdftex.def Info: obrazky/periglac/soliflukcni_laloky.jpg  used on input
@@ -4829,13 +4799,13 @@ Package pdftex.def Info: obrazky/periglac/soliflukcni_laloky.jpg  used on input
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<obrazky/periglac/polygony.jpg, id=2260, 2569.6pt x 1927.2pt>
+<obrazky/periglac/polygony.jpg, id=2213, 2569.6pt x 1927.2pt>
 File: obrazky/periglac/polygony.jpg Graphic file (type jpg)
 <use obrazky/periglac/polygony.jpg>
 Package pdftex.def Info: obrazky/periglac/polygony.jpg  used on input line 110.
 
 (pdftex.def)             Requested size: 226.19933pt x 169.64705pt.
-<obrazky/periglac/polygon.jpg, id=2261, 878.8032pt x 659.1024pt>
+<obrazky/periglac/polygon.jpg, id=2214, 878.8032pt x 659.1024pt>
 File: obrazky/periglac/polygon.jpg Graphic file (type jpg)
 <use obrazky/periglac/polygon.jpg>
 Package pdftex.def Info: obrazky/periglac/polygon.jpg  used on input line 117.
@@ -4845,8 +4815,8 @@ Underfull \hbox (badness 1430) in paragraph at lines 122--123
 \OT1/cmr/m/n/10.95 vznikl^^Se z otev^^Tren^^Seho ta-liku (nad je-zery) a
  []
 
-[91 <./obrazky/periglac/talik.pdf>]
-<obrazky/periglac/pingo_mackenzie.jpg, id=2445, 383.5128pt x 259.08795pt>
+[81 <./obrazky/periglac/talik.pdf>]
+<obrazky/periglac/pingo_mackenzie.jpg, id=2398, 383.5128pt x 259.08795pt>
 File: obrazky/periglac/pingo_mackenzie.jpg Graphic file (type jpg)
 <use obrazky/periglac/pingo_mackenzie.jpg>
 Package pdftex.def Info: obrazky/periglac/pingo_mackenzie.jpg  used on input li
@@ -4858,9 +4828,9 @@ Underfull \vbox (badness 2582) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [92 <./obrazky/periglac/aktivni_vrstva.pdf> <./obrazky/periglac/kamenne_more.j
+ [82 <./obrazky/periglac/aktivni_vrstva.pdf> <./obrazky/periglac/kamenne_more.j
 pg> <./obrazky/periglac/jehlickovy_led.jpg>]
-<obrazky/periglac/alas.jpg, id=2473, 4818.0pt x 4818.0pt>
+<obrazky/periglac/alas.jpg, id=2426, 4818.0pt x 4818.0pt>
 File: obrazky/periglac/alas.jpg Graphic file (type jpg)
 <use obrazky/periglac/alas.jpg>
 Package pdftex.def Info: obrazky/periglac/alas.jpg  used on input line 137.
@@ -4881,7 +4851,7 @@ Underfull \hbox (badness 1635) in paragraph at lines 142--143
 \OT1/cmr/m/n/10.95 chody tedy in-ten-zivn^^Te prob^^S^^Phaj^^S^^P na ja^^Tre a
  []
 
-[93 <./obrazky/periglac/soliflukce.jpg> <./obrazky/periglac/soliflukcni_laloky.
+[83 <./obrazky/periglac/soliflukce.jpg> <./obrazky/periglac/soliflukcni_laloky.
 jpg> <./obrazky/periglac/polygony.jpg> <./obrazky/periglac/polygon.jpg>]
 Underfull \hbox (badness 1515) in paragraph at lines 144--145
 \OT1/cmr/m/n/10.95 ma-teri^^Salu, kter^^Sy je stme-len pod-zemn^^S^^Pm le-
@@ -4890,7 +4860,7 @@ Underfull \hbox (badness 1515) in paragraph at lines 144--145
 
 Underfull \vbox (badness 1533) has occurred while \output is active []
 
-<obrazky/periglac/rock_glac.jpg, id=2480, 3661.68pt x 2746.26pt>
+<obrazky/periglac/rock_glac.jpg, id=2434, 3661.68pt x 2746.26pt>
 File: obrazky/periglac/rock_glac.jpg Graphic file (type jpg)
 <use obrazky/periglac/rock_glac.jpg>
 Package pdftex.def Info: obrazky/periglac/rock_glac.jpg  used on input line 148
@@ -4916,19 +4886,18 @@ Underfull \hbox (badness 2735) in paragraph at lines 158--159
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/periglac/protalus_rampart.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/periglac/protalus_rampart.pdf, id=2481, 342.94322pt x 204.79008pt>
+<obrazky/periglac/protalus_rampart.pdf, id=2435, 342.94322pt x 204.79008pt>
 File: obrazky/periglac/protalus_rampart.pdf Graphic file (type pdf)
 <use obrazky/periglac/protalus_rampart.pdf>
 Package pdftex.def Info: obrazky/periglac/protalus_rampart.pdf  used on input l
 ine 163.
 (pdftex.def)             Requested size: 226.19933pt x 135.0775pt.
-[94 <./obrazky/periglac/pingo_mackenzie.jpg> <./obrazky/periglac/alas.jpg> <./o
-brazky/periglac/rock_glac.jpg>] [95
+) [84 <./obrazky/periglac/pingo_mackenzie.jpg> <./obrazky/periglac/alas.jpg> <.
+/obrazky/periglac/rock_glac.jpg>] [85
 
- <./obrazky/periglac/protalus_rampart.pdf>]
-[96
+ <./obrazky/periglac/protalus_rampart.pdf>] [86
 
-])
+]
 Kapitola 13.
 (text/eolicka.tex
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
@@ -4957,22 +4926,19 @@ Underfull \hbox (badness 3148) in paragraph at lines 25--26
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/eolicka/eol_transport.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/eolicka/eol_transport.pdf, id=2513, 301.8778pt x 182.18062pt>
+<obrazky/eolicka/eol_transport.pdf, id=2466, 301.8778pt x 182.18062pt>
 File: obrazky/eolicka/eol_transport.pdf Graphic file (type pdf)
 <use obrazky/eolicka/eol_transport.pdf>
 Package pdftex.def Info: obrazky/eolicka/eol_transport.pdf  used on input line 
 29.
 (pdftex.def)             Requested size: 226.19933pt x 136.51003pt.
-<obrazky/eolicka/zdroje_prachu.jpg, id=2518, 1201.48875pt x 686.565pt>
+<obrazky/eolicka/zdroje_prachu.jpg, id=2471, 1201.48875pt x 686.565pt>
 File: obrazky/eolicka/zdroje_prachu.jpg Graphic file (type jpg)
 <use obrazky/eolicka/zdroje_prachu.jpg>
 Package pdftex.def Info: obrazky/eolicka/zdroje_prachu.jpg  used on input line 
 39.
 (pdftex.def)             Requested size: 475.16095pt x 271.5202pt.
-[97
-
-
- <./obrazky/eolicka/eol_transport.pdf>]
+[87 <./obrazky/eolicka/eol_transport.pdf>]
 Underfull \hbox (badness 1708) in paragraph at lines 48--49
 []\OT1/cmr/m/n/10.95 Posledn^^S^^P, ^^Tctvrt^^Sy typ ozna^^Tcovan^^Sy an-g-lick
 y
@@ -4983,13 +4949,13 @@ Underfull \hbox (badness 1496) in paragraph at lines 48--49
 \OT1/cmr/m/n/10.95 Po-hyb vymr^^Tst^^Ten^^Sych zr-nek je jen na ve-lice
  []
 
-<obrazky/eolicka/saltace_foto.png, id=2546, 501.875pt x 167.62625pt>
+<obrazky/eolicka/saltace_foto.png, id=2499, 501.875pt x 167.62625pt>
 File: obrazky/eolicka/saltace_foto.png Graphic file (type png)
 <use obrazky/eolicka/saltace_foto.png>
 Package pdftex.def Info: obrazky/eolicka/saltace_foto.png  used on input line 5
 2.
 (pdftex.def)             Requested size: 475.16095pt x 158.712pt.
-<obrazky/eolicka/ventifact_mojave.jpg, id=2551, 803.0pt x 602.25pt>
+<obrazky/eolicka/ventifact_mojave.jpg, id=2504, 803.0pt x 602.25pt>
 File: obrazky/eolicka/ventifact_mojave.jpg Graphic file (type jpg)
 <use obrazky/eolicka/ventifact_mojave.jpg>
 Package pdftex.def Info: obrazky/eolicka/ventifact_mojave.jpg  used on input li
@@ -5020,11 +4986,11 @@ Underfull \hbox (badness 1990) in paragraph at lines 84--85
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98 <./obrazky/eolicka/zdroje_prachu.jpg>]
+ [88 <./obrazky/eolicka/zdroje_prachu.jpg>]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/eolicka/typy_dun.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/eolicka/typy_dun.pdf, id=2560, 466.05518pt x 178.70363pt>
+<obrazky/eolicka/typy_dun.pdf, id=2513, 466.05518pt x 178.70363pt>
 File: obrazky/eolicka/typy_dun.pdf Graphic file (type pdf)
 <use obrazky/eolicka/typy_dun.pdf>
 Package pdftex.def Info: obrazky/eolicka/typy_dun.pdf  used on input line 90.
@@ -5057,7 +5023,7 @@ Underfull \hbox (badness 1199) in paragraph at lines 100--101
 Trbet^^Wu.
  []
 
-<obrazky/eolicka/linearniduny.jpg, id=2565, 413.1435pt x 274.3851pt>
+<obrazky/eolicka/linearniduny.jpg, id=2518, 413.1435pt x 274.3851pt>
 File: obrazky/eolicka/linearniduny.jpg Graphic file (type jpg)
 <use obrazky/eolicka/linearniduny.jpg>
 Package pdftex.def Info: obrazky/eolicka/linearniduny.jpg  used on input line 1
@@ -5067,7 +5033,7 @@ Package pdftex.def Info: obrazky/eolicka/linearniduny.jpg  used on input line 1
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/eolicka/volne_duny.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/eolicka/volne_duny.pdf, id=2566, 475.73134pt x 284.56613pt>
+<obrazky/eolicka/volne_duny.pdf, id=2519, 475.73134pt x 284.56613pt>
 File: obrazky/eolicka/volne_duny.pdf Graphic file (type pdf)
 <use obrazky/eolicka/volne_duny.pdf>
 Package pdftex.def Info: obrazky/eolicka/volne_duny.pdf  used on input line 114
@@ -5076,9 +5042,9 @@ Package pdftex.def Info: obrazky/eolicka/volne_duny.pdf  used on input line 114
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [99 <./obrazky/eolicka/saltace_foto.png (PNG copy)> <./obrazky/eolicka/ventifa
-ct_mojave.jpg>] [100 <./obrazky/eolicka/typy_dun.pdf> <./obrazky/eolicka/linear
-niduny.jpg>]
+ [89 <./obrazky/eolicka/saltace_foto.png (PNG copy)> <./obrazky/eolicka/ventifa
+ct_mojave.jpg>] [90 <./obrazky/eolicka/typy_dun.pdf> <./obrazky/eolicka/linearn
+iduny.jpg>]
 Underfull \hbox (badness 1137) in paragraph at lines 130--131
 \OT1/cmr/m/n/10.95 na pion^^Syrsk^^Sa ve-ge-taci. Ozna^^Tcuj^^S^^P se tak ale
  []
@@ -5120,8 +5086,8 @@ Underfull \hbox (badness 1097) in paragraph at lines 139--140
 \OT1/cmr/m/n/10.95 mocn^^Sych aku-mu-lac^^S^^P jsou v^^Syznamn^^Sym ar-chi-
  []
 
-[101 <./obrazky/eolicka/volne_duny.pdf>]
-<obrazky/eolicka/loes_distr.jpg, id=2622, 638.43318pt x 369.01062pt>
+[91 <./obrazky/eolicka/volne_duny.pdf>]
+<obrazky/eolicka/loes_distr.jpg, id=2575, 638.43318pt x 369.01062pt>
 File: obrazky/eolicka/loes_distr.jpg Graphic file (type jpg)
 <use obrazky/eolicka/loes_distr.jpg>
 Package pdftex.def Info: obrazky/eolicka/loes_distr.jpg  used on input line 144
@@ -5132,16 +5098,10 @@ Overfull \hbox (1015.76349pt too wide) has occurred while \output is active
 [] []|[] []
  []
 
-[102
+[92
 
 
- <./obrazky/eolicka/loes_distr.jpg>] [103
-
-
-]) [104
-
-
-]
+ <./obrazky/eolicka/loes_distr.jpg>])
 Kapitola 14.
 (text/marinni.tex
 Underfull \hbox (badness 1394) in paragraph at lines 1--2
@@ -5153,7 +5113,7 @@ ra-nice \OT1/cmr/m/n/10.95 je vy-me-
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/marine/pobrezi.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/marine/pobrezi.pdf, id=2638, 295.09848pt x 219.37056pt>
+<obrazky/marine/pobrezi.pdf, id=2583, 295.09848pt x 219.37056pt>
 File: obrazky/marine/pobrezi.pdf Graphic file (type pdf)
 <use obrazky/marine/pobrezi.pdf>
 Package pdftex.def Info: obrazky/marine/pobrezi.pdf  used on input line 5.
@@ -5176,7 +5136,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 11--12
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/marine/vlny.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/marine/vlny.pdf, id=2640, 341.01802pt x 150.47517pt>
+<obrazky/marine/vlny.pdf, id=2585, 341.01802pt x 150.47517pt>
 File: obrazky/marine/vlny.pdf Graphic file (type pdf)
 <use obrazky/marine/vlny.pdf>
 Package pdftex.def Info: obrazky/marine/vlny.pdf  used on input line 18.
@@ -5197,7 +5157,7 @@ Underfull \vbox (badness 6592) has occurred while \output is active []
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/marine/vlny_transformace.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/marine/vlny_transformace.pdf, id=2641, 413.20374pt x 184.46819pt>
+<obrazky/marine/vlny_transformace.pdf, id=2586, 413.20374pt x 184.46819pt>
 File: obrazky/marine/vlny_transformace.pdf Graphic file (type pdf)
 <use obrazky/marine/vlny_transformace.pdf>
 Package pdftex.def Info: obrazky/marine/vlny_transformace.pdf  used on input li
@@ -5209,7 +5169,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105]
+ [93
+
+
+]
 Underfull \hbox (badness 3735) in paragraph at lines 51--52
 \OT1/cmr/m/n/10.95 po-hy-bem oce^^Sansk^^Seho dna. Toto vln^^Ten^^S^^P je
  []
@@ -5226,7 +5189,7 @@ Underfull \hbox (badness 4492) in paragraph at lines 59--60
 p^^Tr^^S^^Pb^^Tre^^Tzn^^S^^Pmi
  []
 
-[106 <./obrazky/marine/pobrezi.pdf>]
+[94 <./obrazky/marine/pobrezi.pdf>]
 Underfull \hbox (badness 1292) in paragraph at lines 66--67
 \OT1/cmr/m/n/10.95 Zv^^Tetr^^Sav^^San^^S^^P na pob^^Tre^^Tz^^S^^P je umocn^^Ten
 o opa-ko-
@@ -5243,7 +5206,7 @@ Underfull \hbox (badness 1158) in paragraph at lines 73--74
 ^^Sal
  []
 
-[107 <./obrazky/marine/vlny.pdf> <./obrazky/marine/vlny_transformace.pdf>]
+[95 <./obrazky/marine/vlny.pdf> <./obrazky/marine/vlny_transformace.pdf>]
 Underfull \hbox (badness 1975) in paragraph at lines 75--76
 []\OT1/cmr/m/n/10.95 Hlavn^^S^^P sm^^Ter po-hybu se-di-ment^^Wu je pod^^Sel
  []
@@ -5295,7 +5258,7 @@ Underfull \hbox (badness 4024) in paragraph at lines 80--81
 ^^Tsina.
  []
 
-<obrazky/marine/abrazni.jpg, id=2729, 154.176pt x 102.8643pt>
+<obrazky/marine/abrazni.jpg, id=2674, 154.176pt x 102.8643pt>
 File: obrazky/marine/abrazni.jpg Graphic file (type jpg)
 <use obrazky/marine/abrazni.jpg>
 Package pdftex.def Info: obrazky/marine/abrazni.jpg  used on input line 84.
@@ -5306,7 +5269,7 @@ Underfull \hbox (badness 6445) in paragraph at lines 85--85
 S^^P.
  []
 
-<obrazky/marine/apostolove.jpg, id=2731, 932.88525pt x 624.53325pt>
+<obrazky/marine/apostolove.jpg, id=2676, 932.88525pt x 624.53325pt>
 File: obrazky/marine/apostolove.jpg Graphic file (type jpg)
 <use obrazky/marine/apostolove.jpg>
 Package pdftex.def Info: obrazky/marine/apostolove.jpg  used on input line 95.
@@ -5315,7 +5278,7 @@ Package pdftex.def Info: obrazky/marine/apostolove.jpg  used on input line 95.
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/marine/utesy_terasy.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/marine/utesy_terasy.pdf, id=2732, 300.14735pt x 187.59886pt>
+<obrazky/marine/utesy_terasy.pdf, id=2677, 300.14735pt x 187.59886pt>
 File: obrazky/marine/utesy_terasy.pdf Graphic file (type pdf)
 <use obrazky/marine/utesy_terasy.pdf>
 Package pdftex.def Info: obrazky/marine/utesy_terasy.pdf  used on input line 10
@@ -5326,9 +5289,9 @@ Underfull \hbox (badness 2608) in paragraph at lines 111--112
 \OT1/cmr/m/n/10.95 i obl^^Sazkov^^Se. V^^Syznamnou slo^^Tzkou ma-teri^^Salu
  []
 
-[108 <./obrazky/marine/abrazni.jpg> <./obrazky/marine/apostolove.jpg> <./obrazk
-y/marine/utesy_terasy.pdf>]
-<obrazky/marine/kosa.jpg, id=2759, 3902.58pt x 2511.3825pt>
+[96 <./obrazky/marine/abrazni.jpg> <./obrazky/marine/apostolove.jpg> <./obrazky
+/marine/utesy_terasy.pdf>]
+<obrazky/marine/kosa.jpg, id=2704, 3902.58pt x 2511.3825pt>
 File: obrazky/marine/kosa.jpg Graphic file (type jpg)
 <use obrazky/marine/kosa.jpg>
 Package pdftex.def Info: obrazky/marine/kosa.jpg  used on input line 121.
@@ -5361,7 +5324,7 @@ Underfull \hbox (badness 1127) in paragraph at lines 130--131
 ^P jako
  []
 
-<obrazky/marine/watty.jpg, id=2760, 1503.6175pt x 1169.36874pt>
+<obrazky/marine/watty.jpg, id=2705, 1503.6175pt x 1169.36874pt>
 File: obrazky/marine/watty.jpg Graphic file (type jpg)
 <use obrazky/marine/watty.jpg>
 Package pdftex.def Info: obrazky/marine/watty.jpg  used on input line 134.
@@ -5396,11 +5359,11 @@ Underfull \hbox (badness 1590) in paragraph at lines 144--145
 
  []
 
-[109 <./obrazky/marine/kosa.jpg> <./obrazky/marine/watty.jpg>]
+[97 <./obrazky/marine/kosa.jpg> <./obrazky/marine/watty.jpg>]
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/gilbert_delta.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/gilbert_delta.pdf, id=2771, 516.80878pt x 237.78436pt>
+<obrazky/fluvial/gilbert_delta.pdf, id=2716, 516.80878pt x 237.78436pt>
 File: obrazky/fluvial/gilbert_delta.pdf Graphic file (type pdf)
 <use obrazky/fluvial/gilbert_delta.pdf>
 Package pdftex.def Info: obrazky/fluvial/gilbert_delta.pdf  used on input line 
@@ -5410,7 +5373,7 @@ Package pdftex.def Info: obrazky/fluvial/gilbert_delta.pdf  used on input line
 
 pdfTeX warning: pdflatex.exe (file ./obrazky/fluvial/delty.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<obrazky/fluvial/delty.pdf, id=2773, 963.6pt x 918.43124pt>
+<obrazky/fluvial/delty.pdf, id=2718, 963.6pt x 918.43124pt>
 File: obrazky/fluvial/delty.pdf Graphic file (type pdf)
 <use obrazky/fluvial/delty.pdf>
 Package pdftex.def Info: obrazky/fluvial/delty.pdf  used on input line 157.
@@ -5424,7 +5387,7 @@ Underfull \hbox (badness 1024) in paragraph at lines 163--164
 ^Tr^^S^^P.
  []
 
-<obrazky/marine/estuary.jpg, id=2776, 462.528pt x 304.13625pt>
+<obrazky/marine/estuary.jpg, id=2721, 462.528pt x 304.13625pt>
 File: obrazky/marine/estuary.jpg Graphic file (type jpg)
 <use obrazky/marine/estuary.jpg>
 Package pdftex.def Info: obrazky/marine/estuary.jpg  used on input line 167.
@@ -5454,7 +5417,7 @@ Underfull \hbox (badness 2600) in paragraph at lines 180--181
 /10.95 Bari^^Serov^^Se ^^Sutesy
  []
 
-<obrazky/marine/atol.jpg, id=2778, 2264.46pt x 1469.49pt>
+<obrazky/marine/atol.jpg, id=2723, 2264.46pt x 1469.49pt>
 File: obrazky/marine/atol.jpg Graphic file (type jpg)
 <use obrazky/marine/atol.jpg>
 Package pdftex.def Info: obrazky/marine/atol.jpg  used on input line 184.
@@ -5468,7 +5431,7 @@ Underfull \hbox (badness 1107) in paragraph at lines 190--191
 
  []
 
-<obrazky/marine/fjord.jpg, id=2779, 1169.87062pt x 718.18312pt>
+<obrazky/marine/fjord.jpg, id=2724, 1169.87062pt x 718.18312pt>
 File: obrazky/marine/fjord.jpg Graphic file (type jpg)
 <use obrazky/marine/fjord.jpg>
 Package pdftex.def Info: obrazky/marine/fjord.jpg  used on input line 196.
@@ -5493,7 +5456,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--207
 Sa za-pla-ven^^S^^Pm
  []
 
-<obrazky/marine/Limans.jpeg, id=2780, 1019.81pt x 1130.2225pt>
+<obrazky/marine/Limans.jpeg, id=2725, 1019.81pt x 1130.2225pt>
 File: obrazky/marine/Limans.jpeg Graphic file (type jpg)
 <use obrazky/marine/Limans.jpeg>
 Package pdftex.def Info: obrazky/marine/Limans.jpeg  used on input line 210.
@@ -5518,7 +5481,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 233--234
 ^^S^^P
  []
 
-[110 <./obrazky/fluvial/gilbert_delta.pdf>]
+[98 <./obrazky/fluvial/gilbert_delta.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -5535,7 +5498,7 @@ ace
 
 Underfull \vbox (badness 4634) has occurred while \output is active []
 
- [111 <./obrazky/fluvial/delty.pdf>]
+ [99 <./obrazky/fluvial/delty.pdf>]
 Underfull \hbox (badness 2080) in paragraph at lines 240--242
 []\OT1/cmr/m/n/10.95 Zm^^Teny ^^Surovn^^Te mo^^Trsk^^Se hla-diny se d^^Tej^^S^^
 P i
@@ -5583,24 +5546,13 @@ Underfull \hbox (badness 2359) in paragraph at lines 247--248
 \OT1/cmr/m/n/10.95 niny v d^^Wusledku kon-so-li-dace se-di-ment^^Wu ve
  []
 
-[112 <./obrazky/marine/estuary.jpg> <./obrazky/marine/atol.jpg> <./obrazky/mari
-ne/fjord.jpg> <./obrazky/marine/Limans.jpeg>] [113
+) [100 <./obrazky/marine/estuary.jpg> <./obrazky/marine/atol.jpg> <./obrazky/ma
+rine/fjord.jpg> <./obrazky/marine/Limans.jpeg>] [101
 
-]) [114
+] [102
 
-
-] [115] [116
-
-] [117]
-[118]
-runsystem(makeindex zaklady_geomorfologie.idx)...executed safely (allowed).
-
- (zaklady_geomorfologie.ind [119
-
-
-
-
-]) (zaklady_geomorfologie.aux)
+] [103] [104]
+(zaklady_geomorfologie.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -5608,7 +5560,7 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `zaklady_geomorfologie.out' has not changed.
-(rerunfilecheck)             Checksum: 26FCEE8AFF7E2CDE814DE7635CBC8FF6;27674.
+(rerunfilecheck)             Checksum: 07FC51BADD1073D445C46AD12CB7270D;27575.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                zaklady_geomorfologie
@@ -5619,10 +5571,10 @@ Package logreq Info: Writing requests to 'zaklady_geomorfologie.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42321 strings out of 476375
- 895676 string characters out of 5788504
+ 42198 strings out of 476375
+ 893305 string characters out of 5788504
  1891299 words of memory out of 5000000
- 61361 multiletter control sequences out of 15000+600000
+ 61257 multiletter control sequences out of 15000+600000
  526398 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,16n,96p,3208b,2586s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -5649,9 +5601,9 @@ C:/Users/Brezny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy8.pfb><C:/Users/Brezny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb><C:/Users/Brezny/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmtt10.pfb>
-Output written on zaklady_geomorfologie.pdf (127 pages, 83709987 bytes).
+Output written on zaklady_geomorfologie.pdf (112 pages, 83686694 bytes).
 PDF statistics:
- 3125 PDF objects out of 3580 (max. 8388607)
- 568 named destinations out of 1000 (max. 500000)
- 1861 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3047 PDF objects out of 3580 (max. 8388607)
+ 552 named destinations out of 1000 (max. 500000)
+ 1853 words of extra memory for PDF output out of 10000 (max. 10000000)
 
