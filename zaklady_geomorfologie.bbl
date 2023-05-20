@@ -56,8 +56,12 @@
       \field{month}{1}
       \field{number}{1-2}
       \field{title}{Structural Constraints on Deep-Seated Slope Deformation Kinematics}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{59}
       \field{year}{2001}
+      \field{urldateera}{ce}
       \field{pages}{83\bibrangedash 102}
       \range{pages}{20}
       \verb{doi}
@@ -112,8 +116,12 @@
       \field{month}{7}
       \field{number}{7}
       \field{title}{Origin of the {{Qattara Depression}}, {{Egypt}}}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{102}
       \field{year}{1990}
+      \field{urldateera}{ce}
       \field{pages}{952\bibrangedash 960}
       \range{pages}{9}
       \verb{doi}
@@ -167,8 +175,12 @@
       \field{month}{6}
       \field{number}{6}
       \field{title}{Collision Process between an Incident Bead and a Three-Dimensional Granular Packing}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{75}
       \field{year}{2007}
+      \field{urldateera}{ce}
       \field{pages}{061305}
       \range{pages}{1}
       \verb{doi}
@@ -248,7 +260,7 @@
       \verb{file}
       \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\W.H. Freeman and Company Publishers A Macmillan Higher Education Company\\2014\\Bierman_Montgomery_2014_Key concepts in geomorphology.pdf
       \endverb
-      \keyw{_tablet_modified,mainbib}
+      \keyw{\_tablet\_modified,mainbib}
     \endentry
     \entry{birdCoastalGeomorphologyIntroduction2008}{book}{}
       \name{author}{1}{}{%
@@ -675,8 +687,12 @@
       \field{langid}{english}
       \field{month}{2}
       \field{title}{Conceptual Model for Complex River Responses Using an Expanded {{Lane}}'s Relation}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
       \field{volume}{139--140}
       \field{year}{2012}
+      \field{urldateera}{ce}
       \field{pages}{109\bibrangedash 121}
       \range{pages}{13}
       \verb{doi}
@@ -785,8 +801,12 @@
       \field{month}{8}
       \field{number}{1-2}
       \field{title}{Landslide Geomorphology in a Changing Environment}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{120}
       \field{year}{2010}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 2}
       \range{pages}{2}
       \verb{doi}
@@ -912,8 +932,12 @@
       \field{month}{2}
       \field{number}{1}
       \field{title}{A New Global Ice Sheet Reconstruction for the Past 80 000 Years}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
       \field{volume}{12}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{1199}
       \range{pages}{1}
@@ -994,7 +1018,7 @@
       \verb{file}
       \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\Routledge\\2007\\Huggett_2007_Fundamentals of geomorphology.pdf
       \endverb
-      \keyw{_tablet_modified,mainbib}
+      \keyw{\_tablet\_modified,mainbib}
     \endentry
     \entry{huggettFundamentalsGeomorphology2017}{book}{}
       \name{author}{1}{}{%
@@ -1114,8 +1138,12 @@
       \field{month}{4}
       \field{number}{7856}
       \field{title}{Accelerated Global Glacier Mass Loss in the Early Twenty-First Century}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
       \field{volume}{592}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \field{pages}{726\bibrangedash 731}
       \range{pages}{6}
       \verb{doi}
@@ -1163,8 +1191,12 @@
       \field{month}{4}
       \field{number}{2}
       \field{title}{The {{Varnes}} Classification of Landslide Types, an Update}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{11}
       \field{year}{2014}
+      \field{urldateera}{ce}
       \field{pages}{167\bibrangedash 194}
       \range{pages}{28}
       \verb{doi}
@@ -1272,7 +1304,11 @@
       \field{number}{678}
       \field{title}{Permafrost and Related Engineering Problems in {{Alaska}}}
       \field{type}{techreport}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2021}
       \field{year}{1969}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.3133/pp678
       \endverb
@@ -1351,8 +1387,12 @@
       \field{month}{7}
       \field{number}{7}
       \field{title}{Geomorphic Imprint of Landslides on Alpine River Systems, Southwest {{New Zealand}}}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{30}
       \field{year}{2005}
+      \field{urldateera}{ce}
       \field{pages}{783\bibrangedash 800}
       \range{pages}{18}
       \verb{doi}
@@ -1786,8 +1826,12 @@
       \field{langid}{english}
       \field{month}{2}
       \field{title}{Loess Genesis and Worldwide Distribution}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{201}
       \field{year}{2020}
+      \field{urldateera}{ce}
       \field{pages}{102947}
       \range{pages}{1}
       \verb{doi}
@@ -1872,8 +1916,12 @@
       \field{number}{4}
       \field{shorttitle}{Appraisal of Active Tectonics in {{Hindu Kush}}}
       \field{title}{Appraisal of Active Tectonics in {{Hindu Kush}}: {{Insights}} from {{DEM}} Derived Geomorphic Indices and Drainage Analysis}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
       \field{volume}{3}
       \field{year}{2012}
+      \field{urldateera}{ce}
       \field{pages}{407\bibrangedash 428}
       \range{pages}{22}
       \verb{doi}
@@ -1915,7 +1963,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{First}
+      \field{edition}{1}
       \field{isbn}{80-88896-36-3}
       \field{langid}{slovak}
       \field{title}{{Strukturní geológia}}
@@ -1954,8 +2002,12 @@
       \field{number}{1-2}
       \field{shorttitle}{Solifluction Rates, Processes and Landforms}
       \field{title}{Solifluction Rates, Processes and Landforms: A Global Review}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{55}
       \field{year}{2001}
+      \field{urldateera}{ce}
       \field{pages}{107\bibrangedash 134}
       \range{pages}{28}
       \verb{doi}
@@ -2034,7 +2086,11 @@
       \field{isbn}{978-0-12-396452-6}
       \field{langid}{english}
       \field{title}{Landslide {{Causes}} and {{Triggers}}}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{year}{2015}
+      \field{urldateera}{ce}
       \field{pages}{17\bibrangedash 42}
       \range{pages}{26}
       \verb{doi}
@@ -2107,7 +2163,11 @@
       \field{langid}{english}
       \field{shorttitle}{Identifying {{Sources}} of {{Aeolian Mineral Dust}}}
       \field{title}{Identifying {{Sources}} of {{Aeolian Mineral Dust}}: {{Present}} and {{Past}}}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{year}{2014}
+      \field{urldateera}{ce}
       \field{pages}{51\bibrangedash 74}
       \range{pages}{24}
       \verb{doi}
@@ -2279,8 +2339,12 @@
       \field{langid}{english}
       \field{month}{6}
       \field{title}{Northern {{Hemisphere}} Permafrost Map Based on {{TTOP}} Modelling for 2000–2016 at 1\,km2 Scale}
+      \field{urlday}{24}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
       \field{volume}{193}
       \field{year}{2019}
+      \field{urldateera}{ce}
       \field{pages}{299\bibrangedash 316}
       \range{pages}{18}
       \verb{doi}
@@ -2373,15 +2437,18 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Soils in the Amazon Basin are deficient in phosphorus, essential to soil fertility. Previous studies suggested that African mineral dust deposited to Amazonian soils served as an important source of phosphorus that enhances soil fertility. These studies lacked the quantitative measurements essential to validate estimates. Here we present daily measurements of mineral dust and PM10 carried in the trade winds at Cayenne, French Guiana, during 2002–2017. MERRA-2 model dust concentrations showed excellent agreement with measurements over this period. Consequently, we used MERRA-2 to estimate temporal and spatial deposition rates to Amazonia. Our annual deposition rate, 8–10 Tg dust, is substantially lower than previous estimates. Deposition rates are greatest over the northern and northeastern regions of South America. In contrast, rates are low in central Amazonia. Our results raise questions about the impact of African dust on soil fertility in Amazonia. However, African aerosol transport carries other aerosol species that could play a role in soil fertility, including biomass-burning products known to contain substantial concentrations of phosphorus. Our study highlights the need for more measurements of aerosol and precipitation chemistry over wider expanses of South America in order to better characterize aerosol chemical and physical properties, to identify aerosol sources, and to constrain model estimates. We show that over 2002–2017 dust transport to South America was negatively correlated to rainfall over the Sahel in North Africa. Long-term monitoring is needed to capture changes in transport from Africa that might occur as a result of climate change.}
-      \field{annotation}{\_eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020GB006536}
       \field{issn}{1944-9224}
       \field{journaltitle}{Global Biogeochemical Cycles}
       \field{langid}{english}
       \field{number}{9}
       \field{shorttitle}{Characterizing and {{Quantifying African Dust Transport}} and {{Deposition}} to {{South America}}}
       \field{title}{Characterizing and {{Quantifying African Dust Transport}} and {{Deposition}} to {{South America}}: {{Implications}} for the {{Phosphorus Budget}} in the {{Amazon Basin}}}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{34}
       \field{year}{2020}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1029/2020gb006536
       \endverb
@@ -2414,8 +2481,12 @@
       \field{journaltitle}{Electronic Journal of Polish Agricultural Universities}
       \field{number}{2}
       \field{title}{In {{Stream Hydraulics}}, {{Granulometry}} and {{Sediment Chemistry}} of a {{Mountain Stream Within Gravel Bar Regions}}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
       \field{volume}{7}
       \field{year}{2004}
+      \field{urldateera}{ce}
       \verb{file}
       \verb D\:\\Brezny\\Zotero\\storage\\8QZ5UVT4\\art-03.html
       \endverb
@@ -2465,7 +2536,11 @@
       \field{month}{9}
       \field{shorttitle}{Open {{Channel Hydraulics}}, {{River Hydraulic Structures}} and {{Fluvial Geomorphology}}}
       \field{title}{Open {{Channel Hydraulics}}, {{River Hydraulic Structures}} and {{Fluvial Geomorphology}}: {{For Engineers}}, {{Geomorphologists}} and {{Physical Geographers}}}
+      \field{urlday}{30}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
       \field{year}{2017}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1201/9781315120584
@@ -2549,8 +2624,12 @@
       \field{month}{10}
       \field{number}{43}
       \field{title}{Modeling River Delta Formation}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
       \field{volume}{104}
       \field{year}{2007}
+      \field{urldateera}{ce}
       \field{pages}{16804\bibrangedash 16809}
       \range{pages}{6}
       \verb{doi}
@@ -2672,8 +2751,12 @@
       \field{number}{5}
       \field{title}{Geometry and Rates of Change of Fault-Generated Range Fronts, North-Central {{Nevada}}}
       \field{type}{Journal {{Article}}}
+      \field{urlday}{21}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
       \field{volume}{6}
       \field{year}{1978}
+      \field{urldateera}{ce}
       \field{pages}{637649}
       \range{pages}{1}
       \verb{file}
@@ -2757,8 +2840,12 @@
       \field{langid}{english}
       \field{month}{2}
       \field{title}{Direct Observations of a Three Million Cubic Meter Rock-Slope Collapse with Almost Immediate Initiation of Ensuing Debris Flows}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
       \field{volume}{351}
       \field{year}{2020}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{106933}
       \range{pages}{1}
@@ -2806,8 +2893,12 @@
       \field{month}{7}
       \field{number}{5924}
       \field{title}{Factors Determining Desert Dune Type}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{304}
       \field{year}{1983}
+      \field{urldateera}{ce}
       \field{pages}{337\bibrangedash 339}
       \range{pages}{3}
       \verb{doi}
