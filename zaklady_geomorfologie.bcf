@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bcf:controlfile version="3.9" bltxversion="3.18b" xmlns:bcf="https://sourceforge.net/projects/biblatex">
+<bcf:controlfile version="3.8" bltxversion="3.17" xmlns:bcf="https://sourceforge.net/projects/biblatex">
   <!-- BIBER OPTIONS -->
   <bcf:options component="biber" type="global">
     <bcf:option type="singlevalued">
@@ -135,10 +135,6 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>nosortothers</bcf:key>
-      <bcf:value>0</bcf:value>
-    </bcf:option>
-    <bcf:option type="singlevalued">
-      <bcf:key>pluralothers</bcf:key>
       <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
@@ -376,11 +372,11 @@
       <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
-      <bcf:key>skipbiblist</bcf:key>
+      <bcf:key>skiplab</bcf:key>
       <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
-      <bcf:key>skiplab</bcf:key>
+      <bcf:key>skipbiblist</bcf:key>
       <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
@@ -603,7 +599,6 @@
     <bcf:option datatype="boolean">labeltitle</bcf:option>
     <bcf:option datatype="boolean">labeltitleyear</bcf:option>
     <bcf:option datatype="boolean">labeldateparts</bcf:option>
-    <bcf:option datatype="boolean">pluralothers</bcf:option>
     <bcf:option datatype="boolean">nohashothers</bcf:option>
     <bcf:option datatype="boolean">nosortothers</bcf:option>
     <bcf:option datatype="boolean">noroman</bcf:option>
@@ -1059,7 +1054,7 @@
     <bcf:namepart order="3">given</bcf:namepart>
   </bcf:uniquenametemplate>
   <!-- SORTING NAME KEY TEMPLATES -->
-  <bcf:sortingnamekeytemplate name="global" visibility="sort">
+  <bcf:sortingnamekeytemplate name="global">
     <bcf:keypart order="1">
       <bcf:part type="namepart" order="1" use="1">prefix</bcf:part>
       <bcf:part type="namepart" order="2">family</bcf:part>
@@ -2361,109 +2356,154 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">other.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">biermanKeyConceptsGeomorphology2014</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">beniestContinentalRiftingConjugate2017</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">beniestContinentalRiftingConjugate2017</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">wallaceGeometryRatesChange1978</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">wallaceGeometryRatesChange1978</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">huggettFundamentalsGeomorphology2007</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">huggettFundamentalsGeomorphology2007</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">whiteConvexConcaveLandslopesGeometrical1966</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">dalrympleHypotheticalNineUnit1968</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">selbyHillslopeMaterialsProcesses1993</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">selbyHillslopeMaterialsProcesses1993</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">gladeLandslideGeomorphologyChanging2010</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">gladeLandslideGeomorphologyChanging2010</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">popescuSuggestedMethodReporting1994</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">mccollLandslideCausesTriggers2015</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">popescuSuggestedMethodReporting1994</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">mccollLandslideCausesTriggers2015</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">mccollLandslideCausesTriggers2015</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">crudenLandslideTypesProcesses1996</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">hungrVarnesClassificationLandslide2014</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">goodmanTopplingRockSlopes1976</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">agliardiStructuralConstraintsDeepseated2001</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">agliardiStructuralConstraintsDeepseated2001</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">nemcokDeleniSvahovychPohybu1974</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">nemcokDeleniSvahovychPohybu1974</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">korupGeomorphicImprintLandslides2005</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">korupGeomorphicImprintLandslides2005</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">korupGeomorphicImprintLandslides2005</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">chowOpenchannelHydraulics1959</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">chowOpenchannelHydraulics1959</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">hjulstromStudiesMorphologicalActivity1935</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">hjulstromStudiesMorphologicalActivity1935</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">dustConceptualModelComplex2012</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">huggettFundamentalsGeomorphology2017</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">biermanKeyConceptsGeomorphology2014</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">biermanKeyConceptsGeomorphology2014</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">galiaFluvialniGeomorfologie2017</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">demekObecnaGeomorfologie1987</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">galiaFluvialniGeomorfologie2017</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">galiaFluvialniGeomorfologie2017</bcf:citekey>
-    <bcf:citekey order="55" intorder="1">radecki-pawlikStreamHydraulicsGranulometry2004</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">radecki-pawlikStreamHydraulicsGranulometry2004</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">mahmoodAppraisalActiveTectonics2012</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">mahmoodAppraisalActiveTectonics2012</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">demekObecnaGeomorfologie1987</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">demekObecnaGeomorfologie1987</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">currensGeneralizedBlockDiagram2001</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">lemkeObservationsChangesSnow2007</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">cuffeyPhysicsGlaciers2010</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">hugonnetAcceleratedGlobalGlacier2021</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">cuffeyPhysicsGlaciers2010</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">cuffeyPhysicsGlaciers2010</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">cuffeyPhysicsGlaciers2010</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">biermanKeyConceptsGeomorphology2014</bcf:citekey>
-    <bcf:citekey order="71" intorder="1">biermanKeyConceptsGeomorphology2014</bcf:citekey>
-    <bcf:citekey order="72" intorder="1">obuNorthernHemispherePermafrost2019</bcf:citekey>
-    <bcf:citekey order="73" intorder="1">jrPermafrostRelatedEngineering1969</bcf:citekey>
-    <bcf:citekey order="74" intorder="1">demekObecnaGeomorfologie1987</bcf:citekey>
-    <bcf:citekey order="75" intorder="1">jrPermafrostRelatedEngineering1969</bcf:citekey>
-    <bcf:citekey order="76" intorder="1">demekObecnaGeomorfologie1987</bcf:citekey>
-    <bcf:citekey order="77" intorder="1">frenchPeriglacialEnvironment2017</bcf:citekey>
-    <bcf:citekey order="78" intorder="1">frenchPeriglacialEnvironment2017</bcf:citekey>
-    <bcf:citekey order="79" intorder="1">matsuokaSolifluctionRatesProcesses2001</bcf:citekey>
-    <bcf:citekey order="80" intorder="1">matsuokaSolifluctionRatesProcesses2001</bcf:citekey>
-    <bcf:citekey order="81" intorder="1">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
-    <bcf:citekey order="82" intorder="1">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
-    <bcf:citekey order="83" intorder="1">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
-    <bcf:citekey order="84" intorder="1">prosperoCharacterizingQuantifyingAfrican2020</bcf:citekey>
-    <bcf:citekey order="85" intorder="1">muhsIdentifyingSourcesAeolian2014</bcf:citekey>
-    <bcf:citekey order="86" intorder="1">beladjineCollisionProcessIncident2007</bcf:citekey>
-    <bcf:citekey order="87" intorder="1">beladjineCollisionProcessIncident2007</bcf:citekey>
-    <bcf:citekey order="88" intorder="1">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
-    <bcf:citekey order="89" intorder="1">albrittonOriginQattaraDepression1990</bcf:citekey>
-    <bcf:citekey order="90" intorder="1">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
-    <bcf:citekey order="91" intorder="1">breedMorphologyDistributionDunes1979</bcf:citekey>
-    <bcf:citekey order="92" intorder="1">wassonFactorsDeterminingDesert1983</bcf:citekey>
-    <bcf:citekey order="93" intorder="1">wassonFactorsDeterminingDesert1983</bcf:citekey>
-    <bcf:citekey order="94" intorder="1">biermanKeyConceptsGeomorphology2014</bcf:citekey>
-    <bcf:citekey order="95" intorder="1">liLoessGenesisWorldwide2020</bcf:citekey>
-    <bcf:citekey order="96" intorder="1">demekObecnaGeomorfologie1987</bcf:citekey>
-    <bcf:citekey order="97" intorder="1">birdCoastalGeomorphologyIntroduction2008</bcf:citekey>
-    <bcf:citekey order="98" intorder="1">demekObecnaGeomorfologie1987</bcf:citekey>
-    <bcf:citekey order="99" intorder="1">birdCoastalGeomorphologyIntroduction2008</bcf:citekey>
-    <bcf:citekey order="100" intorder="1">birdCoastalGeomorphologyIntroduction2008</bcf:citekey>
-    <bcf:citekey order="101" intorder="1">boggsPrinciplesSedimentologyStratigraphy2014</bcf:citekey>
-    <bcf:citekey order="102" intorder="1">seyboldModelingRiverDelta2007</bcf:citekey>
-    <bcf:citekey order="103" intorder="1">seyboldModelingRiverDelta2007</bcf:citekey>
+    <bcf:citekey order="0" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="1">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="2">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="3">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="4">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="5">biermanKeyConceptsGeomorphology2014</bcf:citekey>
+    <bcf:citekey order="6">beniestContinentalRiftingConjugate2017</bcf:citekey>
+    <bcf:citekey order="7">beniestContinentalRiftingConjugate2017</bcf:citekey>
+    <bcf:citekey order="8">wallaceGeometryRatesChange1978</bcf:citekey>
+    <bcf:citekey order="9">wallaceGeometryRatesChange1978</bcf:citekey>
+    <bcf:citekey order="10">huggettFundamentalsGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="11">huggettFundamentalsGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="12">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="13">whiteConvexConcaveLandslopesGeometrical1966</bcf:citekey>
+    <bcf:citekey order="14">dalrympleHypotheticalNineUnit1968</bcf:citekey>
+    <bcf:citekey order="15">selbyHillslopeMaterialsProcesses1993</bcf:citekey>
+    <bcf:citekey order="16">selbyHillslopeMaterialsProcesses1993</bcf:citekey>
+    <bcf:citekey order="17">gladeLandslideGeomorphologyChanging2010</bcf:citekey>
+    <bcf:citekey order="18">gladeLandslideGeomorphologyChanging2010</bcf:citekey>
+    <bcf:citekey order="19">popescuSuggestedMethodReporting1994</bcf:citekey>
+    <bcf:citekey order="20">mccollLandslideCausesTriggers2015</bcf:citekey>
+    <bcf:citekey order="21">popescuSuggestedMethodReporting1994</bcf:citekey>
+    <bcf:citekey order="22">mccollLandslideCausesTriggers2015</bcf:citekey>
+    <bcf:citekey order="23">mccollLandslideCausesTriggers2015</bcf:citekey>
+    <bcf:citekey order="24">crudenLandslideTypesProcesses1996</bcf:citekey>
+    <bcf:citekey order="25">hungrVarnesClassificationLandslide2014</bcf:citekey>
+    <bcf:citekey order="26">goodmanTopplingRockSlopes1976</bcf:citekey>
+    <bcf:citekey order="27">agliardiStructuralConstraintsDeepseated2001</bcf:citekey>
+    <bcf:citekey order="28">agliardiStructuralConstraintsDeepseated2001</bcf:citekey>
+    <bcf:citekey order="29">nemcokDeleniSvahovychPohybu1974</bcf:citekey>
+    <bcf:citekey order="30">nemcokDeleniSvahovychPohybu1974</bcf:citekey>
+    <bcf:citekey order="31">korupGeomorphicImprintLandslides2005</bcf:citekey>
+    <bcf:citekey order="32">korupGeomorphicImprintLandslides2005</bcf:citekey>
+    <bcf:citekey order="33">korupGeomorphicImprintLandslides2005</bcf:citekey>
+    <bcf:citekey order="34">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="35">chowOpenchannelHydraulics1959</bcf:citekey>
+    <bcf:citekey order="36">chowOpenchannelHydraulics1959</bcf:citekey>
+    <bcf:citekey order="37">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="38">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="39">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="40">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="41">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="42">hjulstromStudiesMorphologicalActivity1935</bcf:citekey>
+    <bcf:citekey order="43">hjulstromStudiesMorphologicalActivity1935</bcf:citekey>
+    <bcf:citekey order="44">dustConceptualModelComplex2012</bcf:citekey>
+    <bcf:citekey order="45">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="46">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="47">huggettFundamentalsGeomorphology2017</bcf:citekey>
+    <bcf:citekey order="48">biermanKeyConceptsGeomorphology2014</bcf:citekey>
+    <bcf:citekey order="49">biermanKeyConceptsGeomorphology2014</bcf:citekey>
+    <bcf:citekey order="50">galiaFluvialniGeomorfologie2017</bcf:citekey>
+    <bcf:citekey order="51">demekObecnaGeomorfologie1987</bcf:citekey>
+    <bcf:citekey order="52">galiaFluvialniGeomorfologie2017</bcf:citekey>
+    <bcf:citekey order="53">galiaFluvialniGeomorfologie2017</bcf:citekey>
+    <bcf:citekey order="54">radecki-pawlikStreamHydraulicsGranulometry2004</bcf:citekey>
+    <bcf:citekey order="55">radecki-pawlikStreamHydraulicsGranulometry2004</bcf:citekey>
+    <bcf:citekey order="56">mahmoodAppraisalActiveTectonics2012</bcf:citekey>
+    <bcf:citekey order="57">mahmoodAppraisalActiveTectonics2012</bcf:citekey>
+    <bcf:citekey order="58">demekObecnaGeomorfologie1987</bcf:citekey>
+    <bcf:citekey order="59">demekObecnaGeomorfologie1987</bcf:citekey>
+    <bcf:citekey order="60">currensGeneralizedBlockDiagram2001</bcf:citekey>
+    <bcf:citekey order="61">lemkeObservationsChangesSnow2007</bcf:citekey>
+    <bcf:citekey order="62">cuffeyPhysicsGlaciers2010</bcf:citekey>
+    <bcf:citekey order="63">hugonnetAcceleratedGlobalGlacier2021</bcf:citekey>
+    <bcf:citekey order="64">cuffeyPhysicsGlaciers2010</bcf:citekey>
+    <bcf:citekey order="65">cuffeyPhysicsGlaciers2010</bcf:citekey>
+    <bcf:citekey order="66">cuffeyPhysicsGlaciers2010</bcf:citekey>
+    <bcf:citekey order="67">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="68">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="69">biermanKeyConceptsGeomorphology2014</bcf:citekey>
+    <bcf:citekey order="70">biermanKeyConceptsGeomorphology2014</bcf:citekey>
+    <bcf:citekey order="71">obuNorthernHemispherePermafrost2019</bcf:citekey>
+    <bcf:citekey order="72">jrPermafrostRelatedEngineering1969</bcf:citekey>
+    <bcf:citekey order="73">demekObecnaGeomorfologie1987</bcf:citekey>
+    <bcf:citekey order="74">jrPermafrostRelatedEngineering1969</bcf:citekey>
+    <bcf:citekey order="75">demekObecnaGeomorfologie1987</bcf:citekey>
+    <bcf:citekey order="76">frenchPeriglacialEnvironment2017</bcf:citekey>
+    <bcf:citekey order="77">frenchPeriglacialEnvironment2017</bcf:citekey>
+    <bcf:citekey order="78">matsuokaSolifluctionRatesProcesses2001</bcf:citekey>
+    <bcf:citekey order="79">matsuokaSolifluctionRatesProcesses2001</bcf:citekey>
+    <bcf:citekey order="80">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
+    <bcf:citekey order="81">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
+    <bcf:citekey order="82">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
+    <bcf:citekey order="83">prosperoCharacterizingQuantifyingAfrican2020</bcf:citekey>
+    <bcf:citekey order="84">muhsIdentifyingSourcesAeolian2014</bcf:citekey>
+    <bcf:citekey order="85">beladjineCollisionProcessIncident2007</bcf:citekey>
+    <bcf:citekey order="86">beladjineCollisionProcessIncident2007</bcf:citekey>
+    <bcf:citekey order="87">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
+    <bcf:citekey order="88">albrittonOriginQattaraDepression1990</bcf:citekey>
+    <bcf:citekey order="89">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
+    <bcf:citekey order="90">breedMorphologyDistributionDunes1979</bcf:citekey>
+    <bcf:citekey order="91">wassonFactorsDeterminingDesert1983</bcf:citekey>
+    <bcf:citekey order="92">wassonFactorsDeterminingDesert1983</bcf:citekey>
+    <bcf:citekey order="93">biermanKeyConceptsGeomorphology2014</bcf:citekey>
+    <bcf:citekey order="94">liLoessGenesisWorldwide2020</bcf:citekey>
+    <bcf:citekey order="95">demekObecnaGeomorfologie1987</bcf:citekey>
+    <bcf:citekey order="96">birdCoastalGeomorphologyIntroduction2008</bcf:citekey>
+    <bcf:citekey order="97">demekObecnaGeomorfologie1987</bcf:citekey>
+    <bcf:citekey order="98">birdCoastalGeomorphologyIntroduction2008</bcf:citekey>
+    <bcf:citekey order="99">birdCoastalGeomorphologyIntroduction2008</bcf:citekey>
+    <bcf:citekey order="100">boggsPrinciplesSedimentologyStratigraphy2014</bcf:citekey>
+    <bcf:citekey order="101">seyboldModelingRiverDelta2007</bcf:citekey>
+    <bcf:citekey order="102">seyboldModelingRiverDelta2007</bcf:citekey>
+    <bcf:citekey order="103">summerfieldGlobalGeomorphologyIntroduction1999</bcf:citekey>
+    <bcf:citekey order="104">biermanKeyConceptsGeomorphology2014</bcf:citekey>
+    <bcf:citekey order="105">beniestContinentalRiftingConjugate2017</bcf:citekey>
+    <bcf:citekey order="106">wallaceGeometryRatesChange1978</bcf:citekey>
+    <bcf:citekey order="107">huggettFundamentalsGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="108">whiteConvexConcaveLandslopesGeometrical1966</bcf:citekey>
+    <bcf:citekey order="109">dalrympleHypotheticalNineUnit1968</bcf:citekey>
+    <bcf:citekey order="110">selbyHillslopeMaterialsProcesses1993</bcf:citekey>
+    <bcf:citekey order="111">gladeLandslideGeomorphologyChanging2010</bcf:citekey>
+    <bcf:citekey order="112">popescuSuggestedMethodReporting1994</bcf:citekey>
+    <bcf:citekey order="113">mccollLandslideCausesTriggers2015</bcf:citekey>
+    <bcf:citekey order="114">crudenLandslideTypesProcesses1996</bcf:citekey>
+    <bcf:citekey order="115">hungrVarnesClassificationLandslide2014</bcf:citekey>
+    <bcf:citekey order="116">goodmanTopplingRockSlopes1976</bcf:citekey>
+    <bcf:citekey order="117">agliardiStructuralConstraintsDeepseated2001</bcf:citekey>
+    <bcf:citekey order="118">nemcokDeleniSvahovychPohybu1974</bcf:citekey>
+    <bcf:citekey order="119">korupGeomorphicImprintLandslides2005</bcf:citekey>
+    <bcf:citekey order="120">charltonFundamentalsFluvialGeomorphology2007</bcf:citekey>
+    <bcf:citekey order="121">chowOpenchannelHydraulics1959</bcf:citekey>
+    <bcf:citekey order="122">hjulstromStudiesMorphologicalActivity1935</bcf:citekey>
+    <bcf:citekey order="123">dustConceptualModelComplex2012</bcf:citekey>
+    <bcf:citekey order="124">huggettFundamentalsGeomorphology2017</bcf:citekey>
+    <bcf:citekey order="125">galiaFluvialniGeomorfologie2017</bcf:citekey>
+    <bcf:citekey order="126">demekObecnaGeomorfologie1987</bcf:citekey>
+    <bcf:citekey order="127">radecki-pawlikStreamHydraulicsGranulometry2004</bcf:citekey>
+    <bcf:citekey order="128">mahmoodAppraisalActiveTectonics2012</bcf:citekey>
+    <bcf:citekey order="129">currensGeneralizedBlockDiagram2001</bcf:citekey>
+    <bcf:citekey order="130">lemkeObservationsChangesSnow2007</bcf:citekey>
+    <bcf:citekey order="131">cuffeyPhysicsGlaciers2010</bcf:citekey>
+    <bcf:citekey order="132">hugonnetAcceleratedGlobalGlacier2021</bcf:citekey>
+    <bcf:citekey order="133">obuNorthernHemispherePermafrost2019</bcf:citekey>
+    <bcf:citekey order="134">jrPermafrostRelatedEngineering1969</bcf:citekey>
+    <bcf:citekey order="135">frenchPeriglacialEnvironment2017</bcf:citekey>
+    <bcf:citekey order="136">matsuokaSolifluctionRatesProcesses2001</bcf:citekey>
+    <bcf:citekey order="137">livingstoneAeolianGeomorphologyNew2019</bcf:citekey>
+    <bcf:citekey order="138">prosperoCharacterizingQuantifyingAfrican2020</bcf:citekey>
+    <bcf:citekey order="139">muhsIdentifyingSourcesAeolian2014</bcf:citekey>
+    <bcf:citekey order="140">beladjineCollisionProcessIncident2007</bcf:citekey>
+    <bcf:citekey order="141">albrittonOriginQattaraDepression1990</bcf:citekey>
+    <bcf:citekey order="142">breedMorphologyDistributionDunes1979</bcf:citekey>
+    <bcf:citekey order="143">wassonFactorsDeterminingDesert1983</bcf:citekey>
+    <bcf:citekey order="144">liLoessGenesisWorldwide2020</bcf:citekey>
+    <bcf:citekey order="145">birdCoastalGeomorphologyIntroduction2008</bcf:citekey>
+    <bcf:citekey order="146">boggsPrinciplesSedimentologyStratigraphy2014</bcf:citekey>
+    <bcf:citekey order="147">seyboldModelingRiverDelta2007</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
