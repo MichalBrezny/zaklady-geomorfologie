@@ -215,7 +215,7 @@
 \contentsline {subsection}{\numberline {14.8.1}Příčiny změny výšky hladiny}{107}{subsection.14.8.1}%
 \contentsline {chapter}{\numberline {15}Základy geomorfometrie}{109}{chapter.15}%
 \contentsline {section}{\numberline {15.1}Geomorfometrie jako nástroj poznání reliéfu}{109}{section.15.1}%
-\contentsline {section}{\numberline {15.2}Digitálná výškové modely}{109}{section.15.2}%
+\contentsline {section}{\numberline {15.2}Digitální výškové modely}{109}{section.15.2}%
 \contentsline {section}{\numberline {15.3}Geomorfometrické parametry}{109}{section.15.3}%
 \contentsline {subsection}{\numberline {15.3.1}Lokální morfometrické parametry}{109}{subsection.15.3.1}%
 \contentsline {subsection}{\numberline {15.3.2}Regionální morfometrické parametry}{109}{subsection.15.3.2}%
