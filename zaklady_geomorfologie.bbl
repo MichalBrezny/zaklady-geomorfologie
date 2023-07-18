@@ -128,7 +128,7 @@
       \verb 10.1130/0016-7606(1990)102<0952:ootqde>2.3.co;2
       \endverb
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\NCDHY86B\\Origin-of-the-Qattara-Depression-Egypt.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\NCDHY86B\\Origin-of-the-Qattara-Depression-Egypt.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -187,7 +187,7 @@
       \verb 10.1103/physreve.75.061305
       \endverb
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\N2IV6AE5\\PhysRevE.75.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\N2IV6AE5\\PhysRevE.75.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -332,7 +332,7 @@
       \field{title}{Principles of {{Sedimentology}} and {{Stratigraphy}}}
       \field{year}{2014}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\CA2HK4RP\\Boggs - 2014 - Principles of Sedimentology and Stratigraphy.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\CA2HK4RP\\Boggs - 2014 - Principles of Sedimentology and Stratigraphy.pdf
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -500,7 +500,7 @@
       \field{title}{Generalized {{Block Diagram}} of the {{Western Pennyroyal Karst}}}
       \field{year}{2001}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\AWMJLK2T\\Currens - Generalized Block Diagram of the Western Pennyroya.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\AWMJLK2T\\Currens - Generalized Block Diagram of the Western Pennyroya.pdf
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -542,7 +542,7 @@
       \range{pages}{17}
       \keyw{⛔ No DOI found,❌,otherbib}
     \endentry
-    \entry{davidson-arnottIntroductionCoastalProcesses2010a}{book}{}
+    \entry{davidson-arnottIntroductionCoastalProcesses2010}{book}{}
       \name{author}{1}{}{%
         {{hash=f7b5fcbc920c70ea65deae99869dd0e5}{%
            family={{Davidson-Arnott}},
@@ -735,7 +735,7 @@
       \field{title}{The Periglacial Environment}
       \field{year}{2017}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\NZHVVEBH\\French - 2017 - The periglacial environment.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\NZHVVEBH\\French - 2017 - The periglacial environment.pdf
       \endverb
       \keyw{,mainbib}
     \endentry
@@ -945,9 +945,121 @@
       \verb 10.1038/s41467-021-21469-w
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Nature Communications\\2021\\Gowan et al_2021_A new global ice sheet reconstruction for the past 80 000 years.pdf;D\:\\Brezny\\Zotero\\storage\\IYQUWNHP\\s41467-021-21469-w.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Nature Communications\\2021\\Gowan et al_2021_A new global ice sheet reconstruction for the past 80 000 years.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\IYQUWNHP\\s41467-021-21469-w.html
       \endverb
       \keyw{,otherbib}
+    \endentry
+    \entry{guthDigitalElevationModels2021}{article}{}
+      \name{author}{14}{}{%
+        {{hash=acd648ae16ee49065b91303d07d8cf5f}{%
+           family={Guth},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=8a590d28b0c5be6386e42488d692ed23}{%
+           family={Van\bibnamedelima Niekerk},
+           familyi={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Adriaan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c4d53ff7ceb1ad0a61f76b5a3bdd70fe}{%
+           family={Grohmann},
+           familyi={G\bibinitperiod},
+           given={Carlos\bibnamedelima H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5c07aa3dd19e6f66bc8f96217e34484c}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={Jan-Peter},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=a9f6c874e686304619883b4c9abcecc8}{%
+           family={Hawker},
+           familyi={H\bibinitperiod},
+           given={Laurence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c48cf2e7221d00d582875de18eb4b1d0}{%
+           family={Florinsky},
+           familyi={F\bibinitperiod},
+           given={Igor\bibnamedelima V.},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=c0725db8c409b50f0eb657057bd43e45}{%
+           family={Gesch},
+           familyi={G\bibinitperiod},
+           given={Dean},
+           giveni={D\bibinitperiod}}}%
+        {{hash=53f9d4faf4799f93f54bbc5d67105a26}{%
+           family={Reuter},
+           familyi={R\bibinitperiod},
+           given={Hannes\bibnamedelima I.},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=eed6911c6290d168b3250df3fae9b2d1}{%
+           family={{Herrera-Cruz}},
+           familyi={H\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod}}}%
+        {{hash=66c456fa0603d11fa261d80d8844d450}{%
+           family={Riazanoff},
+           familyi={R\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod}}}%
+        {{hash=92b8e52ab1c898b92f587629918c103a}{%
+           family={{López-Vázquez}},
+           familyi={L\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=71678240f7d6470bd0c3b8b92ce3dba3}{%
+           family={Carabajal},
+           familyi={C\bibinitperiod},
+           given={Claudia\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=cde133b14478f425ff259a40eb5e6da3}{%
+           family={Albinet},
+           familyi={A\bibinitperiod},
+           given={Clément},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a6579bd19442e114ee2c5f6edd751716}{%
+           family={Strobl},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{474006ce0961401dc5ece49f6fc112c0}
+      \strng{fullhash}{16b58afb081ea701aca04a42a1dd737c}
+      \strng{bibnamehash}{16b58afb081ea701aca04a42a1dd737c}
+      \strng{authorbibnamehash}{16b58afb081ea701aca04a42a1dd737c}
+      \strng{authornamehash}{474006ce0961401dc5ece49f6fc112c0}
+      \strng{authorfullhash}{16b58afb081ea701aca04a42a1dd737c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Digital elevation models (DEMs) provide fundamental depictions of the three-dimensional shape of the Earth's surface and are useful to a wide range of disciplines. Ideally, DEMs record the interface between the atmosphere and the lithosphere using a discrete two-dimensional grid, with complexities introduced by the intervening hydrosphere, cryosphere, biosphere, and anthroposphere. The treatment of DEM surfaces, affected by these intervening spheres, depends on their intended use, and the characteristics of the sensors that were used to create them. DEM is a general term, and more specific terms such as digital surface model (DSM) or digital terrain model (DTM) record the treatment of the intermediate surfaces. Several global DEMs generated with optical (visible and near-infrared) sensors and synthetic aperture radar (SAR), as well as single/multi-beam sonars and products of satellite altimetry, share the common characteristic of a georectified, gridded storage structure. Nevertheless, not all DEMs share the same vertical datum, not all use the same convention for the area on the ground represented by each pixel in the DEM, and some of them have variable data spacings depending on the latitude. This paper highlights the importance of knowing, understanding and reflecting on the sensor and DEM characteristics and consolidates terminology and definitions of key concepts to facilitate a common understanding among the growing community of DEM users, who do not necessarily share the same background.}
+      \field{issn}{2072-4292}
+      \field{journaltitle}{Remote Sensing}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{18}
+      \field{shorttitle}{Digital {{Elevation Models}}}
+      \field{title}{Digital {{Elevation Models}}: {{Terminology}} and {{Definitions}}}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{3581}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/rs13183581
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Remote Sensing\\2021\\Guth et al_2021_Digital Elevation Models.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\QWN4LP9G\\3581.html
+      \endverb
+      \keyw{🔥,otherbib}
     \endentry
     \entry{hjulstromStudiesMorphologicalActivity1935}{book}{}
       \name{author}{1}{}{%
@@ -977,7 +1089,7 @@
       \field{title}{Studies of the Morphological Activity of Rivers as Illustrated by the River {{Fyris}}}
       \field{year}{1935}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\WSKAEG3P\\10000306587.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\WSKAEG3P\\10000306587.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -1150,7 +1262,7 @@
       \verb 10.1038/s41586-021-03436-z
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Nature\\2021\\Hugonnet et al_2021_Accelerated global glacier mass loss in the early twenty-first century.pdf;D\:\\Brezny\\Zotero\\storage\\6XVSGJ4H\\s41586-021-03436-z.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Nature\\2021\\Hugonnet et al_2021_Accelerated global glacier mass loss in the early twenty-first century.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\6XVSGJ4H\\s41586-021-03436-z.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -1313,7 +1425,7 @@
       \verb 10.3133/pp678
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Report\\U.S. Govt. Print. Off.,\\1969\\Jr et al_1969_Permafrost and related engineering problems in Alaska.pdf;D\:\\Brezny\\Zotero\\storage\\6G62ILK9\\pp678.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Report\\U.S. Govt. Print. Off.,\\1969\\Jr et al_1969_Permafrost and related engineering problems in Alaska.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\6G62ILK9\\pp678.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -1838,7 +1950,7 @@
       \verb 10.1016/j.earscirev.2019.102947
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Earth-Science Reviews\\2020\\Li et al_2020_Loess genesis and worldwide distribution.pdf;D\:\\Brezny\\Zotero\\storage\\JQBPA9JE\\S001282521930114X.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Earth-Science Reviews\\2020\\Li et al_2020_Loess genesis and worldwide distribution.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\JQBPA9JE\\S001282521930114X.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -1879,7 +1991,7 @@
       \field{title}{Aeolian Geomorphology: A New Introduction}
       \field{year}{2019}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\HD5B6FGR\\Livingstone and Warren - 2019 - Aeolian geomorphology a new introduction.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\HD5B6FGR\\Livingstone and Warren - 2019 - Aeolian geomorphology a new introduction.pdf
       \endverb
       \keyw{,mainbib}
     \endentry
@@ -2054,7 +2166,7 @@
       \field{year}{2009}
       \true{nocite}
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\Academic Press\\2009\\McCalpin_2009_Paleoseismology.pdf;D\:\\Brezny\\Zotero\\storage\\GUPKFKS5\\McCalpin - 2009 - Paleoseismology.pdf
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\Academic Press\\2009\\McCalpin_2009_Paleoseismology.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\GUPKFKS5\\McCalpin - 2009 - Paleoseismology.pdf
       \endverb
       \keyw{,mainbib}
     \endentry
@@ -2351,7 +2463,7 @@
       \verb 10.1016/j.earscirev.2019.04.023
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Earth-Science Reviews\\2019\\Obu et al_2019_Northern Hemisphere permafrost map based on TTOP modelling for 2000–2016 at.pdf;D\:\\Brezny\\Zotero\\storage\\JG9SGBKJ\\S0012825218305907.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Earth-Science Reviews\\2019\\Obu et al_2019_Northern Hemisphere permafrost map based on TTOP modelling for 2000–2016 at.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\JG9SGBKJ\\S0012825218305907.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2453,7 +2565,7 @@
       \verb 10.1029/2020gb006536
       \endverb
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\RPHLRSPJ\\2020GB006536.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\RPHLRSPJ\\2020GB006536.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2488,7 +2600,7 @@
       \field{year}{2004}
       \field{urldateera}{ce}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\8QZ5UVT4\\art-03.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\8QZ5UVT4\\art-03.html
       \endverb
       \keyw{⛔ No DOI found,otherbib}
     \endentry
@@ -2636,7 +2748,7 @@
       \verb 10.1073/pnas.0705265104
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Proceedings of the National Academy of Sciences\\2007\\Seybold et al_2007_Modeling river delta formation.pdf;D\:\\Brezny\\Zotero\\storage\\P6NK5J59\\16804.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Proceedings of the National Academy of Sciences\\2007\\Seybold et al_2007_Modeling river delta formation.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\P6NK5J59\\16804.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2722,7 +2834,7 @@
       \field{pages}{44}
       \range{pages}{1}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\B2IE355X\\Taylor and Greene - Hydrogeologic Characterization and Methods Used in.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\B2IE355X\\Taylor and Greene - Hydrogeologic Characterization and Methods Used in.pdf
       \endverb
       \keyw{,mainbib}
     \endentry
@@ -2760,7 +2872,7 @@
       \field{pages}{637649}
       \range{pages}{1}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\284QWSLZ\\report.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\284QWSLZ\\report.pdf
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2905,7 +3017,7 @@
       \verb 10.1038/304337a0
       \endverb
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\MCVTHYAD\\304337a0.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\MCVTHYAD\\304337a0.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2937,7 +3049,7 @@
       \field{pages}{17}
       \range{pages}{1}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\5QZQ9H4S\\White - Convex-Concave Landslopes A Geometrical Study.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\5QZQ9H4S\\White - Convex-Concave Landslopes A Geometrical Study.pdf
       \endverb
       \keyw{,otherbib}
     \endentry
