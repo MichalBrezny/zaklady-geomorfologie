@@ -125,7 +125,7 @@
       \field{pages}{952\bibrangedash 960}
       \range{pages}{9}
       \verb{doi}
-      \verb 10.1130/0016-7606(1990)102<0952:ootqde>2.3.co;2
+      \verb 10.1130/0016-7606(1990)102{$<$}0952:ootqde{$>$}2.3.co;2
       \endverb
       \verb{file}
       \verb C\:\\Users\\Brezny\\Zotero\\storage\\NCDHY86B\\Origin-of-the-Qattara-Depression-Egypt.html
@@ -370,7 +370,7 @@
       \field{year}{1979}
       \field{pages}{253\bibrangedash 304}
       \range{pages}{52}
-      \keyw{,otherbib}
+      \keyw{\#nosource,otherbib}
     \endentry
     \entry{crudenLandslideTypesProcesses1996}{incollection}{}
       \name{author}{2}{}{%
@@ -540,7 +540,7 @@
       \field{year}{1968}
       \field{pages}{60\bibrangedash 76}
       \range{pages}{17}
-      \keyw{⛔ No DOI found,❌,otherbib}
+      \keyw{\#nosource,⛔ No DOI found,❌,otherbib}
     \endentry
     \entry{davidson-arnottIntroductionCoastalProcesses2010}{book}{}
       \name{author}{1}{}{%
@@ -654,7 +654,7 @@
       \field{title}{Landslide Recognition: Identification, Movement, and Causes}
       \field{year}{1996}
       \true{nocite}
-      \keyw{,mainbib}
+      \keyw{\#nosource,mainbib}
     \endentry
     \entry{dustConceptualModelComplex2012}{article}{}
       \name{author}{2}{}{%
@@ -768,7 +768,7 @@
       \field{title}{Fluviální Geomorfologie}
       \field{volume}{1}
       \field{year}{2017}
-      \keyw{,mainbib}
+      \keyw{\#nosource,mainbib}
     \endentry
     \entry{gladeLandslideGeomorphologyChanging2010}{article}{}
       \name{author}{2}{}{%
@@ -1051,6 +1051,7 @@
       \field{volume}{13}
       \field{year}{2021}
       \field{urldateera}{ce}
+      \true{nocite}
       \field{pages}{3581}
       \range{pages}{1}
       \verb{doi}
@@ -1342,6 +1343,9 @@
       \field{isbn}{978-0-415-33453-2}
       \field{title}{Fundamentals of Fluvial Geomorphology}
       \field{year}{2007}
+      \verb{file}
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\Routledge\\2008\\Charlton_2008_Fundamentals of fluvial geomorphology.pdf
+      \endverb
       \keyw{,mainbib}
     \endentry
     \entry{chowOpenchannelHydraulics1959}{book}{}
@@ -2283,9 +2287,9 @@
       \field{pages}{51\bibrangedash 74}
       \range{pages}{24}
       \verb{doi}
-      \verb 10.1007/978-94-017-8978-3_3
+      \verb 10.1007/978-94-017-8978-3\_3
       \endverb
-      \keyw{,otherbib}
+      \keyw{\#nosource,otherbib}
     \endentry
     \entry{nemcokDeleniSvahovychPohybu1974}{article}{}
       \name{author}{3}{}{%
@@ -2323,7 +2327,7 @@
       \field{year}{1974}
       \field{pages}{77\bibrangedash 93}
       \range{pages}{17}
-      \keyw{⛔ No DOI found,mainbib}
+      \keyw{\#nosource,⛔ No DOI found,mainbib}
     \endentry
     \entry{obuNorthernHemispherePermafrost2019}{article}{}
       \name{author}{21}{}{%
@@ -2642,7 +2646,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
-      \field{edition}{First}
+      \field{edition}{1}
       \field{isbn}{978-1-315-12058-4}
       \field{langid}{english}
       \field{month}{9}
@@ -2693,7 +2697,7 @@
       \field{isbn}{0-19-874183-9}
       \field{title}{Hillslope Materials and Processes.}
       \field{year}{1993}
-      \keyw{,mainbib}
+      \keyw{\#nosource,mainbib}
     \endentry
     \entry{seyboldModelingRiverDelta2007}{article}{}
       \name{author}{3}{}{%

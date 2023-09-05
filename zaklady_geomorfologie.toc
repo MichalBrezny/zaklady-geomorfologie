@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {2.4}Základní teoretická východiska}{8}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Zachování hmoty v krajině}{8}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Zachování energie}{8}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Pohyb hmoty}{9}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.3}Pohyb hmoty}{8}{subsection.2.4.3}%
 \contentsline {subsection}{\numberline {2.4.4}Rovnováha sil a prahy}{9}{subsection.2.4.4}%
 \contentsline {subsection}{\numberline {2.4.5}Magnitudo a frekvence geomorfologických procesů}{9}{subsection.2.4.5}%
 \contentsline {part}{II\hspace {1em}Endogenní procesy a formy reliéfu}{13}{part.2}%
@@ -46,7 +46,7 @@
 \contentsline {subsubsection}{Příkrovy}{25}{subsubsection*.14}%
 \contentsline {section}{\numberline {4.4}Pukliny}{25}{section.4.4}%
 \contentsline {section}{\numberline {4.5}Vrásy}{26}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Izometrické vrásy}{27}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.1}Izometrické vrásy}{26}{subsection.4.5.1}%
 \contentsline {subsection}{\numberline {4.5.2}Projev vrás v reliéfu}{27}{subsection.4.5.2}%
 \contentsline {section}{\numberline {4.6}Strukturní reliéf}{28}{section.4.6}%
 \contentsline {subsection}{\numberline {4.6.1}Horizontálně uložené vrstvy}{28}{subsection.4.6.1}%
@@ -79,11 +79,11 @@
 \contentsline {subsection}{\numberline {7.1.1}Části svahu}{45}{subsection.7.1.1}%
 \contentsline {subsection}{\numberline {7.1.2}Síly působící na svah}{45}{subsection.7.1.2}%
 \contentsline {subsection}{\numberline {7.1.3}Koncept stability svahu}{45}{subsection.7.1.3}%
-\contentsline {section}{\numberline {7.2}Gravitační svahové pochody}{48}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Světová klasifikace svahových pohybů}{48}{subsection.7.2.1}%
+\contentsline {section}{\numberline {7.2}Gravitační svahové pochody}{46}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Světová klasifikace svahových pohybů}{46}{subsection.7.2.1}%
 \contentsline {subsubsection}{Řícení}{48}{subsubsection*.18}%
 \contentsline {subsubsection}{Odklánění}{48}{subsubsection*.19}%
-\contentsline {subsubsection}{Sesouvání}{50}{subsubsection*.20}%
+\contentsline {subsubsection}{Sesouvání}{48}{subsubsection*.20}%
 \contentsline {subsubsection}{Boční rozšiřování}{50}{subsubsection*.21}%
 \contentsline {subsubsection}{Tečení}{50}{subsubsection*.22}%
 \contentsline {subsubsection}{Svahové deformace}{52}{subsubsection*.23}%
@@ -95,7 +95,7 @@
 \contentsline {subsubsection}{Tečení}{53}{subsubsection*.28}%
 \contentsline {subsubsection}{Řícení}{53}{subsubsection*.29}%
 \contentsline {subsection}{\numberline {7.2.3}Další klasifikace svahových pohybů a jejich výsledných forem}{53}{subsection.7.2.3}%
-\contentsline {section}{\numberline {7.3}Geomorfologické důsledky svahových procesů}{54}{section.7.3}%
+\contentsline {section}{\numberline {7.3}Geomorfologické důsledky svahových procesů}{53}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Eroze na svazích}{54}{section.7.4}%
 \contentsline {subsection}{\numberline {7.4.1}Difuzní procesy}{54}{subsection.7.4.1}%
 \contentsline {subsection}{\numberline {7.4.2}Liniová eroze}{55}{subsection.7.4.2}%
@@ -126,7 +126,7 @@
 \contentsline {subsubsection}{Divočící toky}{64}{subsubsection*.37}%
 \contentsline {subsubsection}{Větvící se toky}{64}{subsubsection*.38}%
 \contentsline {subsection}{\numberline {8.6.3}Anastomózní toky}{64}{subsection.8.6.3}%
-\contentsline {section}{\numberline {8.7}Údolí}{65}{section.8.7}%
+\contentsline {section}{\numberline {8.7}Údolí}{64}{section.8.7}%
 \contentsline {subsection}{\numberline {8.7.1}Vodní toky a morfostruktura}{65}{subsection.8.7.1}%
 \contentsline {subsection}{\numberline {8.7.2}Podélný profil a erozní báze}{65}{subsection.8.7.2}%
 \contentsline {section}{\numberline {8.8}Korytové formy}{65}{section.8.8}%
@@ -178,7 +178,7 @@
 \contentsline {section}{\numberline {12.4}Periglaciální tvary reliéfu}{91}{section.12.4}%
 \contentsline {subsection}{\numberline {12.4.1}Tvary v zeminách}{91}{subsection.12.4.1}%
 \contentsline {subsection}{\numberline {12.4.2}Tvary ve skalních horninách}{93}{subsection.12.4.2}%
-\contentsline {subsection}{\numberline {12.4.3}Skalní ledovce}{94}{subsection.12.4.3}%
+\contentsline {subsection}{\numberline {12.4.3}Skalní ledovce}{93}{subsection.12.4.3}%
 \contentsline {chapter}{\numberline {13}Eolické procesy a a formy reliéfu}{97}{chapter.13}%
 \contentsline {section}{\numberline {13.1}Vítr jako morfogenetický činitel}{97}{section.13.1}%
 \contentsline {section}{\numberline {13.2}Eolická eroze}{97}{section.13.2}%
@@ -200,24 +200,18 @@
 \contentsline {section}{\numberline {14.5}Pobřežní procesy}{106}{section.14.5}%
 \contentsline {subsubsection}{Pobřežní zvětrávání a eroze}{106}{subsubsection*.50}%
 \contentsline {subsubsection}{Pohyb a depozice sedimentů}{107}{subsubsection*.51}%
-\contentsline {section}{\numberline {14.6}Pobřežní formy reliéfu}{108}{section.14.6}%
-\contentsline {subsection}{\numberline {14.6.1}Erozní pobřeží}{108}{subsection.14.6.1}%
+\contentsline {section}{\numberline {14.6}Pobřežní formy reliéfu}{107}{section.14.6}%
+\contentsline {subsection}{\numberline {14.6.1}Erozní pobřeží}{107}{subsection.14.6.1}%
 \contentsline {subsection}{\numberline {14.6.2}Akumulační tvary}{108}{subsection.14.6.2}%
 \contentsline {subsubsection}{Pláže}{108}{subsubsection*.52}%
 \contentsline {subsubsection}{Písečné kosy a tomboly}{108}{subsubsection*.53}%
-\contentsline {subsubsection}{Bariérové ostrovy}{109}{subsubsection*.54}%
+\contentsline {subsubsection}{Bariérové ostrovy}{108}{subsubsection*.54}%
 \contentsline {subsubsection}{Přílivové plošiny a marše}{109}{subsubsection*.55}%
 \contentsline {subsubsection}{Říční delta}{109}{subsubsection*.56}%
 \contentsline {subsubsection}{Estuáry}{110}{subsubsection*.57}%
 \contentsline {subsubsection}{Korálové útesy}{110}{subsubsection*.58}%
 \contentsline {section}{\numberline {14.7}Typy pobřeží}{110}{section.14.7}%
 \contentsline {section}{\numberline {14.8}Změny výšky mořské hladiny}{110}{section.14.8}%
-\contentsline {subsection}{\numberline {14.8.1}Příčiny změny výšky hladiny}{111}{subsection.14.8.1}%
-\contentsline {chapter}{\numberline {15}Přírodní hrozby}{115}{chapter.15}%
-\contentsline {chapter}{\numberline {16}Základy geomorfometrie}{117}{chapter.16}%
-\contentsline {section}{\numberline {16.1}Geomorfometrie jako nástroj poznání reliéfu}{117}{section.16.1}%
-\contentsline {section}{\numberline {16.2}Digitální výškové modely}{117}{section.16.2}%
-\contentsline {section}{\numberline {16.3}Geomorfometrické parametry}{117}{section.16.3}%
-\contentsline {section}{\numberline {16.4}Nástroje pro geomorfometrické analýzy}{117}{section.16.4}%
-\contentsline {chapter}{Hlavní zdroje a další čtení}{119}{chapter*.59}%
-\contentsline {chapter}{Ostatní zdroje citované v textu}{121}{chapter*.60}%
+\contentsline {subsection}{\numberline {14.8.1}Příčiny změny výšky hladiny}{110}{subsection.14.8.1}%
+\contentsline {chapter}{Hlavní zdroje a další čtení}{115}{chapter*.59}%
+\contentsline {chapter}{Ostatní zdroje citované v textu}{117}{chapter*.60}%

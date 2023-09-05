@@ -1,23 +1,23 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'zaklady_geomorfologie.blg'
-[107] biber-MSWIN64:340> INFO - === 
-[142] Biber.pm:418> INFO - Reading 'zaklady_geomorfologie.bcf'
-[234] Biber.pm:975> INFO - Using all citekeys in bib section 0
-[245] Biber.pm:4401> INFO - Processing section 0
-[254] Biber.pm:4592> INFO - Looking for bibtex file 'mainbib.bib' for section 0
-[334] bibtex.pm:1713> INFO - LaTeX decoding ...
-[359] bibtex.pm:1518> INFO - Found BibTeX data source 'mainbib.bib'
-[431] Biber.pm:4592> INFO - Looking for bibtex file 'other.bib' for section 0
-[489] bibtex.pm:1713> INFO - LaTeX decoding ...
-[537] bibtex.pm:1518> INFO - Found BibTeX data source 'other.bib'
-[781] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
-[781] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[781] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'cs-CZ'
-[836] bbl.pm:654> INFO - Writing 'zaklady_geomorfologie.bbl' with encoding 'UTF-8'
-[900] bbl.pm:757> INFO - Output to zaklady_geomorfologie.bbl
-[900] Biber.pm:130> WARN - ISBN '978-1-138-94064-2 978-1-138-94065-9' in entry 'huggettFundamentalsGeomorphology2017' is invalid - run biber with '--validate_datamodel' for details.
-[900] Biber.pm:130> WARN - ISBN '978-0-521-87445-8 978-0-521-69671-5' in entry 'davidson-arnottIntroductionCoastalProcesses2010' is invalid - run biber with '--validate_datamodel' for details.
-[900] Biber.pm:130> WARN - ISBN '978-0-203-94711-1 978-0-415-39084-2 978-0-415-39083-5' in entry 'huggettFundamentalsGeomorphology2007' is invalid - run biber with '--validate_datamodel' for details.
-[900] Biber.pm:130> WARN - ISBN '978-0-470-51729-1 978-0-470-51730-7' in entry 'birdCoastalGeomorphologyIntroduction2008' is invalid - run biber with '--validate_datamodel' for details.
-[901] Biber.pm:130> WARN - ISBN '978-1-119-13281-3 978-1-119-13279-0' in entry 'frenchPeriglacialEnvironment2017' is invalid - run biber with '--validate_datamodel' for details.
-[901] Biber.pm:132> INFO - WARNINGS: 5
+[154] biber-MSWIN64:340> INFO - === 
+[193] Biber.pm:418> INFO - Reading 'zaklady_geomorfologie.bcf'
+[333] Biber.pm:975> INFO - Using all citekeys in bib section 0
+[354] Biber.pm:4401> INFO - Processing section 0
+[368] Biber.pm:4592> INFO - Looking for bibtex file 'mainbib.bib' for section 0
+[419] bibtex.pm:1713> INFO - LaTeX decoding ...
+[462] bibtex.pm:1518> INFO - Found BibTeX data source 'mainbib.bib'
+[606] Biber.pm:4592> INFO - Looking for bibtex file 'other.bib' for section 0
+[660] bibtex.pm:1713> INFO - LaTeX decoding ...
+[755] bibtex.pm:1518> INFO - Found BibTeX data source 'other.bib'
+[1150] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1150] UCollate.pm:68> INFO - Overriding locale 'cs-CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1150] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'cs-CZ'
+[1222] bbl.pm:654> INFO - Writing 'zaklady_geomorfologie.bbl' with encoding 'UTF-8'
+[1294] bbl.pm:757> INFO - Output to zaklady_geomorfologie.bbl
+[1294] Biber.pm:130> WARN - ISBN '978-0-470-51729-1 978-0-470-51730-7' in entry 'birdCoastalGeomorphologyIntroduction2008' is invalid - run biber with '--validate_datamodel' for details.
+[1294] Biber.pm:130> WARN - ISBN '978-0-203-94711-1 978-0-415-39084-2 978-0-415-39083-5' in entry 'huggettFundamentalsGeomorphology2007' is invalid - run biber with '--validate_datamodel' for details.
+[1294] Biber.pm:130> WARN - ISBN '978-1-138-94064-2 978-1-138-94065-9' in entry 'huggettFundamentalsGeomorphology2017' is invalid - run biber with '--validate_datamodel' for details.
+[1294] Biber.pm:130> WARN - ISBN '978-1-119-13281-3 978-1-119-13279-0' in entry 'frenchPeriglacialEnvironment2017' is invalid - run biber with '--validate_datamodel' for details.
+[1294] Biber.pm:130> WARN - ISBN '978-0-521-87445-8 978-0-521-69671-5' in entry 'davidson-arnottIntroductionCoastalProcesses2010' is invalid - run biber with '--validate_datamodel' for details.
+[1294] Biber.pm:132> INFO - WARNINGS: 5
