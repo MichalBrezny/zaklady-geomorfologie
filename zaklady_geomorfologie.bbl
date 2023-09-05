@@ -56,8 +56,12 @@
       \field{month}{1}
       \field{number}{1-2}
       \field{title}{Structural Constraints on Deep-Seated Slope Deformation Kinematics}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{59}
       \field{year}{2001}
+      \field{urldateera}{ce}
       \field{pages}{83\bibrangedash 102}
       \range{pages}{20}
       \verb{doi}
@@ -112,15 +116,19 @@
       \field{month}{7}
       \field{number}{7}
       \field{title}{Origin of the {{Qattara Depression}}, {{Egypt}}}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{102}
       \field{year}{1990}
+      \field{urldateera}{ce}
       \field{pages}{952\bibrangedash 960}
       \range{pages}{9}
       \verb{doi}
-      \verb 10.1130/0016-7606(1990)102<0952:ootqde>2.3.co;2
+      \verb 10.1130/0016-7606(1990)102{$<$}0952:ootqde{$>$}2.3.co;2
       \endverb
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\NCDHY86B\\Origin-of-the-Qattara-Depression-Egypt.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\NCDHY86B\\Origin-of-the-Qattara-Depression-Egypt.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -167,15 +175,19 @@
       \field{month}{6}
       \field{number}{6}
       \field{title}{Collision Process between an Incident Bead and a Three-Dimensional Granular Packing}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{75}
       \field{year}{2007}
+      \field{urldateera}{ce}
       \field{pages}{061305}
       \range{pages}{1}
       \verb{doi}
       \verb 10.1103/physreve.75.061305
       \endverb
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\N2IV6AE5\\PhysRevE.75.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\N2IV6AE5\\PhysRevE.75.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -248,7 +260,7 @@
       \verb{file}
       \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\W.H. Freeman and Company Publishers A Macmillan Higher Education Company\\2014\\Bierman_Montgomery_2014_Key concepts in geomorphology.pdf
       \endverb
-      \keyw{_tablet_modified,mainbib}
+      \keyw{\_tablet\_modified,mainbib}
     \endentry
     \entry{birdCoastalGeomorphologyIntroduction2008}{book}{}
       \name{author}{1}{}{%
@@ -320,7 +332,7 @@
       \field{title}{Principles of {{Sedimentology}} and {{Stratigraphy}}}
       \field{year}{2014}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\CA2HK4RP\\Boggs - 2014 - Principles of Sedimentology and Stratigraphy.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\CA2HK4RP\\Boggs - 2014 - Principles of Sedimentology and Stratigraphy.pdf
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -358,7 +370,7 @@
       \field{year}{1979}
       \field{pages}{253\bibrangedash 304}
       \range{pages}{52}
-      \keyw{,otherbib}
+      \keyw{\#nosource,otherbib}
     \endentry
     \entry{crudenLandslideTypesProcesses1996}{incollection}{}
       \name{author}{2}{}{%
@@ -488,7 +500,7 @@
       \field{title}{Generalized {{Block Diagram}} of the {{Western Pennyroyal Karst}}}
       \field{year}{2001}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\AWMJLK2T\\Currens - Generalized Block Diagram of the Western Pennyroya.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\AWMJLK2T\\Currens - Generalized Block Diagram of the Western Pennyroya.pdf
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -528,9 +540,9 @@
       \field{year}{1968}
       \field{pages}{60\bibrangedash 76}
       \range{pages}{17}
-      \keyw{⛔ No DOI found,❌,otherbib}
+      \keyw{\#nosource,⛔ No DOI found,❌,otherbib}
     \endentry
-    \entry{davidson-arnottIntroductionCoastalProcesses2010a}{book}{}
+    \entry{davidson-arnottIntroductionCoastalProcesses2010}{book}{}
       \name{author}{1}{}{%
         {{hash=f7b5fcbc920c70ea65deae99869dd0e5}{%
            family={{Davidson-Arnott}},
@@ -642,7 +654,7 @@
       \field{title}{Landslide Recognition: Identification, Movement, and Causes}
       \field{year}{1996}
       \true{nocite}
-      \keyw{,mainbib}
+      \keyw{\#nosource,mainbib}
     \endentry
     \entry{dustConceptualModelComplex2012}{article}{}
       \name{author}{2}{}{%
@@ -675,8 +687,12 @@
       \field{langid}{english}
       \field{month}{2}
       \field{title}{Conceptual Model for Complex River Responses Using an Expanded {{Lane}}'s Relation}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
       \field{volume}{139--140}
       \field{year}{2012}
+      \field{urldateera}{ce}
       \field{pages}{109\bibrangedash 121}
       \range{pages}{13}
       \verb{doi}
@@ -719,7 +735,7 @@
       \field{title}{The Periglacial Environment}
       \field{year}{2017}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\NZHVVEBH\\French - 2017 - The periglacial environment.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\NZHVVEBH\\French - 2017 - The periglacial environment.pdf
       \endverb
       \keyw{,mainbib}
     \endentry
@@ -752,7 +768,7 @@
       \field{title}{Fluviální Geomorfologie}
       \field{volume}{1}
       \field{year}{2017}
-      \keyw{,mainbib}
+      \keyw{\#nosource,mainbib}
     \endentry
     \entry{gladeLandslideGeomorphologyChanging2010}{article}{}
       \name{author}{2}{}{%
@@ -785,8 +801,12 @@
       \field{month}{8}
       \field{number}{1-2}
       \field{title}{Landslide Geomorphology in a Changing Environment}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{120}
       \field{year}{2010}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 2}
       \range{pages}{2}
       \verb{doi}
@@ -912,8 +932,12 @@
       \field{month}{2}
       \field{number}{1}
       \field{title}{A New Global Ice Sheet Reconstruction for the Past 80 000 Years}
+      \field{urlday}{26}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
       \field{volume}{12}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{1199}
       \range{pages}{1}
@@ -921,9 +945,122 @@
       \verb 10.1038/s41467-021-21469-w
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Nature Communications\\2021\\Gowan et al_2021_A new global ice sheet reconstruction for the past 80 000 years.pdf;D\:\\Brezny\\Zotero\\storage\\IYQUWNHP\\s41467-021-21469-w.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Nature Communications\\2021\\Gowan et al_2021_A new global ice sheet reconstruction for the past 80 000 years.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\IYQUWNHP\\s41467-021-21469-w.html
       \endverb
       \keyw{,otherbib}
+    \endentry
+    \entry{guthDigitalElevationModels2021}{article}{}
+      \name{author}{14}{}{%
+        {{hash=acd648ae16ee49065b91303d07d8cf5f}{%
+           family={Guth},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=8a590d28b0c5be6386e42488d692ed23}{%
+           family={Van\bibnamedelima Niekerk},
+           familyi={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Adriaan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c4d53ff7ceb1ad0a61f76b5a3bdd70fe}{%
+           family={Grohmann},
+           familyi={G\bibinitperiod},
+           given={Carlos\bibnamedelima H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5c07aa3dd19e6f66bc8f96217e34484c}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={Jan-Peter},
+           giveni={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=a9f6c874e686304619883b4c9abcecc8}{%
+           family={Hawker},
+           familyi={H\bibinitperiod},
+           given={Laurence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c48cf2e7221d00d582875de18eb4b1d0}{%
+           family={Florinsky},
+           familyi={F\bibinitperiod},
+           given={Igor\bibnamedelima V.},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=c0725db8c409b50f0eb657057bd43e45}{%
+           family={Gesch},
+           familyi={G\bibinitperiod},
+           given={Dean},
+           giveni={D\bibinitperiod}}}%
+        {{hash=53f9d4faf4799f93f54bbc5d67105a26}{%
+           family={Reuter},
+           familyi={R\bibinitperiod},
+           given={Hannes\bibnamedelima I.},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=eed6911c6290d168b3250df3fae9b2d1}{%
+           family={{Herrera-Cruz}},
+           familyi={H\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod}}}%
+        {{hash=66c456fa0603d11fa261d80d8844d450}{%
+           family={Riazanoff},
+           familyi={R\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod}}}%
+        {{hash=92b8e52ab1c898b92f587629918c103a}{%
+           family={{López-Vázquez}},
+           familyi={L\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=71678240f7d6470bd0c3b8b92ce3dba3}{%
+           family={Carabajal},
+           familyi={C\bibinitperiod},
+           given={Claudia\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=cde133b14478f425ff259a40eb5e6da3}{%
+           family={Albinet},
+           familyi={A\bibinitperiod},
+           given={Clément},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a6579bd19442e114ee2c5f6edd751716}{%
+           family={Strobl},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{474006ce0961401dc5ece49f6fc112c0}
+      \strng{fullhash}{16b58afb081ea701aca04a42a1dd737c}
+      \strng{bibnamehash}{16b58afb081ea701aca04a42a1dd737c}
+      \strng{authorbibnamehash}{16b58afb081ea701aca04a42a1dd737c}
+      \strng{authornamehash}{474006ce0961401dc5ece49f6fc112c0}
+      \strng{authorfullhash}{16b58afb081ea701aca04a42a1dd737c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Digital elevation models (DEMs) provide fundamental depictions of the three-dimensional shape of the Earth's surface and are useful to a wide range of disciplines. Ideally, DEMs record the interface between the atmosphere and the lithosphere using a discrete two-dimensional grid, with complexities introduced by the intervening hydrosphere, cryosphere, biosphere, and anthroposphere. The treatment of DEM surfaces, affected by these intervening spheres, depends on their intended use, and the characteristics of the sensors that were used to create them. DEM is a general term, and more specific terms such as digital surface model (DSM) or digital terrain model (DTM) record the treatment of the intermediate surfaces. Several global DEMs generated with optical (visible and near-infrared) sensors and synthetic aperture radar (SAR), as well as single/multi-beam sonars and products of satellite altimetry, share the common characteristic of a georectified, gridded storage structure. Nevertheless, not all DEMs share the same vertical datum, not all use the same convention for the area on the ground represented by each pixel in the DEM, and some of them have variable data spacings depending on the latitude. This paper highlights the importance of knowing, understanding and reflecting on the sensor and DEM characteristics and consolidates terminology and definitions of key concepts to facilitate a common understanding among the growing community of DEM users, who do not necessarily share the same background.}
+      \field{issn}{2072-4292}
+      \field{journaltitle}{Remote Sensing}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{18}
+      \field{shorttitle}{Digital {{Elevation Models}}}
+      \field{title}{Digital {{Elevation Models}}: {{Terminology}} and {{Definitions}}}
+      \field{urlday}{16}
+      \field{urlmonth}{2}
+      \field{urlyear}{2022}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{3581}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/rs13183581
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Remote Sensing\\2021\\Guth et al_2021_Digital Elevation Models.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\QWN4LP9G\\3581.html
+      \endverb
+      \keyw{🔥,otherbib}
     \endentry
     \entry{hjulstromStudiesMorphologicalActivity1935}{book}{}
       \name{author}{1}{}{%
@@ -953,7 +1090,7 @@
       \field{title}{Studies of the Morphological Activity of Rivers as Illustrated by the River {{Fyris}}}
       \field{year}{1935}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\WSKAEG3P\\10000306587.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\WSKAEG3P\\10000306587.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -994,7 +1131,7 @@
       \verb{file}
       \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\Routledge\\2007\\Huggett_2007_Fundamentals of geomorphology.pdf
       \endverb
-      \keyw{_tablet_modified,mainbib}
+      \keyw{\_tablet\_modified,mainbib}
     \endentry
     \entry{huggettFundamentalsGeomorphology2017}{book}{}
       \name{author}{1}{}{%
@@ -1114,15 +1251,19 @@
       \field{month}{4}
       \field{number}{7856}
       \field{title}{Accelerated Global Glacier Mass Loss in the Early Twenty-First Century}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2021}
       \field{volume}{592}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \field{pages}{726\bibrangedash 731}
       \range{pages}{6}
       \verb{doi}
       \verb 10.1038/s41586-021-03436-z
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Nature\\2021\\Hugonnet et al_2021_Accelerated global glacier mass loss in the early twenty-first century.pdf;D\:\\Brezny\\Zotero\\storage\\6XVSGJ4H\\s41586-021-03436-z.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Nature\\2021\\Hugonnet et al_2021_Accelerated global glacier mass loss in the early twenty-first century.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\6XVSGJ4H\\s41586-021-03436-z.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -1163,8 +1304,12 @@
       \field{month}{4}
       \field{number}{2}
       \field{title}{The {{Varnes}} Classification of Landslide Types, an Update}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{11}
       \field{year}{2014}
+      \field{urldateera}{ce}
       \field{pages}{167\bibrangedash 194}
       \range{pages}{28}
       \verb{doi}
@@ -1198,6 +1343,9 @@
       \field{isbn}{978-0-415-33453-2}
       \field{title}{Fundamentals of Fluvial Geomorphology}
       \field{year}{2007}
+      \verb{file}
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\Routledge\\2008\\Charlton_2008_Fundamentals of fluvial geomorphology.pdf
+      \endverb
       \keyw{,mainbib}
     \endentry
     \entry{chowOpenchannelHydraulics1959}{book}{}
@@ -1272,12 +1420,16 @@
       \field{number}{678}
       \field{title}{Permafrost and Related Engineering Problems in {{Alaska}}}
       \field{type}{techreport}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2021}
       \field{year}{1969}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.3133/pp678
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Report\\U.S. Govt. Print. Off.,\\1969\\Jr et al_1969_Permafrost and related engineering problems in Alaska.pdf;D\:\\Brezny\\Zotero\\storage\\6G62ILK9\\pp678.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Report\\U.S. Govt. Print. Off.,\\1969\\Jr et al_1969_Permafrost and related engineering problems in Alaska.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\6G62ILK9\\pp678.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -1351,8 +1503,12 @@
       \field{month}{7}
       \field{number}{7}
       \field{title}{Geomorphic Imprint of Landslides on Alpine River Systems, Southwest {{New Zealand}}}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{30}
       \field{year}{2005}
+      \field{urldateera}{ce}
       \field{pages}{783\bibrangedash 800}
       \range{pages}{18}
       \verb{doi}
@@ -1786,15 +1942,19 @@
       \field{langid}{english}
       \field{month}{2}
       \field{title}{Loess Genesis and Worldwide Distribution}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{201}
       \field{year}{2020}
+      \field{urldateera}{ce}
       \field{pages}{102947}
       \range{pages}{1}
       \verb{doi}
       \verb 10.1016/j.earscirev.2019.102947
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Earth-Science Reviews\\2020\\Li et al_2020_Loess genesis and worldwide distribution.pdf;D\:\\Brezny\\Zotero\\storage\\JQBPA9JE\\S001282521930114X.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Earth-Science Reviews\\2020\\Li et al_2020_Loess genesis and worldwide distribution.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\JQBPA9JE\\S001282521930114X.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -1835,7 +1995,7 @@
       \field{title}{Aeolian Geomorphology: A New Introduction}
       \field{year}{2019}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\HD5B6FGR\\Livingstone and Warren - 2019 - Aeolian geomorphology a new introduction.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\HD5B6FGR\\Livingstone and Warren - 2019 - Aeolian geomorphology a new introduction.pdf
       \endverb
       \keyw{,mainbib}
     \endentry
@@ -1872,8 +2032,12 @@
       \field{number}{4}
       \field{shorttitle}{Appraisal of Active Tectonics in {{Hindu Kush}}}
       \field{title}{Appraisal of Active Tectonics in {{Hindu Kush}}: {{Insights}} from {{DEM}} Derived Geomorphic Indices and Drainage Analysis}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
       \field{volume}{3}
       \field{year}{2012}
+      \field{urldateera}{ce}
       \field{pages}{407\bibrangedash 428}
       \range{pages}{22}
       \verb{doi}
@@ -1915,7 +2079,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{First}
+      \field{edition}{1}
       \field{isbn}{80-88896-36-3}
       \field{langid}{slovak}
       \field{title}{{Strukturní geológia}}
@@ -1954,8 +2118,12 @@
       \field{number}{1-2}
       \field{shorttitle}{Solifluction Rates, Processes and Landforms}
       \field{title}{Solifluction Rates, Processes and Landforms: A Global Review}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{volume}{55}
       \field{year}{2001}
+      \field{urldateera}{ce}
       \field{pages}{107\bibrangedash 134}
       \range{pages}{28}
       \verb{doi}
@@ -2002,7 +2170,7 @@
       \field{year}{2009}
       \true{nocite}
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\Academic Press\\2009\\McCalpin_2009_Paleoseismology.pdf;D\:\\Brezny\\Zotero\\storage\\GUPKFKS5\\McCalpin - 2009 - Paleoseismology.pdf
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Book\\Academic Press\\2009\\McCalpin_2009_Paleoseismology.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\GUPKFKS5\\McCalpin - 2009 - Paleoseismology.pdf
       \endverb
       \keyw{,mainbib}
     \endentry
@@ -2034,7 +2202,11 @@
       \field{isbn}{978-0-12-396452-6}
       \field{langid}{english}
       \field{title}{Landslide {{Causes}} and {{Triggers}}}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
       \field{year}{2015}
+      \field{urldateera}{ce}
       \field{pages}{17\bibrangedash 42}
       \range{pages}{26}
       \verb{doi}
@@ -2107,13 +2279,17 @@
       \field{langid}{english}
       \field{shorttitle}{Identifying {{Sources}} of {{Aeolian Mineral Dust}}}
       \field{title}{Identifying {{Sources}} of {{Aeolian Mineral Dust}}: {{Present}} and {{Past}}}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{year}{2014}
+      \field{urldateera}{ce}
       \field{pages}{51\bibrangedash 74}
       \range{pages}{24}
       \verb{doi}
-      \verb 10.1007/978-94-017-8978-3_3
+      \verb 10.1007/978-94-017-8978-3\_3
       \endverb
-      \keyw{,otherbib}
+      \keyw{\#nosource,otherbib}
     \endentry
     \entry{nemcokDeleniSvahovychPohybu1974}{article}{}
       \name{author}{3}{}{%
@@ -2151,7 +2327,7 @@
       \field{year}{1974}
       \field{pages}{77\bibrangedash 93}
       \range{pages}{17}
-      \keyw{⛔ No DOI found,mainbib}
+      \keyw{\#nosource,⛔ No DOI found,mainbib}
     \endentry
     \entry{obuNorthernHemispherePermafrost2019}{article}{}
       \name{author}{21}{}{%
@@ -2279,15 +2455,19 @@
       \field{langid}{english}
       \field{month}{6}
       \field{title}{Northern {{Hemisphere}} Permafrost Map Based on {{TTOP}} Modelling for 2000–2016 at 1\,km2 Scale}
+      \field{urlday}{24}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
       \field{volume}{193}
       \field{year}{2019}
+      \field{urldateera}{ce}
       \field{pages}{299\bibrangedash 316}
       \range{pages}{18}
       \verb{doi}
       \verb 10.1016/j.earscirev.2019.04.023
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Earth-Science Reviews\\2019\\Obu et al_2019_Northern Hemisphere permafrost map based on TTOP modelling for 2000–2016 at.pdf;D\:\\Brezny\\Zotero\\storage\\JG9SGBKJ\\S0012825218305907.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Earth-Science Reviews\\2019\\Obu et al_2019_Northern Hemisphere permafrost map based on TTOP modelling for 2000–2016 at.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\JG9SGBKJ\\S0012825218305907.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2373,20 +2553,23 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Soils in the Amazon Basin are deficient in phosphorus, essential to soil fertility. Previous studies suggested that African mineral dust deposited to Amazonian soils served as an important source of phosphorus that enhances soil fertility. These studies lacked the quantitative measurements essential to validate estimates. Here we present daily measurements of mineral dust and PM10 carried in the trade winds at Cayenne, French Guiana, during 2002–2017. MERRA-2 model dust concentrations showed excellent agreement with measurements over this period. Consequently, we used MERRA-2 to estimate temporal and spatial deposition rates to Amazonia. Our annual deposition rate, 8–10 Tg dust, is substantially lower than previous estimates. Deposition rates are greatest over the northern and northeastern regions of South America. In contrast, rates are low in central Amazonia. Our results raise questions about the impact of African dust on soil fertility in Amazonia. However, African aerosol transport carries other aerosol species that could play a role in soil fertility, including biomass-burning products known to contain substantial concentrations of phosphorus. Our study highlights the need for more measurements of aerosol and precipitation chemistry over wider expanses of South America in order to better characterize aerosol chemical and physical properties, to identify aerosol sources, and to constrain model estimates. We show that over 2002–2017 dust transport to South America was negatively correlated to rainfall over the Sahel in North Africa. Long-term monitoring is needed to capture changes in transport from Africa that might occur as a result of climate change.}
-      \field{annotation}{\_eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020GB006536}
       \field{issn}{1944-9224}
       \field{journaltitle}{Global Biogeochemical Cycles}
       \field{langid}{english}
       \field{number}{9}
       \field{shorttitle}{Characterizing and {{Quantifying African Dust Transport}} and {{Deposition}} to {{South America}}}
       \field{title}{Characterizing and {{Quantifying African Dust Transport}} and {{Deposition}} to {{South America}}: {{Implications}} for the {{Phosphorus Budget}} in the {{Amazon Basin}}}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{34}
       \field{year}{2020}
+      \field{urldateera}{ce}
       \verb{doi}
       \verb 10.1029/2020gb006536
       \endverb
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\RPHLRSPJ\\2020GB006536.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\RPHLRSPJ\\2020GB006536.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2414,10 +2597,14 @@
       \field{journaltitle}{Electronic Journal of Polish Agricultural Universities}
       \field{number}{2}
       \field{title}{In {{Stream Hydraulics}}, {{Granulometry}} and {{Sediment Chemistry}} of a {{Mountain Stream Within Gravel Bar Regions}}}
+      \field{urlday}{25}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
       \field{volume}{7}
       \field{year}{2004}
+      \field{urldateera}{ce}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\8QZ5UVT4\\art-03.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\8QZ5UVT4\\art-03.html
       \endverb
       \keyw{⛔ No DOI found,otherbib}
     \endentry
@@ -2459,13 +2646,17 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
-      \field{edition}{First}
+      \field{edition}{1}
       \field{isbn}{978-1-315-12058-4}
       \field{langid}{english}
       \field{month}{9}
       \field{shorttitle}{Open {{Channel Hydraulics}}, {{River Hydraulic Structures}} and {{Fluvial Geomorphology}}}
       \field{title}{Open {{Channel Hydraulics}}, {{River Hydraulic Structures}} and {{Fluvial Geomorphology}}: {{For Engineers}}, {{Geomorphologists}} and {{Physical Geographers}}}
+      \field{urlday}{30}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
       \field{year}{2017}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{doi}
       \verb 10.1201/9781315120584
@@ -2506,7 +2697,7 @@
       \field{isbn}{0-19-874183-9}
       \field{title}{Hillslope Materials and Processes.}
       \field{year}{1993}
-      \keyw{,mainbib}
+      \keyw{\#nosource,mainbib}
     \endentry
     \entry{seyboldModelingRiverDelta2007}{article}{}
       \name{author}{3}{}{%
@@ -2549,15 +2740,19 @@
       \field{month}{10}
       \field{number}{43}
       \field{title}{Modeling River Delta Formation}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
       \field{volume}{104}
       \field{year}{2007}
+      \field{urldateera}{ce}
       \field{pages}{16804\bibrangedash 16809}
       \range{pages}{6}
       \verb{doi}
       \verb 10.1073/pnas.0705265104
       \endverb
       \verb{file}
-      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Proceedings of the National Academy of Sciences\\2007\\Seybold et al_2007_Modeling river delta formation.pdf;D\:\\Brezny\\Zotero\\storage\\P6NK5J59\\16804.html
+      \verb C\:\\Users\\Brezny\\OneDrive - Ostravska univerzita\\Zotero_attachments\\Journal Article\\Proceedings of the National Academy of Sciences\\2007\\Seybold et al_2007_Modeling river delta formation.pdf;C\:\\Users\\Brezny\\Zotero\\storage\\P6NK5J59\\16804.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2643,7 +2838,7 @@
       \field{pages}{44}
       \range{pages}{1}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\B2IE355X\\Taylor and Greene - Hydrogeologic Characterization and Methods Used in.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\B2IE355X\\Taylor and Greene - Hydrogeologic Characterization and Methods Used in.pdf
       \endverb
       \keyw{,mainbib}
     \endentry
@@ -2672,12 +2867,16 @@
       \field{number}{5}
       \field{title}{Geometry and Rates of Change of Fault-Generated Range Fronts, North-Central {{Nevada}}}
       \field{type}{Journal {{Article}}}
+      \field{urlday}{21}
+      \field{urlmonth}{12}
+      \field{urlyear}{2021}
       \field{volume}{6}
       \field{year}{1978}
+      \field{urldateera}{ce}
       \field{pages}{637649}
       \range{pages}{1}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\284QWSLZ\\report.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\284QWSLZ\\report.pdf
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2757,8 +2956,12 @@
       \field{langid}{english}
       \field{month}{2}
       \field{title}{Direct Observations of a Three Million Cubic Meter Rock-Slope Collapse with Almost Immediate Initiation of Ensuing Debris Flows}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2021}
       \field{volume}{351}
       \field{year}{2020}
+      \field{urldateera}{ce}
       \true{nocite}
       \field{pages}{106933}
       \range{pages}{1}
@@ -2806,15 +3009,19 @@
       \field{month}{7}
       \field{number}{5924}
       \field{title}{Factors Determining Desert Dune Type}
+      \field{urlday}{21}
+      \field{urlmonth}{7}
+      \field{urlyear}{2021}
       \field{volume}{304}
       \field{year}{1983}
+      \field{urldateera}{ce}
       \field{pages}{337\bibrangedash 339}
       \range{pages}{3}
       \verb{doi}
       \verb 10.1038/304337a0
       \endverb
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\MCVTHYAD\\304337a0.html
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\MCVTHYAD\\304337a0.html
       \endverb
       \keyw{,otherbib}
     \endentry
@@ -2846,7 +3053,7 @@
       \field{pages}{17}
       \range{pages}{1}
       \verb{file}
-      \verb D\:\\Brezny\\Zotero\\storage\\5QZQ9H4S\\White - Convex-Concave Landslopes A Geometrical Study.pdf
+      \verb C\:\\Users\\Brezny\\Zotero\\storage\\5QZQ9H4S\\White - Convex-Concave Landslopes A Geometrical Study.pdf
       \endverb
       \keyw{,otherbib}
     \endentry
